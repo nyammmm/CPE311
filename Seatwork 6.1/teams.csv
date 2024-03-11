@@ -1,0 +1,2956 @@
+id,year,name,park,wins,losses
+1,1871,"Boston Red Stockings","South End Grounds I",20,10
+2,1871,"Chicago White Stockings","Union Base-Ball Grounds",19,9
+3,1871,"Cleveland Forest Citys","National Association Grounds",10,19
+4,1871,"Fort Wayne Kekiongas","Hamilton Field",7,12
+5,1871,"New York Mutuals","Union Grounds (Brooklyn)",16,17
+6,1871,"Philadelphia Athletics","Jefferson Street Grounds",21,7
+7,1871,"Rockford Forest Citys","Agricultural Society Fair Grounds",4,21
+8,1871,"Troy Haymakers","Haymakers' Grounds",13,15
+9,1871,"Washington Olympics","Olympics Grounds",15,15
+10,1872,"Baltimore Canaries","Newington Park",35,19
+11,1872,"Brooklyn Eckfords","Union Grounds",3,26
+12,1872,"Brooklyn Atlantics","Capitoline Grounds",9,28
+13,1872,"Boston Red Stockings","South End Grounds I",39,8
+14,1872,"Cleveland Forest Citys","National Association Grounds",6,16
+15,1872,"Middletown Mansfields","Mansfield Club Grounds",5,19
+16,1872,"New York Mutuals","Union Grounds (Brooklyn)",34,20
+17,1872,"Philadelphia Athletics","Jefferson Street Grounds",30,14
+18,1872,"Troy Haymakers","Haymakers' Grounds",15,10
+19,1872,"Washington Olympics","Olympics Grounds",2,7
+20,1872,"Washington Nationals","Nationals Grounds",0,11
+21,1873,"Baltimore Canaries","Newington Park",34,22
+22,1873,"Baltimore Marylands","Newington Park",0,6
+23,1873,"Brooklyn Atlantics","Union Grounds",17,37
+24,1873,"Boston Red Stockings","South End Grounds I",43,16
+25,1873,"Elizabeth Resolutes","Waverly Fairgrounds",2,21
+26,1873,"New York Mutuals","Union Grounds (Brooklyn)",29,24
+27,1873,"Philadelphia Athletics","Jefferson Street Grounds",28,23
+28,1873,"Philadelphia Whites","Jefferson Street Grounds",36,17
+29,1873,"Washington Blue Legs","Olympics Grounds",8,31
+30,1874,"Baltimore Canaries","Newington Park",9,38
+31,1874,"Brooklyn Atlantics","Union Grounds",22,33
+32,1874,"Boston Red Stockings","South End Grounds I",52,18
+33,1874,"Chicago White Stockings","23rd Street Grounds",28,31
+34,1874,"Hartford Dark Blues","Hartford Ball Club Grounds",16,37
+35,1874,"New York Mutuals","Union Grounds (Brooklyn)",42,23
+36,1874,"Philadelphia Athletics","Jefferson Street Grounds",33,22
+37,1874,"Philadelphia Whites","Jefferson Street Grounds",29,29
+38,1875,"Brooklyn Atlantics","Union Grounds",2,42
+39,1875,"Boston Red Stockings","South End Grounds I",71,8
+40,1875,"Chicago White Stockings","23rd Street Grounds",30,37
+41,1875,"Hartford Dark Blues","Hartford Ball Club Grounds",54,28
+42,1875,"Keokuk Westerns","Perry Park",1,12
+43,1875,"New Haven Elm Citys","Hamilton Park",7,40
+44,1875,"New York Mutuals","Union Grounds (Brooklyn)",30,38
+45,1875,"Philadelphia Athletics","Jefferson Street Grounds",53,20
+46,1875,"Philadelphia Whites","Jefferson Street Grounds",37,31
+47,1875,"Philadelphia Centennials","Centennial Grounds",2,12
+48,1875,"St. Louis Red Stockings","Red Stocking Baseball Park",4,15
+49,1875,"St. Louis Brown Stockings","Grand Avenue Park",39,29
+50,1875,"Washington Nationals","Olympics Grounds",5,23
+51,1876,"Boston Red Caps","South End Grounds I",39,31
+52,1876,"Chicago White Stockings","23rd Street Grounds",52,14
+53,1876,"Cincinnati Reds","Avenue Grounds",9,56
+54,1876,"Hartford Dark Blues","Hartford Ball Club Grounds",47,21
+55,1876,"Louisville Grays","Louisville Baseball Park",30,36
+56,1876,"New York Mutuals","Union Grounds (Brooklyn)",21,35
+57,1876,"Philadelphia Athletics","Jefferson Street Grounds",14,45
+58,1876,"St. Louis Brown Stockings","Sportsman's Park I",45,19
+59,1877,"Boston Red Caps","South End Grounds I",42,18
+60,1877,"Chicago White Stockings","23rd Street Grounds",26,33
+61,1877,"Cincinnati Reds","Avenue Grounds",15,42
+62,1877,"Hartford Dark Blues","Union Grounds (Brooklyn)",31,27
+63,1877,"Louisville Grays","Louisville Baseball Park",35,25
+64,1877,"St. Louis Brown Stockings","Sportsman's Park I",28,32
+65,1878,"Boston Red Caps","South End Grounds I",41,19
+66,1878,"Chicago White Stockings","Lake Front Park I",30,30
+67,1878,"Cincinnati Reds","Avenue Grounds",37,23
+68,1878,"Indianapolis Blues","South Street Park",24,36
+69,1878,"Milwaukee Grays","Eclipse Park II",15,45
+70,1878,"Providence Grays","Messer Street Grounds",33,27
+71,1879,"Buffalo Bisons","Riverside Park",46,32
+72,1879,"Boston Red Caps","South End Grounds I",54,30
+73,1879,"Chicago White Stockings","Lake Front Park I",46,33
+74,1879,"Cleveland Blues","Kennard Street Park",27,55
+75,1879,"Cincinnati Reds","Avenue Grounds",43,37
+76,1879,"Providence Grays","Messer Street Grounds",59,25
+77,1879,"Syracuse Stars","Newell Park",22,48
+78,1879,"Troy Trojans","Putnam Grounds",19,56
+79,1880,"Buffalo Bisons","Riverside Park",24,58
+80,1880,"Boston Red Caps","South End Grounds I",40,44
+81,1880,"Chicago White Stockings","Lake Front Park I",67,17
+82,1880,"Cleveland Blues","Kennard Street Park",47,37
+83,1880,"Cincinnati Reds","Bank Street Grounds",21,59
+84,1880,"Providence Grays","Messer Street Grounds",52,32
+85,1880,"Troy Trojans","Haymakers' Grounds",41,42
+86,1880,"Worcester Ruby Legs","Worcester Driving Park Grounds",40,43
+87,1881,"Buffalo Bisons","Riverside Park",45,38
+88,1881,"Boston Red Caps","South End Grounds I",38,45
+89,1881,"Chicago White Stockings","Lake Front Park I",56,28
+90,1881,"Cleveland Blues","Kennard Street Park",36,48
+91,1881,"Detroit Wolverines","Recreation Park",41,43
+92,1881,"Providence Grays","Messer Street Grounds",47,37
+93,1881,"Troy Trojans","Haymakers' Grounds",39,45
+94,1881,"Worcester Ruby Legs","Worcester Driving Park Grounds",32,50
+95,1882,"Buffalo Bisons","Riverside Park",45,39
+96,1882,"Baltimore Orioles","Newington Park",19,54
+97,1882,"Boston Red Caps","South End Grounds I",45,39
+98,1882,"Chicago White Stockings","Lake Front Park I/Lake Front Park II",55,29
+99,1882,"Cleveland Blues","Kennard Street Park",42,40
+100,1882,"Cincinnati Red Stockings","Bank Street Grounds",55,25
+101,1882,"Detroit Wolverines","Recreation Park",42,41
+102,1882,"Louisville Eclipse","Eclipse Park I",42,38
+103,1882,"Philadelphia Athletics","Oakdale Park",41,34
+104,1882,"Providence Grays","Messer Street Grounds",52,32
+105,1882,"Pittsburg Alleghenys","Exposition Park I",39,39
+106,1882,"St. Louis Brown Stockings","Sportsman's Park I",37,43
+107,1882,"Troy Trojans","Troy Ball Club Grounds",35,48
+108,1882,"Worcester Ruby Legs","Worcester Driving Park Grounds",18,66
+109,1883,"Buffalo Bisons","Riverside Park",52,45
+110,1883,"Baltimore Orioles","Oriole Park",28,68
+111,1883,"Boston Beaneaters","South End Grounds I",63,35
+112,1883,"Chicago White Stockings","Lake Front Park II",59,39
+113,1883,"Cleveland Blues","Kennard Street Park",55,42
+114,1883,"Columbus Buckeyes","Recreation Park I",32,65
+115,1883,"Cincinnati Red Stockings","Bank Street Grounds",61,37
+116,1883,"Detroit Wolverines","Recreation Park",40,58
+117,1883,"Louisville Eclipse","Eclipse Park I",52,45
+118,1883,"New York Gothams","Polo Grounds I",46,50
+119,1883,"New York Metropolitans","Polo Grounds I West Diamond",54,42
+120,1883,"Philadelphia Athletics","Jefferson Street Grounds",66,32
+121,1883,"Philadelphia Quakers","Recreation Park",17,81
+122,1883,"Providence Grays","Messer Street Grounds",58,40
+123,1883,"Pittsburg Alleghenys","Exposition Park I",31,67
+124,1883,"St. Louis Browns","Sportsman's Park I",65,33
+125,1884,"Altoona Mountain City","",6,19
+126,1884,"Buffalo Bisons","Olympic Park I",64,47
+127,1884,"Baltimore Orioles","Oriole Park",63,43
+128,1884,"Baltimore Monumentals","",58,47
+129,1884,"Brooklyn Atlantics","Washington Park I",40,64
+130,1884,"Boston Beaneaters","South End Grounds I",73,38
+131,1884,"Boston Reds","",58,51
+132,1884,"Chicago White Stockings","Lake Front Park II",62,50
+133,1884,"Chicago/Pittsburgh (Union League)","",41,50
+134,1884,"Cleveland Blues","Kennard Street Park",35,77
+135,1884,"Columbus Buckeyes","Recreation Park I",69,39
+136,1884,"Cincinnati Red Stockings","League Park I in Cincinnati",68,41
+137,1884,"Cincinnati Outlaw Reds","",69,36
+138,1884,"Detroit Wolverines","Recreation Park",28,84
+139,1884,"Indianapolis Hoosiers","Seventh Street Park",29,78
+140,1884,"Kansas City Cowboys","",16,63
+141,1884,"Louisville Eclipse","Eclipse Park I",68,40
+142,1884,"Milwaukee Brewers","",8,4
+143,1884,"New York Gothams","Polo Grounds I",62,50
+144,1884,"New York Metropolitans","Polo Grounds I West Diamond",75,32
+145,1884,"Philadelphia Athletics","Jefferson Street Grounds",61,46
+146,1884,"Philadelphia Quakers","Recreation Park",39,73
+147,1884,"Philadelphia Keystones","",21,46
+148,1884,"Providence Grays","Messer Street Grounds",84,28
+149,1884,"Pittsburg Alleghenys","Recreation Park",30,78
+150,1884,"Richmond Virginians","Allen Pasture",12,30
+151,1884,"St. Louis Browns","Sportsman's Park I",67,40
+152,1884,"St. Louis Maroons","",94,19
+153,1884,"St. Paul White Caps","",2,6
+154,1884,"Toledo Blue Stockings","League Park",46,58
+155,1884,"Wilmington Quicksteps","",2,16
+156,1884,"Washington Nationals","Athletic Park",12,51
+157,1884,"Washington Nationals","",47,65
+158,1885,"Buffalo Bisons","Olympic Park I",38,74
+159,1885,"Baltimore Orioles","Oriole Park",41,68
+160,1885,"Brooklyn Grays","Washington Park I",53,59
+161,1885,"Boston Beaneaters","South End Grounds I",46,66
+162,1885,"Chicago White Stockings","West Side Park I",87,25
+163,1885,"Cincinnati Red Stockings","League Park I in Cincinnati",63,49
+164,1885,"Detroit Wolverines","Recreation Park",41,67
+165,1885,"Louisville Colonels","Eclipse Park I",53,59
+166,1885,"New York Giants","Polo Grounds I",85,27
+167,1885,"New York Metropolitans","Polo Grounds I West Diamond",44,64
+168,1885,"Philadelphia Athletics","Jefferson Street Grounds",55,57
+169,1885,"Philadelphia Quakers","Recreation Park",56,54
+170,1885,"Providence Grays","Messer Street Grounds",53,57
+171,1885,"Pittsburg Alleghenys","Recreation Park",56,55
+172,1885,"St. Louis Browns","Sportsman's Park I",79,33
+173,1885,"St. Louis Maroons","Sportsman's Park I",36,72
+174,1886,"Baltimore Orioles","Oriole Park",48,83
+175,1886,"Brooklyn Grays","Washington Park I",76,61
+176,1886,"Boston Beaneaters","South End Grounds I",56,61
+177,1886,"Chicago White Stockings","West Side Park I",90,34
+178,1886,"Cincinnati Red Stockings","League Park I in Cincinnati",65,73
+179,1886,"Detroit Wolverines","Recreation Park",87,36
+180,1886,"Kansas City Cowboys","Association Park",30,91
+181,1886,"Louisville Colonels","Eclipse Park I",66,70
+182,1886,"New York Giants","Polo Grounds I",75,44
+183,1886,"New York Metropolitans","St. George Cricket Grounds",53,82
+184,1886,"Philadelphia Athletics","Jefferson Street Grounds",63,72
+185,1886,"Philadelphia Quakers","Recreation Park",71,43
+186,1886,"Pittsburg Alleghenys","Recreation Park",80,57
+187,1886,"St. Louis Browns","Sportsman's Park I",93,46
+188,1886,"St. Louis Maroons","Sportsman's Park I",43,79
+189,1886,"Washington Nationals","Swampdoodle Grounds",28,92
+190,1887,"Baltimore Orioles","Oriole Park",77,58
+191,1887,"Brooklyn Grays","Washington Park I",60,74
+192,1887,"Boston Beaneaters","South End Grounds I",61,60
+193,1887,"Chicago White Stockings","West Side Park I",71,50
+194,1887,"Cleveland Blues","National League Park II",39,92
+195,1887,"Cincinnati Red Stockings","League Park I in Cincinnati",81,54
+196,1887,"Detroit Wolverines","Recreation Park",79,45
+197,1887,"Indianapolis Hoosiers","Athletic Park I",37,89
+198,1887,"Louisville Colonels","Eclipse Park I",76,60
+199,1887,"New York Giants","Polo Grounds I",68,55
+200,1887,"New York Metropolitans","St. George Cricket Grounds",44,89
+201,1887,"Philadelphia Athletics","Jefferson Street Grounds",64,69
+202,1887,"Philadelphia Quakers","Philadelphia Baseball Grounds",75,48
+203,1887,"Pittsburg Alleghenys","Recreation Park",55,69
+204,1887,"St. Louis Browns","Sportsman's Park I",95,40
+205,1887,"Washington Nationals","Swampdoodle Grounds",46,76
+206,1888,"Baltimore Orioles","Oriole Park",57,80
+207,1888,"Brooklyn Bridegrooms","Washington Park I",88,52
+208,1888,"Boston Beaneaters","South End Grounds II",70,64
+209,1888,"Chicago White Stockings","West Side Park I",77,58
+210,1888,"Cleveland Blues","National League Park II",50,82
+211,1888,"Cincinnati Red Stockings","League Park I in Cincinnati",80,54
+212,1888,"Detroit Wolverines","Recreation Park",68,63
+213,1888,"Indianapolis Hoosiers","Athletic Park II",50,85
+214,1888,"Kansas City Cowboys","Association Park I",43,89
+215,1888,"Louisville Colonels","Eclipse Park I",48,87
+216,1888,"New York Giants","Polo Grounds I",84,47
+217,1888,"Philadelphia Athletics","Jefferson Street Grounds",81,52
+218,1888,"Philadelphia Quakers","Philadelphia Baseball Grounds",69,61
+219,1888,"Pittsburg Alleghenys","Recreation Park",66,68
+220,1888,"St. Louis Browns","Sportsman's Park I",92,43
+221,1888,"Washington Nationals","Swampdoodle Grounds",48,86
+222,1889,"Baltimore Orioles","Oriole Park",70,65
+223,1889,"Brooklyn Bridegrooms","Washington Park I",93,44
+224,1889,"Boston Beaneaters","South End Grounds II",83,45
+225,1889,"Chicago White Stockings","West Side Park I",67,65
+226,1889,"Cleveland Spiders","National League Park",61,72
+227,1889,"Columbus Solons","Recreation Park II",60,78
+228,1889,"Cincinnati Red Stockings","League Park I in Cincinnati",76,63
+229,1889,"Indianapolis Hoosiers","Athletic Park II",59,75
+230,1889,"Kansas City Cowboys","Exposition Park",55,82
+231,1889,"Louisville Colonels","Eclipse Park I",27,111
+232,1889,"New York Giants","Polo Grounds II",83,43
+233,1889,"Philadelphia Athletics","Jefferson Street Grounds",75,58
+234,1889,"Philadelphia Quakers","Philadelphia Baseball Grounds",63,64
+235,1889,"Pittsburg Alleghenys","Recreation Park",61,71
+236,1889,"St. Louis Browns","Sportsman's Park I",90,45
+237,1889,"Washington Nationals","Swampdoodle Grounds",41,83
+238,1890,"Buffalo Bisons","",36,96
+239,1890,"Baltimore Orioles","Oriole Park",15,19
+240,1890,"Brooklyn Gladiators","Ridgewood Park",26,72
+241,1890,"Brooklyn Bridegrooms","Washington Park II",86,43
+242,1890,"Brooklyn Ward's Wonders","",76,56
+243,1890,"Boston Beaneaters","South End Grounds II",76,57
+244,1890,"Boston Reds","",81,48
+245,1890,"Chicago Colts","West Side Park I",83,53
+246,1890,"Chicago Pirates","",75,62
+247,1890,"Cincinnati Reds","League Park I in Cincinnati",77,55
+248,1890,"Cleveland Spiders","National League Park",44,88
+249,1890,"Columbus Solons","Recreation Park II",79,55
+250,1890,"Cleveland Infants","",55,75
+251,1890,"Louisville Colonels","Eclipse Park I",88,44
+252,1890,"New York Giants","Polo Grounds II",63,68
+253,1890,"New York Giants","",74,57
+254,1890,"Philadelphia Athletics","Jefferson Street Grounds",54,78
+255,1890,"Philadelphia Phillies","Philadelphia Baseball Grounds",78,53
+256,1890,"Philadelphia Athletics","",68,63
+257,1890,"Pittsburg Alleghenys","Recreation Park",23,113
+258,1890,"Pittsburgh Burghers","",60,68
+259,1890,"Rochester Broncos","Culver Field I",63,63
+260,1890,"St. Louis Browns","Sportsman's Park I",77,58
+261,1890,"Syracuse Stars","Star Park II",55,72
+262,1890,"Toledo Maumees","Speranza Park",68,64
+263,1891,"Baltimore Orioles","Union Park",71,64
+264,1891,"Brooklyn Grooms","Eastern Park",61,76
+265,1891,"Boston Reds","Congress Street Grounds",93,42
+266,1891,"Boston Beaneaters","South End Grounds II",87,51
+267,1891,"Chicago Colts","South Side Park I",82,53
+268,1891,"Cincinnati Reds","League Park I in Cincinnati",56,81
+269,1891,"Cleveland Spiders","League Park I",65,74
+270,1891,"Columbus Solons","Recreation Park II",61,76
+271,1891,"Cincinnati Kelly's Killers","East End Park",43,57
+272,1891,"Louisville Colonels","Eclipse Park I",54,83
+273,1891,"Milwaukee Brewers","Athletic Field",21,15
+274,1891,"New York Giants","Polo Grounds III",71,61
+275,1891,"Philadelphia Athletics","Athletic Park",73,66
+276,1891,"Philadelphia Phillies","Philadelphia Baseball Grounds",68,69
+277,1891,"Pittsburgh Pirates","Exposition Park",55,80
+278,1891,"St. Louis Browns","Sportsman's Park I",85,51
+279,1891,"Washington Statesmen","Boundary Field",44,91
+280,1892,"Baltimore Orioles","Union Park",46,101
+281,1892,"Brooklyn Grooms","Eastern Park",95,59
+282,1892,"Boston Beaneaters","South End Grounds II",102,48
+283,1892,"Chicago Colts","South Side Park I",70,76
+284,1892,"Cincinnati Reds","League Park I in Cincinnati",82,68
+285,1892,"Cleveland Spiders","League Park I",93,56
+286,1892,"Louisville Colonels","Eclipse Park I",63,89
+287,1892,"New York Giants","Polo Grounds III",71,80
+288,1892,"Philadelphia Phillies","Philadelphia Baseball Grounds",87,66
+289,1892,"Pittsburgh Pirates","Exposition Park",80,73
+290,1892,"St. Louis Browns","Sportsman's Park I",56,94
+291,1892,"Washington Senators","Boundary Field",58,93
+292,1893,"Baltimore Orioles","Union Park",60,70
+293,1893,"Brooklyn Grooms","Eastern Park",65,63
+294,1893,"Boston Beaneaters","South End Grounds II",86,43
+295,1893,"Chicago Colts","South Side Park I",56,71
+296,1893,"Cincinnati Reds","League Park I in Cincinnati",65,63
+297,1893,"Cleveland Spiders","League Park I",73,55
+298,1893,"Louisville Colonels","Eclipse Park II",50,75
+299,1893,"New York Giants","Polo Grounds III",68,64
+300,1893,"Philadelphia Phillies","Philadelphia Baseball Grounds",72,57
+301,1893,"Pittsburgh Pirates","Exposition Park",81,48
+302,1893,"St. Louis Browns","Robison Field",57,75
+303,1893,"Washington Senators","Boundary Field",40,89
+304,1894,"Baltimore Orioles","Union Park",89,39
+305,1894,"Brooklyn Grooms","Eastern Park",70,61
+306,1894,"Boston Beaneaters","South End Grounds II / Congress Street Grounds / South End Grounds III",83,49
+307,1894,"Chicago Colts","West Side Park II",57,75
+308,1894,"Cincinnati Reds","League Park II in Cincinnati",55,75
+309,1894,"Cleveland Spiders","League Park I",68,61
+310,1894,"Louisville Colonels","Eclipse Park II",36,94
+311,1894,"New York Giants","Polo Grounds III",88,44
+312,1894,"Philadelphia Phillies","Philadelphia Baseball Grounds",71,57
+313,1894,"Pittsburgh Pirates","Exposition Park",65,65
+314,1894,"St. Louis Browns","Robison Field",56,76
+315,1894,"Washington Senators","Boundary Field",45,87
+316,1895,"Baltimore Orioles","Union Park",87,43
+317,1895,"Brooklyn Grooms","Eastern Park",71,60
+318,1895,"Boston Beaneaters","South End Grounds III",71,60
+319,1895,"Chicago Colts","West Side Park II",72,58
+320,1895,"Cincinnati Reds","League Park II in Cincinnati",66,64
+321,1895,"Cleveland Spiders","League Park I",84,46
+322,1895,"Louisville Colonels","Eclipse Park II",35,96
+323,1895,"New York Giants","Polo Grounds III",66,65
+324,1895,"Philadelphia Phillies","Baker Bowl",78,53
+325,1895,"Pittsburgh Pirates","Exposition Park",71,61
+326,1895,"St. Louis Browns","Robison Field",39,92
+327,1895,"Washington Senators","Boundary Field",43,85
+328,1896,"Baltimore Orioles","Union Park",90,39
+329,1896,"Brooklyn Bridegrooms","Eastern Park",58,73
+330,1896,"Boston Beaneaters","South End Grounds III",74,57
+331,1896,"Chicago Colts","West Side Park II",71,57
+332,1896,"Cincinnati Reds","League Park II in Cincinnati",77,50
+333,1896,"Cleveland Spiders","League Park I",80,48
+334,1896,"Louisville Colonels","Eclipse Park II",38,93
+335,1896,"New York Giants","Polo Grounds III",64,67
+336,1896,"Philadelphia Phillies","Baker Bowl",62,68
+337,1896,"Pittsburgh Pirates","Exposition Park",66,63
+338,1896,"St. Louis Browns","Robison Field",40,90
+339,1896,"Washington Senators","Boundary Field",58,73
+340,1897,"Baltimore Orioles","Union Park",90,40
+341,1897,"Brooklyn Bridegrooms","Eastern Park",61,71
+342,1897,"Boston Beaneaters","South End Grounds III",93,39
+343,1897,"Chicago Colts","West Side Park II",59,73
+344,1897,"Cincinnati Reds","League Park II in Cincinnati",76,56
+345,1897,"Cleveland Spiders","League Park I",69,62
+346,1897,"Louisville Colonels","Eclipse Park II",52,78
+347,1897,"New York Giants","Polo Grounds III",83,48
+348,1897,"Philadelphia Phillies","Baker Bowl",55,77
+349,1897,"Pittsburgh Pirates","Exposition Park",60,71
+350,1897,"St. Louis Browns","Robison Field",29,102
+351,1897,"Washington Senators","Boundary Field",61,71
+352,1898,"Baltimore Orioles","Union Park",96,53
+353,1898,"Brooklyn Bridegrooms","Washington Park III",54,91
+354,1898,"Boston Beaneaters","South End Grounds III",102,47
+355,1898,"Chicago Orphans","West Side Park II",85,65
+356,1898,"Cincinnati Reds","League Park II in Cincinnati",92,60
+357,1898,"Cleveland Spiders","League Park I",81,68
+358,1898,"Louisville Colonels","Eclipse Park II",70,81
+359,1898,"New York Giants","Polo Grounds III",77,73
+360,1898,"Philadelphia Phillies","Baker Bowl",78,71
+361,1898,"Pittsburgh Pirates","Exposition Park",72,76
+362,1898,"St. Louis Browns","Robison Field",39,111
+363,1898,"Washington Senators","Boundary Field",51,101
+364,1899,"Baltimore Orioles","Union Park",86,62
+365,1899,"Brooklyn Superbas","Washington Park III",101,47
+366,1899,"Boston Beaneaters","South End Grounds III",95,57
+367,1899,"Chicago Orphans","West Side Park II",75,73
+368,1899,"Cincinnati Reds","League Park II in Cincinnati",83,67
+369,1899,"Cleveland Spiders","League Park I",20,134
+370,1899,"Louisville Colonels","Eclipse Park II",75,77
+371,1899,"New York Giants","Polo Grounds III",60,90
+372,1899,"Philadelphia Phillies","Baker Bowl",94,58
+373,1899,"Pittsburgh Pirates","Exposition Park",76,73
+374,1899,"St. Louis Perfectos","Robison Field",84,67
+375,1899,"Washington Senators","Boundary Field",54,98
+376,1900,"Brooklyn Superbas","Washington Park III",82,54
+377,1900,"Boston Beaneaters","South End Grounds III",66,72
+378,1900,"Chicago Orphans","West Side Park II",65,75
+379,1900,"Cincinnati Reds","League Park II in Cincinnati",62,77
+380,1900,"New York Giants","Polo Grounds III",60,78
+381,1900,"Philadelphia Phillies","Baker Bowl",75,63
+382,1900,"Pittsburgh Pirates","Exposition Park",79,60
+383,1900,"St. Louis Cardinals","Robison Field",65,75
+384,1901,"Baltimore Orioles","Oriole Park",68,65
+385,1901,"Boston Americans","Huntington Avenue Grounds",79,57
+386,1901,"Brooklyn Superbas","Washington Park III",79,57
+387,1901,"Boston Beaneaters","South End Grounds III",69,69
+388,1901,"Chicago White Sox","South Side Park II",83,53
+389,1901,"Chicago Orphans","West Side Park II",53,86
+390,1901,"Cincinnati Reds","League Park II in Cincinnati",52,87
+391,1901,"Cleveland Blues","League Park I",54,82
+392,1901,"Detroit Tigers","Bennett Park",74,61
+393,1901,"Milwaukee Brewers","Lloyd Street Grounds",48,89
+394,1901,"New York Giants","Polo Grounds III",52,85
+395,1901,"Philadelphia Athletics","Columbia Park",74,62
+396,1901,"Philadelphia Phillies","Baker Bowl",83,57
+397,1901,"Pittsburgh Pirates","Exposition Park",90,49
+398,1901,"St. Louis Cardinals","Robison Field",76,64
+399,1901,"Washington Senators","American League Park I",61,72
+400,1902,"Baltimore Orioles","Oriole Park",50,88
+401,1902,"Boston Americans","Huntington Avenue Grounds",77,60
+402,1902,"Brooklyn Superbas","Washington Park III",75,63
+403,1902,"Boston Beaneaters","South End Grounds III",73,64
+404,1902,"Chicago White Sox","South Side Park II",74,60
+405,1902,"Chicago Orphans","West Side Park II",68,69
+406,1902,"Cincinnati Reds","Palace of the Fans",70,70
+407,1902,"Cleveland Bronchos","League Park I",69,67
+408,1902,"Detroit Tigers","Bennett Park",52,83
+409,1902,"New York Giants","Polo Grounds III",48,88
+410,1902,"Philadelphia Athletics","Columbia Park",83,53
+411,1902,"Philadelphia Phillies","Baker Bowl",56,81
+412,1902,"Pittsburgh Pirates","Exposition Park",103,36
+413,1902,"St. Louis Browns","Sportsman's Park III",78,58
+414,1902,"St. Louis Cardinals","Robison Field",56,78
+415,1902,"Washington Senators","American League Park I",61,75
+416,1903,"Boston Americans","Huntington Avenue Grounds",91,47
+417,1903,"Brooklyn Superbas","Washington Park III",70,66
+418,1903,"Boston Beaneaters","South End Grounds III",58,80
+419,1903,"Chicago White Sox","South Side Park II",60,77
+420,1903,"Chicago Cubs","West Side Park II",82,56
+421,1903,"Cincinnati Reds","Palace of the Fans",74,65
+422,1903,"Cleveland Naps","League Park I",77,63
+423,1903,"Detroit Tigers","Bennett Park",65,71
+424,1903,"New York Giants","Polo Grounds III",84,55
+425,1903,"New York Highlanders","Hilltop Park",72,62
+426,1903,"Philadelphia Athletics","Columbia Park",75,60
+427,1903,"Philadelphia Phillies","Baker Bowl",49,86
+428,1903,"Pittsburgh Pirates","Exposition Park",91,49
+429,1903,"St. Louis Browns","Sportsman's Park III",65,74
+430,1903,"St. Louis Cardinals","Robison Field",43,94
+431,1903,"Washington Senators","American League Park I",43,94
+432,1904,"Boston Americans","Huntington Avenue Grounds",95,59
+433,1904,"Brooklyn Superbas","Washington Park III",56,97
+434,1904,"Boston Beaneaters","South End Grounds III",55,98
+435,1904,"Chicago White Sox","South Side Park II",89,65
+436,1904,"Chicago Cubs","West Side Park II",93,60
+437,1904,"Cincinnati Reds","Palace of the Fans",88,65
+438,1904,"Cleveland Naps","League Park I",86,65
+439,1904,"Detroit Tigers","Bennett Park",62,90
+440,1904,"New York Giants","Polo Grounds III",106,47
+441,1904,"New York Highlanders","Hilltop Park",92,59
+442,1904,"Philadelphia Athletics","Columbia Park",81,70
+443,1904,"Philadelphia Phillies","Baker Bowl",52,100
+444,1904,"Pittsburgh Pirates","Exposition Park",87,66
+445,1904,"St. Louis Browns","Sportsman's Park III",65,87
+446,1904,"St. Louis Cardinals","Robison Field",75,79
+447,1904,"Washington Senators","American League Park II",38,113
+448,1905,"Boston Americans","Huntington Avenue Grounds",78,74
+449,1905,"Brooklyn Superbas","Washington Park III",48,104
+450,1905,"Boston Beaneaters","South End Grounds III",51,103
+451,1905,"Chicago White Sox","South Side Park II",92,60
+452,1905,"Chicago Cubs","West Side Park II",92,61
+453,1905,"Cincinnati Reds","Palace of the Fans",79,74
+454,1905,"Cleveland Naps","League Park I",76,78
+455,1905,"Detroit Tigers","Bennett Park",79,74
+456,1905,"New York Giants","Polo Grounds III",105,48
+457,1905,"New York Highlanders","Hilltop Park",71,78
+458,1905,"Philadelphia Athletics","Columbia Park",92,56
+459,1905,"Philadelphia Phillies","Baker Bowl",83,69
+460,1905,"Pittsburgh Pirates","Exposition Park",96,57
+461,1905,"St. Louis Browns","Sportsman's Park III",54,99
+462,1905,"St. Louis Cardinals","Robison Field",58,96
+463,1905,"Washington Senators","American League Park II",64,87
+464,1906,"Boston Americans","Huntington Avenue Grounds",49,105
+465,1906,"Brooklyn Superbas","Washington Park III",66,86
+466,1906,"Boston Beaneaters","South End Grounds III",49,102
+467,1906,"Chicago White Sox","South Side Park II",93,58
+468,1906,"Chicago Cubs","West Side Park II",116,36
+469,1906,"Cincinnati Reds","Palace of the Fans",64,87
+470,1906,"Cleveland Naps","League Park I",89,64
+471,1906,"Detroit Tigers","Bennett Park",71,78
+472,1906,"New York Giants","Polo Grounds III",96,56
+473,1906,"New York Highlanders","Hilltop Park",90,61
+474,1906,"Philadelphia Athletics","Columbia Park",78,67
+475,1906,"Philadelphia Phillies","Baker Bowl",71,82
+476,1906,"Pittsburgh Pirates","Exposition Park",93,60
+477,1906,"St. Louis Browns","Sportsman's Park III",76,73
+478,1906,"St. Louis Cardinals","Robison Field",52,98
+479,1906,"Washington Senators","American League Park II",55,95
+480,1907,"Boston Americans","Huntington Avenue Grounds",59,90
+481,1907,"Brooklyn Superbas","Washington Park III",65,83
+482,1907,"Boston Doves","South End Grounds III",58,90
+483,1907,"Chicago White Sox","South Side Park II",87,64
+484,1907,"Chicago Cubs","West Side Park II",107,45
+485,1907,"Cincinnati Reds","Palace of the Fans",66,87
+486,1907,"Cleveland Naps","League Park I",85,67
+487,1907,"Detroit Tigers","Bennett Park",92,58
+488,1907,"New York Giants","Polo Grounds III",82,71
+489,1907,"New York Highlanders","Hilltop Park",70,78
+490,1907,"Philadelphia Athletics","Columbia Park",88,57
+491,1907,"Philadelphia Phillies","Baker Bowl",83,64
+492,1907,"Pittsburgh Pirates","Exposition Park",91,63
+493,1907,"St. Louis Browns","Sportsman's Park III",69,83
+494,1907,"St. Louis Cardinals","Robison Field",52,101
+495,1907,"Washington Senators","American League Park II",49,102
+496,1908,"Boston Red Sox","Huntington Avenue Grounds",75,79
+497,1908,"Brooklyn Superbas","Washington Park III",53,101
+498,1908,"Boston Doves","South End Grounds III",63,91
+499,1908,"Chicago White Sox","South Side Park II",88,64
+500,1908,"Chicago Cubs","West Side Park II",99,55
+501,1908,"Cincinnati Reds","Palace of the Fans",73,81
+502,1908,"Cleveland Naps","League Park I",90,64
+503,1908,"Detroit Tigers","Bennett Park",90,63
+504,1908,"New York Giants","Polo Grounds III",98,56
+505,1908,"New York Highlanders","Hilltop Park",51,103
+506,1908,"Philadelphia Athletics","Columbia Park",68,85
+507,1908,"Philadelphia Phillies","Baker Bowl",83,71
+508,1908,"Pittsburgh Pirates","Exposition Park",98,56
+509,1908,"St. Louis Browns","Sportsman's Park III",83,69
+510,1908,"St. Louis Cardinals","Robison Field",49,105
+511,1908,"Washington Senators","American League Park II",67,85
+512,1909,"Boston Red Sox","Huntington Avenue Grounds",88,63
+513,1909,"Brooklyn Superbas","Washington Park III",55,98
+514,1909,"Boston Doves","South End Grounds III",45,108
+515,1909,"Chicago White Sox","South Side Park II",78,74
+516,1909,"Chicago Cubs","West Side Park II",104,49
+517,1909,"Cincinnati Reds","Palace of the Fans",77,76
+518,1909,"Cleveland Naps","League Park I",71,82
+519,1909,"Detroit Tigers","Bennett Park",98,54
+520,1909,"New York Giants","Polo Grounds III",92,61
+521,1909,"New York Highlanders","Hilltop Park",74,77
+522,1909,"Philadelphia Athletics","Shibe Park",95,58
+523,1909,"Philadelphia Phillies","Baker Bowl",74,79
+524,1909,"Pittsburgh Pirates","Exposition Park/Forbes Field",110,42
+525,1909,"St. Louis Browns","Sportsman's Park IV",61,89
+526,1909,"St. Louis Cardinals","Robison Field",54,98
+527,1909,"Washington Senators","American League Park II",42,110
+528,1910,"Boston Red Sox","Huntington Avenue Grounds",81,72
+529,1910,"Brooklyn Superbas","Washington Park III",64,90
+530,1910,"Boston Doves","South End Grounds III",53,100
+531,1910,"Chicago White Sox","South Side Park II/Comiskey Park",68,85
+532,1910,"Chicago Cubs","West Side Park II",104,50
+533,1910,"Cincinnati Reds","Palace of the Fans",75,79
+534,1910,"Cleveland Naps","League Park II",71,81
+535,1910,"Detroit Tigers","Bennett Park",86,68
+536,1910,"New York Giants","Polo Grounds III",91,63
+537,1910,"New York Highlanders","Hilltop Park",88,63
+538,1910,"Philadelphia Athletics","Shibe Park",102,48
+539,1910,"Philadelphia Phillies","Baker Bowl",78,75
+540,1910,"Pittsburgh Pirates","Forbes Field",86,67
+541,1910,"St. Louis Browns","Sportsman's Park IV",47,107
+542,1910,"St. Louis Cardinals","Robison Field",63,90
+543,1910,"Washington Senators","American League Park II",66,85
+544,1911,"Boston Red Sox","Huntington Avenue Grounds",78,75
+545,1911,"Brooklyn Dodgers","Washington Park III",64,86
+546,1911,"Boston Rustlers","South End Grounds III",44,107
+547,1911,"Chicago White Sox","Comiskey Park",77,74
+548,1911,"Chicago Cubs","West Side Park II",92,62
+549,1911,"Cincinnati Reds","Palace of the Fans",70,83
+550,1911,"Cleveland Naps","League Park II",80,73
+551,1911,"Detroit Tigers","Bennett Park",89,65
+552,1911,"New York Giants","Polo Grounds III/Polo Grounds IV",99,54
+553,1911,"New York Highlanders","Hilltop Park",76,76
+554,1911,"Philadelphia Athletics","Shibe Park",101,50
+555,1911,"Philadelphia Phillies","Baker Bowl",79,73
+556,1911,"Pittsburgh Pirates","Forbes Field",85,69
+557,1911,"St. Louis Browns","Sportsman's Park IV",45,107
+558,1911,"St. Louis Cardinals","Robison Field",75,74
+559,1911,"Washington Senators","Griffith Stadium I",64,90
+560,1912,"Boston Red Sox","Fenway Park I",105,47
+561,1912,"Brooklyn Dodgers","Washington Park III",58,95
+562,1912,"Boston Braves","South End Grounds III",52,101
+563,1912,"Chicago White Sox","Comiskey Park",78,76
+564,1912,"Chicago Cubs","West Side Park II",91,59
+565,1912,"Cincinnati Reds","Crosley Field",75,78
+566,1912,"Cleveland Naps","League Park II",75,78
+567,1912,"Detroit Tigers","Navin Field",69,84
+568,1912,"New York Giants","Polo Grounds IV",103,48
+569,1912,"New York Highlanders","Hilltop Park",50,102
+570,1912,"Philadelphia Athletics","Shibe Park",90,62
+571,1912,"Philadelphia Phillies","Baker Bowl",73,79
+572,1912,"Pittsburgh Pirates","Forbes Field",93,58
+573,1912,"St. Louis Browns","Sportsman's Park IV",53,101
+574,1912,"St. Louis Cardinals","Robison Field",63,90
+575,1912,"Washington Senators","Griffith Stadium I",91,61
+576,1913,"Boston Red Sox","Fenway Park I",79,71
+577,1913,"Brooklyn Superbas","Ebbets Field",65,84
+578,1913,"Boston Braves","South End Grounds III",69,82
+579,1913,"Chicago White Sox","Comiskey Park",78,74
+580,1913,"Chicago Cubs","West Side Park II",88,65
+581,1913,"Cincinnati Reds","Crosley Field",64,89
+582,1913,"Cleveland Naps","League Park II",86,66
+583,1913,"Detroit Tigers","Navin Field",66,87
+584,1913,"New York Giants","Polo Grounds IV",101,51
+585,1913,"New York Yankees","Polo Grounds IV",57,94
+586,1913,"Philadelphia Athletics","Shibe Park",96,57
+587,1913,"Philadelphia Phillies","Baker Bowl",88,63
+588,1913,"Pittsburgh Pirates","Forbes Field",78,71
+589,1913,"St. Louis Browns","Sportsman's Park IV",57,96
+590,1913,"St. Louis Cardinals","Robison Field",51,99
+591,1913,"Washington Senators","Griffith Stadium I",90,64
+592,1914,"Baltimore Terrapins","",84,70
+593,1914,"Boston Red Sox","Fenway Park I",91,62
+594,1914,"Brooklyn Tip-Tops","",77,77
+595,1914,"Brooklyn Robins","Ebbets Field",75,79
+596,1914,"Boston Braves","South End Grounds III",94,59
+597,1914,"Buffalo Buffeds","",80,71
+598,1914,"Chicago White Sox","Comiskey Park",70,84
+599,1914,"Chicago Chi-Feds","Wrigley Field",87,67
+600,1914,"Chicago Cubs","West Side Park II",78,76
+601,1914,"Cincinnati Reds","Crosley Field",60,94
+602,1914,"Cleveland Naps","League Park II",51,102
+603,1914,"Detroit Tigers","Navin Field",80,73
+604,1914,"Indianapolis Hoosiers","",88,65
+605,1914,"Kansas City Packers","",67,84
+606,1914,"New York Giants","Polo Grounds IV",84,70
+607,1914,"New York Yankees","Polo Grounds IV",70,84
+608,1914,"Philadelphia Athletics","Shibe Park",99,53
+609,1914,"Philadelphia Phillies","Baker Bowl",74,80
+610,1914,"Pittsburgh Pirates","Forbes Field",69,85
+611,1914,"Pittsburgh Rebels","",64,86
+612,1914,"St. Louis Browns","Sportsman's Park IV",71,82
+613,1914,"St. Louis Terriers","",62,89
+614,1914,"St. Louis Cardinals","Robison Field",81,72
+615,1914,"Washington Senators","Griffith Stadium I",81,73
+616,1915,"Baltimore Terrapins","",47,107
+617,1915,"Boston Red Sox","Fenway Park I",101,50
+618,1915,"Brooklyn Tip-Tops","",70,82
+619,1915,"Brooklyn Robins","Ebbets Field",80,72
+620,1915,"Boston Braves","Fenway Park I / Braves Field",83,69
+621,1915,"Buffalo Blues","",74,78
+622,1915,"Chicago White Sox","Comiskey Park",93,61
+623,1915,"Chicago Whales","Wrigley Field",86,66
+624,1915,"Chicago Cubs","West Side Park II",73,80
+625,1915,"Cincinnati Reds","Crosley Field",71,83
+626,1915,"Cleveland Indians","League Park II",57,95
+627,1915,"Detroit Tigers","Navin Field",100,54
+628,1915,"Kansas City Packers","",81,72
+629,1915,"Newark Pepper","",80,72
+630,1915,"New York Giants","Polo Grounds IV",69,83
+631,1915,"New York Yankees","Polo Grounds IV",69,83
+632,1915,"Philadelphia Athletics","Shibe Park",43,109
+633,1915,"Philadelphia Phillies","Baker Bowl",90,62
+634,1915,"Pittsburgh Pirates","Forbes Field",73,81
+635,1915,"Pittsburgh Rebels","",86,67
+636,1915,"St. Louis Browns","Sportsman's Park IV",63,91
+637,1915,"St. Louis Terriers","",87,67
+638,1915,"St. Louis Cardinals","Robison Field",72,81
+639,1915,"Washington Senators","Griffith Stadium I",85,68
+640,1916,"Boston Red Sox","Fenway Park I",91,63
+641,1916,"Brooklyn Robins","Ebbets Field",94,60
+642,1916,"Boston Braves","Braves Field",89,63
+643,1916,"Chicago White Sox","Comiskey Park",89,65
+644,1916,"Chicago Cubs","Wrigley Field",67,86
+645,1916,"Cincinnati Reds","Crosley Field",60,93
+646,1916,"Cleveland Indians","League Park II",77,77
+647,1916,"Detroit Tigers","Navin Field",87,67
+648,1916,"New York Giants","Polo Grounds IV",86,66
+649,1916,"New York Yankees","Polo Grounds IV",80,74
+650,1916,"Philadelphia Athletics","Shibe Park",36,117
+651,1916,"Philadelphia Phillies","Baker Bowl",91,62
+652,1916,"Pittsburgh Pirates","Forbes Field",65,89
+653,1916,"St. Louis Browns","Sportsman's Park IV",79,75
+654,1916,"St. Louis Cardinals","Robison Field",60,93
+655,1916,"Washington Senators","Griffith Stadium I",76,77
+656,1917,"Boston Red Sox","Fenway Park I",90,62
+657,1917,"Brooklyn Robins","Ebbets Field",70,81
+658,1917,"Boston Braves","Braves Field",72,81
+659,1917,"Chicago White Sox","Comiskey Park",100,54
+660,1917,"Chicago Cubs","Wrigley Field",74,80
+661,1917,"Cincinnati Reds","Crosley Field",78,76
+662,1917,"Cleveland Indians","League Park II",88,66
+663,1917,"Detroit Tigers","Navin Field",78,75
+664,1917,"New York Giants","Polo Grounds IV",98,56
+665,1917,"New York Yankees","Polo Grounds IV",71,82
+666,1917,"Philadelphia Athletics","Shibe Park",55,98
+667,1917,"Philadelphia Phillies","Baker Bowl",87,65
+668,1917,"Pittsburgh Pirates","Forbes Field",51,103
+669,1917,"St. Louis Browns","Sportsman's Park IV",57,97
+670,1917,"St. Louis Cardinals","Robison Field",82,70
+671,1917,"Washington Senators","Griffith Stadium I",74,79
+672,1918,"Boston Red Sox","Fenway Park I",75,51
+673,1918,"Brooklyn Robins","Ebbets Field",57,69
+674,1918,"Boston Braves","Braves Field",53,71
+675,1918,"Chicago White Sox","Comiskey Park",57,67
+676,1918,"Chicago Cubs","Wrigley Field",84,45
+677,1918,"Cincinnati Reds","Crosley Field",68,60
+678,1918,"Cleveland Indians","League Park II",73,54
+679,1918,"Detroit Tigers","Navin Field",55,71
+680,1918,"New York Giants","Polo Grounds IV",71,53
+681,1918,"New York Yankees","Polo Grounds IV",60,63
+682,1918,"Philadelphia Athletics","Shibe Park",52,76
+683,1918,"Philadelphia Phillies","Baker Bowl",55,68
+684,1918,"Pittsburgh Pirates","Forbes Field",65,60
+685,1918,"St. Louis Browns","Sportsman's Park IV",58,64
+686,1918,"St. Louis Cardinals","Robison Field",51,78
+687,1918,"Washington Senators","Griffith Stadium I",72,56
+688,1919,"Boston Red Sox","Fenway Park I",66,71
+689,1919,"Brooklyn Robins","Ebbets Field",69,71
+690,1919,"Boston Braves","Braves Field",57,82
+691,1919,"Chicago White Sox","Comiskey Park",88,52
+692,1919,"Chicago Cubs","Wrigley Field",75,65
+693,1919,"Cincinnati Reds","Crosley Field",96,44
+694,1919,"Cleveland Indians","League Park II",84,55
+695,1919,"Detroit Tigers","Navin Field",80,60
+696,1919,"New York Giants","Polo Grounds IV",87,53
+697,1919,"New York Yankees","Polo Grounds IV",80,59
+698,1919,"Philadelphia Athletics","Shibe Park",36,104
+699,1919,"Philadelphia Phillies","Baker Bowl",47,90
+700,1919,"Pittsburgh Pirates","Forbes Field",71,68
+701,1919,"St. Louis Browns","Sportsman's Park IV",67,72
+702,1919,"St. Louis Cardinals","Robison Field",54,83
+703,1919,"Washington Senators","Griffith Stadium I",56,84
+704,1920,"Boston Red Sox","Fenway Park I",72,81
+705,1920,"Brooklyn Robins","Ebbets Field",93,61
+706,1920,"Boston Braves","Braves Field",62,90
+707,1920,"Chicago White Sox","Comiskey Park",96,58
+708,1920,"Chicago Cubs","Wrigley Field",75,79
+709,1920,"Cincinnati Reds","Crosley Field",82,71
+710,1920,"Cleveland Indians","League Park II",98,56
+711,1920,"Detroit Tigers","Navin Field",61,93
+712,1920,"New York Giants","Polo Grounds IV",86,68
+713,1920,"New York Yankees","Polo Grounds IV",95,59
+714,1920,"Philadelphia Athletics","Shibe Park",48,106
+715,1920,"Philadelphia Phillies","Baker Bowl",62,91
+716,1920,"Pittsburgh Pirates","Forbes Field",79,75
+717,1920,"St. Louis Browns","Sportsman's Park IV",76,77
+718,1920,"St. Louis Cardinals","Robison Field/Sportsman's Park IV",75,79
+719,1920,"Washington Senators","Griffith Stadium I",68,84
+720,1921,"Boston Red Sox","Fenway Park I",75,79
+721,1921,"Brooklyn Robins","Ebbets Field",77,75
+722,1921,"Boston Braves","Braves Field",79,74
+723,1921,"Chicago White Sox","Comiskey Park",62,92
+724,1921,"Chicago Cubs","Wrigley Field",64,89
+725,1921,"Cincinnati Reds","Crosley Field",70,83
+726,1921,"Cleveland Indians","League Park II",94,60
+727,1921,"Detroit Tigers","Navin Field",71,82
+728,1921,"New York Giants","Polo Grounds IV",94,59
+729,1921,"New York Yankees","Polo Grounds IV",98,55
+730,1921,"Philadelphia Athletics","Shibe Park",53,100
+731,1921,"Philadelphia Phillies","Baker Bowl",51,103
+732,1921,"Pittsburgh Pirates","Forbes Field",90,63
+733,1921,"St. Louis Browns","Sportsman's Park IV",81,73
+734,1921,"St. Louis Cardinals","Sportsman's Park IV",87,66
+735,1921,"Washington Senators","Griffith Stadium I",80,73
+736,1922,"Boston Red Sox","Fenway Park I",61,93
+737,1922,"Brooklyn Robins","Ebbets Field",76,78
+738,1922,"Boston Braves","Braves Field",53,100
+739,1922,"Chicago White Sox","Comiskey Park",77,77
+740,1922,"Chicago Cubs","Wrigley Field",80,74
+741,1922,"Cincinnati Reds","Crosley Field",86,68
+742,1922,"Cleveland Indians","League Park II",78,76
+743,1922,"Detroit Tigers","Navin Field",79,75
+744,1922,"New York Giants","Polo Grounds IV",93,61
+745,1922,"New York Yankees","Polo Grounds IV",94,60
+746,1922,"Philadelphia Athletics","Shibe Park",65,89
+747,1922,"Philadelphia Phillies","Baker Bowl",57,96
+748,1922,"Pittsburgh Pirates","Forbes Field",85,69
+749,1922,"St. Louis Browns","Sportsman's Park IV",93,61
+750,1922,"St. Louis Cardinals","Sportsman's Park IV",85,69
+751,1922,"Washington Senators","Griffith Stadium I",69,85
+752,1923,"Boston Red Sox","Fenway Park I",61,91
+753,1923,"Brooklyn Robins","Ebbets Field",76,78
+754,1923,"Boston Braves","Braves Field",54,100
+755,1923,"Chicago White Sox","Comiskey Park",69,85
+756,1923,"Chicago Cubs","Wrigley Field",83,71
+757,1923,"Cincinnati Reds","Crosley Field",91,63
+758,1923,"Cleveland Indians","League Park II",82,71
+759,1923,"Detroit Tigers","Navin Field",83,71
+760,1923,"New York Giants","Polo Grounds IV",95,58
+761,1923,"New York Yankees","Yankee Stadium I",98,54
+762,1923,"Philadelphia Athletics","Shibe Park",69,83
+763,1923,"Philadelphia Phillies","Baker Bowl",50,104
+764,1923,"Pittsburgh Pirates","Forbes Field",87,67
+765,1923,"St. Louis Browns","Sportsman's Park IV",74,78
+766,1923,"St. Louis Cardinals","Sportsman's Park IV",79,74
+767,1923,"Washington Senators","Griffith Stadium I",75,78
+768,1924,"Boston Red Sox","Fenway Park I",67,87
+769,1924,"Brooklyn Robins","Ebbets Field",92,62
+770,1924,"Boston Braves","Braves Field",53,100
+771,1924,"Chicago White Sox","Comiskey Park",66,87
+772,1924,"Chicago Cubs","Wrigley Field",81,72
+773,1924,"Cincinnati Reds","Crosley Field",83,70
+774,1924,"Cleveland Indians","League Park II",67,86
+775,1924,"Detroit Tigers","Navin Field",86,68
+776,1924,"New York Giants","Polo Grounds IV",93,60
+777,1924,"New York Yankees","Yankee Stadium I",89,63
+778,1924,"Philadelphia Athletics","Shibe Park",71,81
+779,1924,"Philadelphia Phillies","Baker Bowl",55,96
+780,1924,"Pittsburgh Pirates","Forbes Field",90,63
+781,1924,"St. Louis Browns","Sportsman's Park IV",74,78
+782,1924,"St. Louis Cardinals","Sportsman's Park IV",65,89
+783,1924,"Washington Senators","Griffith Stadium I",92,62
+784,1925,"Boston Red Sox","Fenway Park I",47,105
+785,1925,"Brooklyn Robins","Ebbets Field",68,85
+786,1925,"Boston Braves","Braves Field",70,83
+787,1925,"Chicago White Sox","Comiskey Park",79,75
+788,1925,"Chicago Cubs","Wrigley Field",68,86
+789,1925,"Cincinnati Reds","Crosley Field",80,73
+790,1925,"Cleveland Indians","League Park II",70,84
+791,1925,"Detroit Tigers","Navin Field",81,73
+792,1925,"New York Giants","Polo Grounds IV",86,66
+793,1925,"New York Yankees","Yankee Stadium I",69,85
+794,1925,"Philadelphia Athletics","Shibe Park",88,64
+795,1925,"Philadelphia Phillies","Baker Bowl",68,85
+796,1925,"Pittsburgh Pirates","Forbes Field",95,58
+797,1925,"St. Louis Browns","Sportsman's Park IV",82,71
+798,1925,"St. Louis Cardinals","Sportsman's Park IV",77,76
+799,1925,"Washington Senators","Griffith Stadium I",96,55
+800,1926,"Boston Red Sox","Fenway Park I",46,107
+801,1926,"Brooklyn Robins","Ebbets Field",71,82
+802,1926,"Boston Braves","Braves Field",66,86
+803,1926,"Chicago White Sox","Comiskey Park",81,72
+804,1926,"Chicago Cubs","Wrigley Field",82,72
+805,1926,"Cincinnati Reds","Crosley Field",87,67
+806,1926,"Cleveland Indians","League Park II",88,66
+807,1926,"Detroit Tigers","Navin Field",79,75
+808,1926,"New York Giants","Polo Grounds IV",74,77
+809,1926,"New York Yankees","Yankee Stadium I",91,63
+810,1926,"Philadelphia Athletics","Shibe Park",83,67
+811,1926,"Philadelphia Phillies","Baker Bowl",58,93
+812,1926,"Pittsburgh Pirates","Forbes Field",84,69
+813,1926,"St. Louis Browns","Sportsman's Park IV",62,92
+814,1926,"St. Louis Cardinals","Sportsman's Park IV",89,65
+815,1926,"Washington Senators","Griffith Stadium I",81,69
+816,1927,"Boston Red Sox","Fenway Park I",51,103
+817,1927,"Brooklyn Robins","Ebbets Field",65,88
+818,1927,"Boston Braves","Braves Field",60,94
+819,1927,"Chicago White Sox","Comiskey Park",70,83
+820,1927,"Chicago Cubs","Wrigley Field",85,68
+821,1927,"Cincinnati Reds","Crosley Field",75,78
+822,1927,"Cleveland Indians","League Park II",66,87
+823,1927,"Detroit Tigers","Navin Field",82,71
+824,1927,"New York Giants","Polo Grounds IV",92,62
+825,1927,"New York Yankees","Yankee Stadium I",110,44
+826,1927,"Philadelphia Athletics","Shibe Park",91,63
+827,1927,"Philadelphia Phillies","Baker Bowl",51,103
+828,1927,"Pittsburgh Pirates","Forbes Field",94,60
+829,1927,"St. Louis Browns","Sportsman's Park IV",59,94
+830,1927,"St. Louis Cardinals","Sportsman's Park IV",92,61
+831,1927,"Washington Senators","Griffith Stadium I",85,69
+832,1928,"Boston Red Sox","Fenway Park I",57,96
+833,1928,"Brooklyn Robins","Ebbets Field",77,76
+834,1928,"Boston Braves","Braves Field",50,103
+835,1928,"Chicago White Sox","Comiskey Park",72,82
+836,1928,"Chicago Cubs","Wrigley Field",91,63
+837,1928,"Cincinnati Reds","Crosley Field",78,74
+838,1928,"Cleveland Indians","League Park II",62,92
+839,1928,"Detroit Tigers","Navin Field",68,86
+840,1928,"New York Giants","Polo Grounds IV",93,61
+841,1928,"New York Yankees","Yankee Stadium I",101,53
+842,1928,"Philadelphia Athletics","Shibe Park",98,55
+843,1928,"Philadelphia Phillies","Baker Bowl",43,109
+844,1928,"Pittsburgh Pirates","Forbes Field",85,67
+845,1928,"St. Louis Browns","Sportsman's Park IV",82,72
+846,1928,"St. Louis Cardinals","Sportsman's Park IV",95,59
+847,1928,"Washington Senators","Griffith Stadium I",75,79
+848,1929,"Boston Red Sox","Fenway Park I",58,96
+849,1929,"Brooklyn Robins","Ebbets Field",70,83
+850,1929,"Boston Braves","Braves Field",56,98
+851,1929,"Chicago White Sox","Comiskey Park",59,93
+852,1929,"Chicago Cubs","Wrigley Field",98,54
+853,1929,"Cincinnati Reds","Crosley Field",66,88
+854,1929,"Cleveland Indians","League Park II",81,71
+855,1929,"Detroit Tigers","Navin Field",70,84
+856,1929,"New York Giants","Polo Grounds IV",84,67
+857,1929,"New York Yankees","Yankee Stadium I",88,66
+858,1929,"Philadelphia Athletics","Shibe Park",104,46
+859,1929,"Philadelphia Phillies","Baker Bowl",71,82
+860,1929,"Pittsburgh Pirates","Forbes Field",88,65
+861,1929,"St. Louis Browns","Sportsman's Park IV",79,73
+862,1929,"St. Louis Cardinals","Sportsman's Park IV",78,74
+863,1929,"Washington Senators","Griffith Stadium I",71,81
+864,1930,"Boston Red Sox","Fenway Park I",52,102
+865,1930,"Brooklyn Robins","Ebbets Field",86,68
+866,1930,"Boston Braves","Braves Field",70,84
+867,1930,"Chicago White Sox","Comiskey Park",62,92
+868,1930,"Chicago Cubs","Wrigley Field",90,64
+869,1930,"Cincinnati Reds","Crosley Field",59,95
+870,1930,"Cleveland Indians","League Park II",81,73
+871,1930,"Detroit Tigers","Navin Field",75,79
+872,1930,"New York Giants","Polo Grounds IV",87,67
+873,1930,"New York Yankees","Yankee Stadium I",86,68
+874,1930,"Philadelphia Athletics","Shibe Park",102,52
+875,1930,"Philadelphia Phillies","Baker Bowl",52,102
+876,1930,"Pittsburgh Pirates","Forbes Field",80,74
+877,1930,"St. Louis Browns","Sportsman's Park IV",64,90
+878,1930,"St. Louis Cardinals","Sportsman's Park IV",92,62
+879,1930,"Washington Senators","Griffith Stadium I",94,60
+880,1931,"Boston Red Sox","Fenway Park I",62,90
+881,1931,"Brooklyn Robins","Ebbets Field",79,73
+882,1931,"Boston Braves","Braves Field",64,90
+883,1931,"Chicago White Sox","Comiskey Park",56,97
+884,1931,"Chicago Cubs","Wrigley Field",84,70
+885,1931,"Cincinnati Reds","Crosley Field",58,96
+886,1931,"Cleveland Indians","League Park II",78,76
+887,1931,"Detroit Tigers","Navin Field",61,93
+888,1931,"New York Giants","Polo Grounds IV",87,65
+889,1931,"New York Yankees","Yankee Stadium I",94,59
+890,1931,"Philadelphia Athletics","Shibe Park",107,45
+891,1931,"Philadelphia Phillies","Baker Bowl",66,88
+892,1931,"Pittsburgh Pirates","Forbes Field",75,79
+893,1931,"St. Louis Browns","Sportsman's Park IV",63,91
+894,1931,"St. Louis Cardinals","Sportsman's Park IV",101,53
+895,1931,"Washington Senators","Griffith Stadium I",92,62
+896,1932,"Boston Red Sox","Fenway Park I",43,111
+897,1932,"Brooklyn Dodgers","Ebbets Field",81,73
+898,1932,"Boston Braves","Braves Field",77,77
+899,1932,"Chicago White Sox","Comiskey Park",49,102
+900,1932,"Chicago Cubs","Wrigley Field",90,64
+901,1932,"Cincinnati Reds","Crosley Field",60,94
+902,1932,"Cleveland Indians","League Park II/Cleveland Stadium",87,65
+903,1932,"Detroit Tigers","Navin Field",76,75
+904,1932,"New York Giants","Polo Grounds IV",72,82
+905,1932,"New York Yankees","Yankee Stadium I",107,47
+906,1932,"Philadelphia Athletics","Shibe Park",94,60
+907,1932,"Philadelphia Phillies","Baker Bowl",78,76
+908,1932,"Pittsburgh Pirates","Forbes Field",86,68
+909,1932,"St. Louis Browns","Sportsman's Park IV",63,91
+910,1932,"St. Louis Cardinals","Sportsman's Park IV",72,82
+911,1932,"Washington Senators","Griffith Stadium I",93,61
+912,1933,"Boston Red Sox","Fenway Park I",63,86
+913,1933,"Brooklyn Dodgers","Ebbets Field",65,88
+914,1933,"Boston Braves","Braves Field",83,71
+915,1933,"Chicago White Sox","Comiskey Park",67,83
+916,1933,"Chicago Cubs","Wrigley Field",86,68
+917,1933,"Cincinnati Reds","Crosley Field",58,94
+918,1933,"Cleveland Indians","League Park II/Cleveland Stadium",75,76
+919,1933,"Detroit Tigers","Navin Field",75,79
+920,1933,"New York Giants","Polo Grounds IV",91,61
+921,1933,"New York Yankees","Yankee Stadium I",91,59
+922,1933,"Philadelphia Athletics","Shibe Park",79,72
+923,1933,"Philadelphia Phillies","Baker Bowl",60,92
+924,1933,"Pittsburgh Pirates","Forbes Field",87,67
+925,1933,"St. Louis Browns","Sportsman's Park IV",55,96
+926,1933,"St. Louis Cardinals","Sportsman's Park IV",82,71
+927,1933,"Washington Senators","Griffith Stadium I",99,53
+928,1934,"Boston Red Sox","Fenway Park II",76,76
+929,1934,"Brooklyn Dodgers","Ebbets Field",71,81
+930,1934,"Boston Braves","Braves Field",78,73
+931,1934,"Chicago White Sox","Comiskey Park",53,99
+932,1934,"Chicago Cubs","Wrigley Field",86,65
+933,1934,"Cincinnati Reds","Crosley Field",52,99
+934,1934,"Cleveland Indians","League Park II/Cleveland Stadium",85,69
+935,1934,"Detroit Tigers","Navin Field",101,53
+936,1934,"New York Giants","Polo Grounds IV",93,60
+937,1934,"New York Yankees","Yankee Stadium I",94,60
+938,1934,"Philadelphia Athletics","Shibe Park",68,82
+939,1934,"Philadelphia Phillies","Baker Bowl",56,93
+940,1934,"Pittsburgh Pirates","Forbes Field",74,76
+941,1934,"St. Louis Browns","Sportsman's Park IV",67,85
+942,1934,"St. Louis Cardinals","Sportsman's Park IV",95,58
+943,1934,"Washington Senators","Griffith Stadium I",66,86
+944,1935,"Boston Red Sox","Fenway Park II",78,75
+945,1935,"Brooklyn Dodgers","Ebbets Field",70,83
+946,1935,"Boston Braves","Braves Field",38,115
+947,1935,"Chicago White Sox","Comiskey Park",74,78
+948,1935,"Chicago Cubs","Wrigley Field",100,54
+949,1935,"Cincinnati Reds","Crosley Field",68,85
+950,1935,"Cleveland Indians","League Park II/Cleveland Stadium",82,71
+951,1935,"Detroit Tigers","Navin Field",93,58
+952,1935,"New York Giants","Polo Grounds IV",91,62
+953,1935,"New York Yankees","Yankee Stadium I",89,60
+954,1935,"Philadelphia Athletics","Shibe Park",58,91
+955,1935,"Philadelphia Phillies","Baker Bowl",64,89
+956,1935,"Pittsburgh Pirates","Forbes Field",86,67
+957,1935,"St. Louis Browns","Sportsman's Park IV",65,87
+958,1935,"St. Louis Cardinals","Sportsman's Park IV",96,58
+959,1935,"Washington Senators","Griffith Stadium I",67,86
+960,1936,"Boston Red Sox","Fenway Park II",74,80
+961,1936,"Brooklyn Dodgers","Ebbets Field",67,87
+962,1936,"Boston Bees","Braves Field",71,83
+963,1936,"Chicago White Sox","Comiskey Park",81,70
+964,1936,"Chicago Cubs","Wrigley Field",87,67
+965,1936,"Cincinnati Reds","Crosley Field",74,80
+966,1936,"Cleveland Indians","League Park II/Cleveland Stadium",80,74
+967,1936,"Detroit Tigers","Navin Field",83,71
+968,1936,"New York Giants","Polo Grounds IV",92,62
+969,1936,"New York Yankees","Yankee Stadium I",102,51
+970,1936,"Philadelphia Athletics","Shibe Park",53,100
+971,1936,"Philadelphia Phillies","Baker Bowl",54,100
+972,1936,"Pittsburgh Pirates","Forbes Field",84,70
+973,1936,"St. Louis Browns","Sportsman's Park IV",57,95
+974,1936,"St. Louis Cardinals","Sportsman's Park IV",87,67
+975,1936,"Washington Senators","Griffith Stadium I",82,71
+976,1937,"Boston Red Sox","Fenway Park II",80,72
+977,1937,"Brooklyn Dodgers","Ebbets Field",62,91
+978,1937,"Boston Bees","Braves Field",79,73
+979,1937,"Chicago White Sox","Comiskey Park",86,68
+980,1937,"Chicago Cubs","Wrigley Field",93,61
+981,1937,"Cincinnati Reds","Crosley Field",56,98
+982,1937,"Cleveland Indians","League Park II/Cleveland Stadium",83,71
+983,1937,"Detroit Tigers","Navin Field",89,65
+984,1937,"New York Giants","Polo Grounds IV",95,57
+985,1937,"New York Yankees","Yankee Stadium I",102,52
+986,1937,"Philadelphia Athletics","Shibe Park",54,97
+987,1937,"Philadelphia Phillies","Baker Bowl",61,92
+988,1937,"Pittsburgh Pirates","Forbes Field",86,68
+989,1937,"St. Louis Browns","Sportsman's Park IV",46,108
+990,1937,"St. Louis Cardinals","Sportsman's Park IV",81,73
+991,1937,"Washington Senators","Griffith Stadium I",73,80
+992,1938,"Boston Red Sox","Fenway Park II",88,61
+993,1938,"Brooklyn Dodgers","Ebbets Field",69,80
+994,1938,"Boston Bees","Braves Field",77,75
+995,1938,"Chicago White Sox","Comiskey Park",65,83
+996,1938,"Chicago Cubs","Wrigley Field",89,63
+997,1938,"Cincinnati Reds","Crosley Field",82,68
+998,1938,"Cleveland Indians","League Park II/Cleveland Stadium",86,66
+999,1938,"Detroit Tigers","Briggs Stadium",84,70
+1000,1938,"New York Giants","Polo Grounds IV",83,67
+1001,1938,"New York Yankees","Yankee Stadium I",99,53
+1002,1938,"Philadelphia Athletics","Shibe Park",53,99
+1003,1938,"Philadelphia Phillies","Baker Bowl/Shibe Park",45,105
+1004,1938,"Pittsburgh Pirates","Forbes Field",86,64
+1005,1938,"St. Louis Browns","Sportsman's Park IV",55,97
+1006,1938,"St. Louis Cardinals","Sportsman's Park IV",71,80
+1007,1938,"Washington Senators","Griffith Stadium I",75,76
+1008,1939,"Boston Red Sox","Fenway Park II",89,62
+1009,1939,"Brooklyn Dodgers","Ebbets Field",84,69
+1010,1939,"Boston Bees","Braves Field",63,88
+1011,1939,"Chicago White Sox","Comiskey Park",85,69
+1012,1939,"Chicago Cubs","Wrigley Field",84,70
+1013,1939,"Cincinnati Reds","Crosley Field",97,57
+1014,1939,"Cleveland Indians","League Park II/Cleveland Stadium",87,67
+1015,1939,"Detroit Tigers","Briggs Stadium",81,73
+1016,1939,"New York Giants","Polo Grounds IV",77,74
+1017,1939,"New York Yankees","Yankee Stadium I",106,45
+1018,1939,"Philadelphia Athletics","Shibe Park",55,97
+1019,1939,"Philadelphia Phillies","Shibe Park",45,106
+1020,1939,"Pittsburgh Pirates","Forbes Field",68,85
+1021,1939,"St. Louis Browns","Sportsman's Park IV",43,111
+1022,1939,"St. Louis Cardinals","Sportsman's Park IV",92,61
+1023,1939,"Washington Senators","Griffith Stadium I",65,87
+1024,1940,"Boston Red Sox","Fenway Park II",82,72
+1025,1940,"Brooklyn Dodgers","Ebbets Field",88,65
+1026,1940,"Boston Bees","Braves Field",65,87
+1027,1940,"Chicago White Sox","Comiskey Park",82,72
+1028,1940,"Chicago Cubs","Wrigley Field",75,79
+1029,1940,"Cincinnati Reds","Crosley Field",100,53
+1030,1940,"Cleveland Indians","League Park II/Cleveland Stadium",89,65
+1031,1940,"Detroit Tigers","Briggs Stadium",90,64
+1032,1940,"New York Giants","Polo Grounds IV",72,80
+1033,1940,"New York Yankees","Yankee Stadium I",88,66
+1034,1940,"Philadelphia Athletics","Shibe Park",54,100
+1035,1940,"Philadelphia Phillies","Shibe Park",50,103
+1036,1940,"Pittsburgh Pirates","Forbes Field",78,76
+1037,1940,"St. Louis Browns","Sportsman's Park IV",67,87
+1038,1940,"St. Louis Cardinals","Sportsman's Park IV",84,69
+1039,1940,"Washington Senators","Griffith Stadium I",64,90
+1040,1941,"Boston Red Sox","Fenway Park II",84,70
+1041,1941,"Brooklyn Dodgers","Ebbets Field",100,54
+1042,1941,"Boston Braves","Braves Field",62,92
+1043,1941,"Chicago White Sox","Comiskey Park",77,77
+1044,1941,"Chicago Cubs","Wrigley Field",70,84
+1045,1941,"Cincinnati Reds","Crosley Field",88,66
+1046,1941,"Cleveland Indians","League Park II/Cleveland Stadium",75,79
+1047,1941,"Detroit Tigers","Briggs Stadium",75,79
+1048,1941,"New York Giants","Polo Grounds IV",74,79
+1049,1941,"New York Yankees","Yankee Stadium I",101,53
+1050,1941,"Philadelphia Athletics","Shibe Park",64,90
+1051,1941,"Philadelphia Phillies","Shibe Park",43,111
+1052,1941,"Pittsburgh Pirates","Forbes Field",81,73
+1053,1941,"St. Louis Browns","Sportsman's Park IV",70,84
+1054,1941,"St. Louis Cardinals","Sportsman's Park IV",97,56
+1055,1941,"Washington Senators","Griffith Stadium I",70,84
+1056,1942,"Boston Red Sox","Fenway Park II",93,59
+1057,1942,"Brooklyn Dodgers","Ebbets Field",104,50
+1058,1942,"Boston Braves","Braves Field",59,89
+1059,1942,"Chicago White Sox","Comiskey Park",66,82
+1060,1942,"Chicago Cubs","Wrigley Field",68,86
+1061,1942,"Cincinnati Reds","Crosley Field",76,76
+1062,1942,"Cleveland Indians","League Park II/Cleveland Stadium",75,79
+1063,1942,"Detroit Tigers","Briggs Stadium",73,81
+1064,1942,"New York Giants","Polo Grounds IV",85,67
+1065,1942,"New York Yankees","Yankee Stadium I",103,51
+1066,1942,"Philadelphia Athletics","Shibe Park",55,99
+1067,1942,"Philadelphia Phillies","Shibe Park",42,109
+1068,1942,"Pittsburgh Pirates","Forbes Field",66,81
+1069,1942,"St. Louis Browns","Sportsman's Park IV",82,69
+1070,1942,"St. Louis Cardinals","Sportsman's Park IV",106,48
+1071,1942,"Washington Senators","Griffith Stadium I",62,89
+1072,1943,"Boston Red Sox","Fenway Park II",68,84
+1073,1943,"Brooklyn Dodgers","Ebbets Field",81,72
+1074,1943,"Boston Braves","Braves Field",68,85
+1075,1943,"Chicago White Sox","Comiskey Park",82,72
+1076,1943,"Chicago Cubs","Wrigley Field",74,79
+1077,1943,"Cincinnati Reds","Crosley Field",87,67
+1078,1943,"Cleveland Indians","League Park II/Cleveland Stadium",82,71
+1079,1943,"Detroit Tigers","Briggs Stadium",78,76
+1080,1943,"New York Giants","Polo Grounds IV",55,98
+1081,1943,"New York Yankees","Yankee Stadium I",98,56
+1082,1943,"Philadelphia Athletics","Shibe Park",49,105
+1083,1943,"Philadelphia Blue Jays","Shibe Park",64,90
+1084,1943,"Pittsburgh Pirates","Forbes Field",80,74
+1085,1943,"St. Louis Browns","Sportsman's Park IV",72,80
+1086,1943,"St. Louis Cardinals","Sportsman's Park IV",105,49
+1087,1943,"Washington Senators","Griffith Stadium I",84,69
+1088,1944,"Boston Red Sox","Fenway Park II",77,77
+1089,1944,"Brooklyn Dodgers","Ebbets Field",63,91
+1090,1944,"Boston Braves","Braves Field",65,89
+1091,1944,"Chicago White Sox","Comiskey Park",71,83
+1092,1944,"Chicago Cubs","Wrigley Field",75,79
+1093,1944,"Cincinnati Reds","Crosley Field",89,65
+1094,1944,"Cleveland Indians","League Park II/Cleveland Stadium",72,82
+1095,1944,"Detroit Tigers","Briggs Stadium",88,66
+1096,1944,"New York Giants","Polo Grounds IV",67,87
+1097,1944,"New York Yankees","Yankee Stadium I",83,71
+1098,1944,"Philadelphia Athletics","Shibe Park",72,82
+1099,1944,"Philadelphia Blue Jays","Shibe Park",61,92
+1100,1944,"Pittsburgh Pirates","Forbes Field",90,63
+1101,1944,"St. Louis Browns","Sportsman's Park IV",89,65
+1102,1944,"St. Louis Cardinals","Sportsman's Park IV",105,49
+1103,1944,"Washington Senators","Griffith Stadium I",64,90
+1104,1945,"Boston Red Sox","Fenway Park II",71,83
+1105,1945,"Brooklyn Dodgers","Ebbets Field",87,67
+1106,1945,"Boston Braves","Braves Field",67,85
+1107,1945,"Chicago White Sox","Comiskey Park",71,78
+1108,1945,"Chicago Cubs","Wrigley Field",98,56
+1109,1945,"Cincinnati Reds","Crosley Field",61,93
+1110,1945,"Cleveland Indians","League Park II/Cleveland Stadium",73,72
+1111,1945,"Detroit Tigers","Briggs Stadium",88,65
+1112,1945,"New York Giants","Polo Grounds IV",78,74
+1113,1945,"New York Yankees","Yankee Stadium I",81,71
+1114,1945,"Philadelphia Athletics","Shibe Park",52,98
+1115,1945,"Philadelphia Phillies","Shibe Park",46,108
+1116,1945,"Pittsburgh Pirates","Forbes Field",82,72
+1117,1945,"St. Louis Browns","Sportsman's Park IV",81,70
+1118,1945,"St. Louis Cardinals","Sportsman's Park IV",95,59
+1119,1945,"Washington Senators","Griffith Stadium I",87,67
+1120,1946,"Boston Red Sox","Fenway Park II",104,50
+1121,1946,"Brooklyn Dodgers","Ebbets Field",96,60
+1122,1946,"Boston Braves","Braves Field",81,72
+1123,1946,"Chicago White Sox","Comiskey Park",74,80
+1124,1946,"Chicago Cubs","Wrigley Field",82,71
+1125,1946,"Cincinnati Reds","Crosley Field",67,87
+1126,1946,"Cleveland Indians","League Park II/Cleveland Stadium",68,86
+1127,1946,"Detroit Tigers","Briggs Stadium",92,62
+1128,1946,"New York Giants","Polo Grounds IV",61,93
+1129,1946,"New York Yankees","Yankee Stadium I",87,67
+1130,1946,"Philadelphia Athletics","Shibe Park",49,105
+1131,1946,"Philadelphia Phillies","Shibe Park",69,85
+1132,1946,"Pittsburgh Pirates","Forbes Field",63,91
+1133,1946,"St. Louis Browns","Sportsman's Park IV",66,88
+1134,1946,"St. Louis Cardinals","Sportsman's Park IV",98,58
+1135,1946,"Washington Senators","Griffith Stadium I",76,78
+1136,1947,"Boston Red Sox","Fenway Park II",83,71
+1137,1947,"Brooklyn Dodgers","Ebbets Field",94,60
+1138,1947,"Boston Braves","Braves Field",86,68
+1139,1947,"Chicago White Sox","Comiskey Park",70,84
+1140,1947,"Chicago Cubs","Wrigley Field",69,85
+1141,1947,"Cincinnati Reds","Crosley Field",73,81
+1142,1947,"Cleveland Indians","Cleveland Stadium",80,74
+1143,1947,"Detroit Tigers","Briggs Stadium",85,69
+1144,1947,"New York Giants","Polo Grounds IV",81,73
+1145,1947,"New York Yankees","Yankee Stadium I",97,57
+1146,1947,"Philadelphia Athletics","Shibe Park",78,76
+1147,1947,"Philadelphia Phillies","Shibe Park",62,92
+1148,1947,"Pittsburgh Pirates","Forbes Field",62,92
+1149,1947,"St. Louis Browns","Sportsman's Park IV",59,95
+1150,1947,"St. Louis Cardinals","Sportsman's Park IV",89,65
+1151,1947,"Washington Senators","Griffith Stadium I",64,90
+1152,1948,"Boston Red Sox","Fenway Park II",96,59
+1153,1948,"Brooklyn Dodgers","Ebbets Field",84,70
+1154,1948,"Boston Braves","Braves Field",91,62
+1155,1948,"Chicago White Sox","Comiskey Park",51,101
+1156,1948,"Chicago Cubs","Wrigley Field",64,90
+1157,1948,"Cincinnati Reds","Crosley Field",64,89
+1158,1948,"Cleveland Indians","Cleveland Stadium",97,58
+1159,1948,"Detroit Tigers","Briggs Stadium",78,76
+1160,1948,"New York Giants","Polo Grounds IV",78,76
+1161,1948,"New York Yankees","Yankee Stadium I",94,60
+1162,1948,"Philadelphia Athletics","Shibe Park",84,70
+1163,1948,"Philadelphia Phillies","Shibe Park",66,88
+1164,1948,"Pittsburgh Pirates","Forbes Field",83,71
+1165,1948,"St. Louis Browns","Sportsman's Park IV",59,94
+1166,1948,"St. Louis Cardinals","Sportsman's Park IV",85,69
+1167,1948,"Washington Senators","Griffith Stadium I",56,97
+1168,1949,"Boston Red Sox","Fenway Park II",96,58
+1169,1949,"Brooklyn Dodgers","Ebbets Field",97,57
+1170,1949,"Boston Braves","Braves Field",75,79
+1171,1949,"Chicago White Sox","Comiskey Park",63,91
+1172,1949,"Chicago Cubs","Wrigley Field",61,93
+1173,1949,"Cincinnati Reds","Crosley Field",62,92
+1174,1949,"Cleveland Indians","Cleveland Stadium",89,65
+1175,1949,"Detroit Tigers","Briggs Stadium",87,67
+1176,1949,"New York Giants","Polo Grounds IV",73,81
+1177,1949,"New York Yankees","Yankee Stadium I",97,57
+1178,1949,"Philadelphia Athletics","Shibe Park",81,73
+1179,1949,"Philadelphia Phillies","Shibe Park",81,73
+1180,1949,"Pittsburgh Pirates","Forbes Field",71,83
+1181,1949,"St. Louis Browns","Sportsman's Park IV",53,101
+1182,1949,"St. Louis Cardinals","Sportsman's Park IV",96,58
+1183,1949,"Washington Senators","Griffith Stadium I",50,104
+1184,1950,"Boston Red Sox","Fenway Park II",94,60
+1185,1950,"Brooklyn Dodgers","Ebbets Field",89,65
+1186,1950,"Boston Braves","Braves Field",83,71
+1187,1950,"Chicago White Sox","Comiskey Park",60,94
+1188,1950,"Chicago Cubs","Wrigley Field",64,89
+1189,1950,"Cincinnati Reds","Crosley Field",66,87
+1190,1950,"Cleveland Indians","Cleveland Stadium",92,62
+1191,1950,"Detroit Tigers","Briggs Stadium",95,59
+1192,1950,"New York Giants","Polo Grounds IV",86,68
+1193,1950,"New York Yankees","Yankee Stadium I",98,56
+1194,1950,"Philadelphia Athletics","Shibe Park",52,102
+1195,1950,"Philadelphia Phillies","Shibe Park",91,63
+1196,1950,"Pittsburgh Pirates","Forbes Field",57,96
+1197,1950,"St. Louis Browns","Sportsman's Park IV",58,96
+1198,1950,"St. Louis Cardinals","Sportsman's Park IV",78,75
+1199,1950,"Washington Senators","Griffith Stadium I",67,87
+1200,1951,"Boston Red Sox","Fenway Park II",87,67
+1201,1951,"Brooklyn Dodgers","Ebbets Field",97,60
+1202,1951,"Boston Braves","Braves Field",76,78
+1203,1951,"Chicago White Sox","Comiskey Park",81,73
+1204,1951,"Chicago Cubs","Wrigley Field",62,92
+1205,1951,"Cincinnati Reds","Crosley Field",68,86
+1206,1951,"Cleveland Indians","Cleveland Stadium",93,61
+1207,1951,"Detroit Tigers","Briggs Stadium",73,81
+1208,1951,"New York Giants","Polo Grounds IV",98,59
+1209,1951,"New York Yankees","Yankee Stadium I",98,56
+1210,1951,"Philadelphia Athletics","Shibe Park",70,84
+1211,1951,"Philadelphia Phillies","Shibe Park",73,81
+1212,1951,"Pittsburgh Pirates","Forbes Field",64,90
+1213,1951,"St. Louis Browns","Sportsman's Park IV",52,102
+1214,1951,"St. Louis Cardinals","Sportsman's Park IV",81,73
+1215,1951,"Washington Senators","Griffith Stadium I",62,92
+1216,1952,"Boston Red Sox","Fenway Park II",76,78
+1217,1952,"Brooklyn Dodgers","Ebbets Field",96,57
+1218,1952,"Boston Braves","Braves Field",64,89
+1219,1952,"Chicago White Sox","Comiskey Park",81,73
+1220,1952,"Chicago Cubs","Wrigley Field",77,77
+1221,1952,"Cincinnati Reds","Crosley Field",69,85
+1222,1952,"Cleveland Indians","Cleveland Stadium",93,61
+1223,1952,"Detroit Tigers","Briggs Stadium",50,104
+1224,1952,"New York Giants","Polo Grounds IV",92,62
+1225,1952,"New York Yankees","Yankee Stadium I",95,59
+1226,1952,"Philadelphia Athletics","Shibe Park",79,75
+1227,1952,"Philadelphia Phillies","Shibe Park",87,67
+1228,1952,"Pittsburgh Pirates","Forbes Field",42,112
+1229,1952,"St. Louis Browns","Sportsman's Park IV",64,90
+1230,1952,"St. Louis Cardinals","Sportsman's Park IV",88,66
+1231,1952,"Washington Senators","Griffith Stadium I",78,76
+1232,1953,"Boston Red Sox","Fenway Park II",84,69
+1233,1953,"Brooklyn Dodgers","Ebbets Field",105,49
+1234,1953,"Chicago White Sox","Comiskey Park",89,65
+1235,1953,"Chicago Cubs","Wrigley Field",65,89
+1236,1953,"Cincinnati Reds","Crosley Field",68,86
+1237,1953,"Cleveland Indians","Cleveland Stadium",92,62
+1238,1953,"Detroit Tigers","Briggs Stadium",60,94
+1239,1953,"Milwaukee Braves","County Stadium",92,62
+1240,1953,"New York Giants","Polo Grounds IV",70,84
+1241,1953,"New York Yankees","Yankee Stadium I",99,52
+1242,1953,"Philadelphia Athletics","Connie Mack Stadium",59,95
+1243,1953,"Philadelphia Phillies","Connie Mack Stadium",83,71
+1244,1953,"Pittsburgh Pirates","Forbes Field",50,104
+1245,1953,"St. Louis Browns","Sportsman's Park IV",54,100
+1246,1953,"St. Louis Cardinals","Sportsman's Park IV",83,71
+1247,1953,"Washington Senators","Griffith Stadium I",76,76
+1248,1954,"Baltimore Orioles","Memorial Stadium",54,100
+1249,1954,"Boston Red Sox","Fenway Park II",69,85
+1250,1954,"Brooklyn Dodgers","Ebbets Field",92,62
+1251,1954,"Chicago White Sox","Comiskey Park",94,60
+1252,1954,"Chicago Cubs","Wrigley Field",64,90
+1253,1954,"Cincinnati Redlegs","Crosley Field",74,80
+1254,1954,"Cleveland Indians","Cleveland Stadium",111,43
+1255,1954,"Detroit Tigers","Briggs Stadium",68,86
+1256,1954,"Milwaukee Braves","County Stadium",89,65
+1257,1954,"New York Giants","Polo Grounds IV",97,57
+1258,1954,"New York Yankees","Yankee Stadium I",103,51
+1259,1954,"Philadelphia Athletics","Connie Mack Stadium",51,103
+1260,1954,"Philadelphia Phillies","Connie Mack Stadium",75,79
+1261,1954,"Pittsburgh Pirates","Forbes Field",53,101
+1262,1954,"St. Louis Cardinals","Sportsman's Park IV",72,82
+1263,1954,"Washington Senators","Griffith Stadium I",66,88
+1264,1955,"Baltimore Orioles","Memorial Stadium",57,97
+1265,1955,"Boston Red Sox","Fenway Park II",84,70
+1266,1955,"Brooklyn Dodgers","Ebbets Field",98,55
+1267,1955,"Chicago White Sox","Comiskey Park",91,63
+1268,1955,"Chicago Cubs","Wrigley Field",72,81
+1269,1955,"Cincinnati Redlegs","Crosley Field",75,79
+1270,1955,"Cleveland Indians","Cleveland Stadium",93,61
+1271,1955,"Detroit Tigers","Briggs Stadium",79,75
+1272,1955,"Kansas City Athletics","Municipal Stadium I",63,91
+1273,1955,"Milwaukee Braves","County Stadium",85,69
+1274,1955,"New York Giants","Polo Grounds IV",80,74
+1275,1955,"New York Yankees","Yankee Stadium I",96,58
+1276,1955,"Philadelphia Phillies","Connie Mack Stadium",77,77
+1277,1955,"Pittsburgh Pirates","Forbes Field",60,94
+1278,1955,"St. Louis Cardinals","Sportsman's Park IV",68,86
+1279,1955,"Washington Senators","Griffith Stadium I",53,101
+1280,1956,"Baltimore Orioles","Memorial Stadium",69,85
+1281,1956,"Boston Red Sox","Fenway Park II",84,70
+1282,1956,"Brooklyn Dodgers","Ebbets Field",93,61
+1283,1956,"Chicago White Sox","Comiskey Park",85,69
+1284,1956,"Chicago Cubs","Wrigley Field",60,94
+1285,1956,"Cincinnati Redlegs","Crosley Field",91,63
+1286,1956,"Cleveland Indians","Cleveland Stadium",88,66
+1287,1956,"Detroit Tigers","Briggs Stadium",82,72
+1288,1956,"Kansas City Athletics","Municipal Stadium I",52,102
+1289,1956,"Milwaukee Braves","County Stadium",92,62
+1290,1956,"New York Giants","Polo Grounds IV",67,87
+1291,1956,"New York Yankees","Yankee Stadium I",97,57
+1292,1956,"Philadelphia Phillies","Connie Mack Stadium",71,83
+1293,1956,"Pittsburgh Pirates","Forbes Field",66,88
+1294,1956,"St. Louis Cardinals","Sportsman's Park IV",76,78
+1295,1956,"Washington Senators","Griffith Stadium II",59,95
+1296,1957,"Baltimore Orioles","Memorial Stadium",76,76
+1297,1957,"Boston Red Sox","Fenway Park II",82,72
+1298,1957,"Brooklyn Dodgers","Ebbets Field",84,70
+1299,1957,"Chicago White Sox","Comiskey Park",90,64
+1300,1957,"Chicago Cubs","Wrigley Field",62,92
+1301,1957,"Cincinnati Redlegs","Crosley Field",80,74
+1302,1957,"Cleveland Indians","Cleveland Stadium",76,77
+1303,1957,"Detroit Tigers","Briggs Stadium",78,76
+1304,1957,"Kansas City Athletics","Municipal Stadium I",59,94
+1305,1957,"Milwaukee Braves","County Stadium",95,59
+1306,1957,"New York Giants","Polo Grounds IV",69,85
+1307,1957,"New York Yankees","Yankee Stadium I",98,56
+1308,1957,"Philadelphia Phillies","Connie Mack Stadium",77,77
+1309,1957,"Pittsburgh Pirates","Forbes Field",62,92
+1310,1957,"St. Louis Cardinals","Sportsman's Park IV",87,67
+1311,1957,"Washington Senators","Griffith Stadium II",55,99
+1312,1958,"Baltimore Orioles","Memorial Stadium",74,79
+1313,1958,"Boston Red Sox","Fenway Park II",79,75
+1314,1958,"Chicago White Sox","Comiskey Park",82,72
+1315,1958,"Chicago Cubs","Wrigley Field",72,82
+1316,1958,"Cincinnati Redlegs","Crosley Field",76,78
+1317,1958,"Cleveland Indians","Cleveland Stadium",77,76
+1318,1958,"Detroit Tigers","Briggs Stadium",77,77
+1319,1958,"Kansas City Athletics","Municipal Stadium I",73,81
+1320,1958,"Los Angeles Dodgers","Los Angeles Memorial Coliseum",71,83
+1321,1958,"Milwaukee Braves","County Stadium",92,62
+1322,1958,"New York Yankees","Yankee Stadium I",92,62
+1323,1958,"Philadelphia Phillies","Connie Mack Stadium",69,85
+1324,1958,"Pittsburgh Pirates","Forbes Field",84,70
+1325,1958,"San Francisco Giants","Seals Stadium",80,74
+1326,1958,"St. Louis Cardinals","Sportsman's Park IV",72,82
+1327,1958,"Washington Senators","Griffith Stadium II",61,93
+1328,1959,"Baltimore Orioles","Memorial Stadium",74,80
+1329,1959,"Boston Red Sox","Fenway Park II",75,79
+1330,1959,"Chicago White Sox","Comiskey Park",94,60
+1331,1959,"Chicago Cubs","Wrigley Field",74,80
+1332,1959,"Cincinnati Redlegs","Crosley Field",74,80
+1333,1959,"Cleveland Indians","Cleveland Stadium",89,65
+1334,1959,"Detroit Tigers","Briggs Stadium",76,78
+1335,1959,"Kansas City Athletics","Municipal Stadium I",66,88
+1336,1959,"Los Angeles Dodgers","Los Angeles Memorial Coliseum",88,68
+1337,1959,"Milwaukee Braves","County Stadium",86,70
+1338,1959,"New York Yankees","Yankee Stadium I",79,75
+1339,1959,"Philadelphia Phillies","Connie Mack Stadium",64,90
+1340,1959,"Pittsburgh Pirates","Forbes Field",78,76
+1341,1959,"San Francisco Giants","Seals Stadium",83,71
+1342,1959,"St. Louis Cardinals","Sportsman's Park IV",71,83
+1343,1959,"Washington Senators","Griffith Stadium II",63,91
+1344,1960,"Baltimore Orioles","Memorial Stadium",89,65
+1345,1960,"Boston Red Sox","Fenway Park II",65,89
+1346,1960,"Chicago White Sox","Comiskey Park",87,67
+1347,1960,"Chicago Cubs","Wrigley Field",60,94
+1348,1960,"Cincinnati Reds","Crosley Field",67,87
+1349,1960,"Cleveland Indians","Cleveland Stadium",76,78
+1350,1960,"Detroit Tigers","Briggs Stadium",71,83
+1351,1960,"Kansas City Athletics","Municipal Stadium I",58,96
+1352,1960,"Los Angeles Dodgers","Los Angeles Memorial Coliseum",82,72
+1353,1960,"Milwaukee Braves","County Stadium",88,66
+1354,1960,"New York Yankees","Yankee Stadium I",97,57
+1355,1960,"Philadelphia Phillies","Connie Mack Stadium",59,95
+1356,1960,"Pittsburgh Pirates","Forbes Field",95,59
+1357,1960,"San Francisco Giants","Candlestick Park",79,75
+1358,1960,"St. Louis Cardinals","Sportsman's Park IV",86,68
+1359,1960,"Washington Senators","Griffith Stadium II",73,81
+1360,1961,"Baltimore Orioles","Memorial Stadium",95,67
+1361,1961,"Boston Red Sox","Fenway Park II",76,86
+1362,1961,"Chicago White Sox","Comiskey Park",86,76
+1363,1961,"Chicago Cubs","Wrigley Field",64,90
+1364,1961,"Cincinnati Reds","Crosley Field",93,61
+1365,1961,"Cleveland Indians","Cleveland Stadium",78,83
+1366,1961,"Detroit Tigers","Tiger Stadium",101,61
+1367,1961,"Kansas City Athletics","Municipal Stadium I",61,100
+1368,1961,"Los Angeles Angels","Wrigley Field (LA)",70,91
+1369,1961,"Los Angeles Dodgers","Los Angeles Memorial Coliseum",89,65
+1370,1961,"Minnesota Twins","Metropolitan Stadium",70,90
+1371,1961,"Milwaukee Braves","County Stadium",83,71
+1372,1961,"New York Yankees","Yankee Stadium I",109,53
+1373,1961,"Philadelphia Phillies","Connie Mack Stadium",47,107
+1374,1961,"Pittsburgh Pirates","Forbes Field",75,79
+1375,1961,"San Francisco Giants","Candlestick Park",85,69
+1376,1961,"St. Louis Cardinals","Sportsman's Park IV",80,74
+1377,1961,"Washington Senators","Griffith Stadium II",61,100
+1378,1962,"Baltimore Orioles","Memorial Stadium",77,85
+1379,1962,"Boston Red Sox","Fenway Park II",76,84
+1380,1962,"Chicago White Sox","Comiskey Park",85,77
+1381,1962,"Chicago Cubs","Wrigley Field",59,103
+1382,1962,"Cincinnati Reds","Crosley Field",98,64
+1383,1962,"Cleveland Indians","Cleveland Stadium",80,82
+1384,1962,"Detroit Tigers","Tiger Stadium",85,76
+1385,1962,"Houston Colt .45's","Colt Stadium",64,96
+1386,1962,"Kansas City Athletics","Municipal Stadium I",72,90
+1387,1962,"Los Angeles Angels","Dodger Stadium",86,76
+1388,1962,"Los Angeles Dodgers","Dodger Stadium",102,63
+1389,1962,"Minnesota Twins","Metropolitan Stadium",91,71
+1390,1962,"Milwaukee Braves","County Stadium",86,76
+1391,1962,"New York Yankees","Yankee Stadium I",96,66
+1392,1962,"New York Mets","Polo Grounds IV",40,120
+1393,1962,"Philadelphia Phillies","Connie Mack Stadium",81,80
+1394,1962,"Pittsburgh Pirates","Forbes Field",93,68
+1395,1962,"San Francisco Giants","Candlestick Park",103,62
+1396,1962,"St. Louis Cardinals","Sportsman's Park IV",84,78
+1397,1962,"Washington Senators","R.F.K. Stadium",60,101
+1398,1963,"Baltimore Orioles","Memorial Stadium",86,76
+1399,1963,"Boston Red Sox","Fenway Park II",76,85
+1400,1963,"Chicago White Sox","Comiskey Park",94,68
+1401,1963,"Chicago Cubs","Wrigley Field",82,80
+1402,1963,"Cincinnati Reds","Crosley Field",86,76
+1403,1963,"Cleveland Indians","Cleveland Stadium",79,83
+1404,1963,"Detroit Tigers","Tiger Stadium",79,83
+1405,1963,"Houston Colt .45's","Colt Stadium",66,96
+1406,1963,"Kansas City Athletics","Municipal Stadium I",73,89
+1407,1963,"Los Angeles Angels","Dodger Stadium",70,91
+1408,1963,"Los Angeles Dodgers","Dodger Stadium",99,63
+1409,1963,"Minnesota Twins","Metropolitan Stadium",91,70
+1410,1963,"Milwaukee Braves","County Stadium",84,78
+1411,1963,"New York Yankees","Yankee Stadium I",104,57
+1412,1963,"New York Mets","Polo Grounds IV",51,111
+1413,1963,"Philadelphia Phillies","Connie Mack Stadium",87,75
+1414,1963,"Pittsburgh Pirates","Forbes Field",74,88
+1415,1963,"San Francisco Giants","Candlestick Park",88,74
+1416,1963,"St. Louis Cardinals","Sportsman's Park IV",93,69
+1417,1963,"Washington Senators","R.F.K. Stadium",56,106
+1418,1964,"Baltimore Orioles","Memorial Stadium",97,65
+1419,1964,"Boston Red Sox","Fenway Park II",72,90
+1420,1964,"Chicago White Sox","Comiskey Park",98,64
+1421,1964,"Chicago Cubs","Wrigley Field",76,86
+1422,1964,"Cincinnati Reds","Crosley Field",92,70
+1423,1964,"Cleveland Indians","Cleveland Stadium",79,83
+1424,1964,"Detroit Tigers","Tiger Stadium",85,77
+1425,1964,"Houston Colt .45's","Colt Stadium",66,96
+1426,1964,"Kansas City Athletics","Municipal Stadium I",57,105
+1427,1964,"Los Angeles Angels","Dodger Stadium",82,80
+1428,1964,"Los Angeles Dodgers","Dodger Stadium",80,82
+1429,1964,"Minnesota Twins","Metropolitan Stadium",79,83
+1430,1964,"Milwaukee Braves","County Stadium",88,74
+1431,1964,"New York Yankees","Yankee Stadium I",99,63
+1432,1964,"New York Mets","Shea Stadium",53,109
+1433,1964,"Philadelphia Phillies","Connie Mack Stadium",92,70
+1434,1964,"Pittsburgh Pirates","Forbes Field",80,82
+1435,1964,"San Francisco Giants","Candlestick Park",90,72
+1436,1964,"St. Louis Cardinals","Sportsman's Park IV",93,69
+1437,1964,"Washington Senators","R.F.K. Stadium",62,100
+1438,1965,"Baltimore Orioles","Memorial Stadium",94,68
+1439,1965,"Boston Red Sox","Fenway Park II",62,100
+1440,1965,"California Angels","Dodger Stadium",75,87
+1441,1965,"Chicago White Sox","Comiskey Park",95,67
+1442,1965,"Chicago Cubs","Wrigley Field",72,90
+1443,1965,"Cincinnati Reds","Crosley Field",89,73
+1444,1965,"Cleveland Indians","Cleveland Stadium",87,75
+1445,1965,"Detroit Tigers","Tiger Stadium",89,73
+1446,1965,"Houston Astros",Astrodome,65,97
+1447,1965,"Kansas City Athletics","Municipal Stadium I",59,103
+1448,1965,"Los Angeles Dodgers","Dodger Stadium",97,65
+1449,1965,"Minnesota Twins","Metropolitan Stadium",102,60
+1450,1965,"Milwaukee Braves","County Stadium",86,76
+1451,1965,"New York Yankees","Yankee Stadium I",77,85
+1452,1965,"New York Mets","Shea Stadium",50,112
+1453,1965,"Philadelphia Phillies","Connie Mack Stadium",85,76
+1454,1965,"Pittsburgh Pirates","Forbes Field",90,72
+1455,1965,"San Francisco Giants","Candlestick Park",95,67
+1456,1965,"St. Louis Cardinals","Sportsman's Park IV",80,81
+1457,1965,"Washington Senators","R.F.K. Stadium",70,92
+1458,1966,"Atlanta Braves","Atlanta-Fulton County Stadium",85,77
+1459,1966,"Baltimore Orioles","Memorial Stadium",97,63
+1460,1966,"Boston Red Sox","Fenway Park II",72,90
+1461,1966,"California Angels","Anaheim Stadium",80,82
+1462,1966,"Chicago White Sox","Comiskey Park",83,79
+1463,1966,"Chicago Cubs","Wrigley Field",59,103
+1464,1966,"Cincinnati Reds","Crosley Field",76,84
+1465,1966,"Cleveland Indians","Cleveland Stadium",81,81
+1466,1966,"Detroit Tigers","Tiger Stadium",88,74
+1467,1966,"Houston Astros",Astrodome,72,90
+1468,1966,"Kansas City Athletics","Municipal Stadium I",74,86
+1469,1966,"Los Angeles Dodgers","Dodger Stadium",95,67
+1470,1966,"Minnesota Twins","Metropolitan Stadium",89,73
+1471,1966,"New York Yankees","Yankee Stadium I",70,89
+1472,1966,"New York Mets","Shea Stadium",66,95
+1473,1966,"Philadelphia Phillies","Connie Mack Stadium",87,75
+1474,1966,"Pittsburgh Pirates","Forbes Field",92,70
+1475,1966,"San Francisco Giants","Candlestick Park",93,68
+1476,1966,"St. Louis Cardinals","Sportsman's Park IV/Busch Stadium II",83,79
+1477,1966,"Washington Senators","R.F.K. Stadium",71,88
+1478,1967,"Atlanta Braves","Atlanta-Fulton County Stadium",77,85
+1479,1967,"Baltimore Orioles","Memorial Stadium",76,85
+1480,1967,"Boston Red Sox","Fenway Park II",92,70
+1481,1967,"California Angels","Anaheim Stadium",84,77
+1482,1967,"Chicago White Sox","Comiskey Park",89,73
+1483,1967,"Chicago Cubs","Wrigley Field",87,74
+1484,1967,"Cincinnati Reds","Crosley Field",87,75
+1485,1967,"Cleveland Indians","Cleveland Stadium",75,87
+1486,1967,"Detroit Tigers","Tiger Stadium",91,71
+1487,1967,"Houston Astros",Astrodome,69,93
+1488,1967,"Kansas City Athletics","Municipal Stadium I",62,99
+1489,1967,"Los Angeles Dodgers","Dodger Stadium",73,89
+1490,1967,"Minnesota Twins","Metropolitan Stadium",91,71
+1491,1967,"New York Yankees","Yankee Stadium I",72,90
+1492,1967,"New York Mets","Shea Stadium",61,101
+1493,1967,"Philadelphia Phillies","Connie Mack Stadium",82,80
+1494,1967,"Pittsburgh Pirates","Forbes Field",81,81
+1495,1967,"San Francisco Giants","Candlestick Park",91,71
+1496,1967,"St. Louis Cardinals","Busch Stadium II",101,60
+1497,1967,"Washington Senators","R.F.K. Stadium",76,85
+1498,1968,"Atlanta Braves","Atlanta-Fulton County Stadium",81,81
+1499,1968,"Baltimore Orioles","Memorial Stadium",91,71
+1500,1968,"Boston Red Sox","Fenway Park II",86,76
+1501,1968,"California Angels","Anaheim Stadium",67,95
+1502,1968,"Chicago White Sox","Comiskey Park",67,95
+1503,1968,"Chicago Cubs","Wrigley Field",84,78
+1504,1968,"Cincinnati Reds","Crosley Field",83,79
+1505,1968,"Cleveland Indians","Cleveland Stadium",86,75
+1506,1968,"Detroit Tigers","Tiger Stadium",103,59
+1507,1968,"Houston Astros",Astrodome,72,90
+1508,1968,"Los Angeles Dodgers","Dodger Stadium",76,86
+1509,1968,"Minnesota Twins","Metropolitan Stadium",79,83
+1510,1968,"New York Yankees","Yankee Stadium I",83,79
+1511,1968,"New York Mets","Shea Stadium",73,89
+1512,1968,"Oakland Athletics","Oakland Coliseum",82,80
+1513,1968,"Philadelphia Phillies","Connie Mack Stadium",76,86
+1514,1968,"Pittsburgh Pirates","Forbes Field",80,82
+1515,1968,"San Francisco Giants","Candlestick Park",88,74
+1516,1968,"St. Louis Cardinals","Busch Stadium II",97,65
+1517,1968,"Washington Senators","R.F.K. Stadium",65,96
+1518,1969,"Atlanta Braves","Atlanta-Fulton County Stadium",93,69
+1519,1969,"Baltimore Orioles","Memorial Stadium",109,53
+1520,1969,"Boston Red Sox","Fenway Park II",87,75
+1521,1969,"California Angels","Anaheim Stadium",71,91
+1522,1969,"Chicago White Sox","Comiskey Park",68,94
+1523,1969,"Chicago Cubs","Wrigley Field",92,70
+1524,1969,"Cincinnati Reds","Crosley Field",89,73
+1525,1969,"Cleveland Indians","Cleveland Stadium",62,99
+1526,1969,"Detroit Tigers","Tiger Stadium",90,72
+1527,1969,"Houston Astros",Astrodome,81,81
+1528,1969,"Kansas City Royals","Municipal Stadium II",69,93
+1529,1969,"Los Angeles Dodgers","Dodger Stadium",85,77
+1530,1969,"Minnesota Twins","Metropolitan Stadium",97,65
+1531,1969,"Montreal Expos","Jarry Park",52,110
+1532,1969,"New York Yankees","Yankee Stadium I",80,81
+1533,1969,"New York Mets","Shea Stadium",100,62
+1534,1969,"Oakland Athletics","Oakland Coliseum",88,74
+1535,1969,"Philadelphia Phillies","Connie Mack Stadium",63,99
+1536,1969,"Pittsburgh Pirates","Forbes Field",88,74
+1537,1969,"San Diego Padres","Jack Murphy Stadium",52,110
+1538,1969,"Seattle Pilots","Sicks Stadium",64,98
+1539,1969,"San Francisco Giants","Candlestick Park",90,72
+1540,1969,"St. Louis Cardinals","Busch Stadium II",87,75
+1541,1969,"Washington Senators","R.F.K. Stadium",86,76
+1542,1970,"Atlanta Braves","Atlanta-Fulton County Stadium",76,86
+1543,1970,"Baltimore Orioles","Memorial Stadium",108,54
+1544,1970,"Boston Red Sox","Fenway Park II",87,75
+1545,1970,"California Angels","Anaheim Stadium",86,76
+1546,1970,"Chicago White Sox","Comiskey Park",56,106
+1547,1970,"Chicago Cubs","Wrigley Field",84,78
+1548,1970,"Cincinnati Reds","Crosley Field/Riverfront Stadium",102,60
+1549,1970,"Cleveland Indians","Cleveland Stadium",76,86
+1550,1970,"Detroit Tigers","Tiger Stadium",79,83
+1551,1970,"Houston Astros",Astrodome,79,83
+1552,1970,"Kansas City Royals","Municipal Stadium II",65,97
+1553,1970,"Los Angeles Dodgers","Dodger Stadium",87,74
+1554,1970,"Minnesota Twins","Metropolitan Stadium",98,64
+1555,1970,"Milwaukee Brewers","County Stadium",65,97
+1556,1970,"Montreal Expos","Jarry Park",73,89
+1557,1970,"New York Yankees","Yankee Stadium I",93,69
+1558,1970,"New York Mets","Shea Stadium",83,79
+1559,1970,"Oakland Athletics","Oakland Coliseum",89,73
+1560,1970,"Philadelphia Phillies","Connie Mack Stadium",73,88
+1561,1970,"Pittsburgh Pirates","Forbes Field/Three Rivers Stadium",89,73
+1562,1970,"San Diego Padres","Jack Murphy Stadium",63,99
+1563,1970,"San Francisco Giants","Candlestick Park",86,76
+1564,1970,"St. Louis Cardinals","Busch Stadium II",76,86
+1565,1970,"Washington Senators","R.F.K. Stadium",70,92
+1566,1971,"Atlanta Braves","Atlanta-Fulton County Stadium",82,80
+1567,1971,"Baltimore Orioles","Memorial Stadium",101,57
+1568,1971,"Boston Red Sox","Fenway Park II",85,77
+1569,1971,"California Angels","Anaheim Stadium",76,86
+1570,1971,"Chicago White Sox","Comiskey Park",79,83
+1571,1971,"Chicago Cubs","Wrigley Field",83,79
+1572,1971,"Cincinnati Reds","Riverfront Stadium",79,83
+1573,1971,"Cleveland Indians","Cleveland Stadium",60,102
+1574,1971,"Detroit Tigers","Tiger Stadium",91,71
+1575,1971,"Houston Astros",Astrodome,79,83
+1576,1971,"Kansas City Royals","Municipal Stadium II",85,76
+1577,1971,"Los Angeles Dodgers","Dodger Stadium",89,73
+1578,1971,"Minnesota Twins","Metropolitan Stadium",74,86
+1579,1971,"Milwaukee Brewers","County Stadium",69,92
+1580,1971,"Montreal Expos","Jarry Park",71,90
+1581,1971,"New York Yankees","Yankee Stadium I",82,80
+1582,1971,"New York Mets","Shea Stadium",83,79
+1583,1971,"Oakland Athletics","Oakland Coliseum",101,60
+1584,1971,"Philadelphia Phillies","Veterans Stadium",67,95
+1585,1971,"Pittsburgh Pirates","Three Rivers Stadium",97,65
+1586,1971,"San Diego Padres","Jack Murphy Stadium",61,100
+1587,1971,"San Francisco Giants","Candlestick Park",90,72
+1588,1971,"St. Louis Cardinals","Busch Stadium II",90,72
+1589,1971,"Washington Senators","R.F.K. Stadium",63,96
+1590,1972,"Atlanta Braves","Atlanta-Fulton County Stadium",70,84
+1591,1972,"Baltimore Orioles","Memorial Stadium",80,74
+1592,1972,"Boston Red Sox","Fenway Park II",85,70
+1593,1972,"California Angels","Anaheim Stadium",75,80
+1594,1972,"Chicago White Sox","Comiskey Park",87,67
+1595,1972,"Chicago Cubs","Wrigley Field",85,70
+1596,1972,"Cincinnati Reds","Riverfront Stadium",95,59
+1597,1972,"Cleveland Indians","Cleveland Stadium",72,84
+1598,1972,"Detroit Tigers","Tiger Stadium",86,70
+1599,1972,"Houston Astros",Astrodome,84,69
+1600,1972,"Kansas City Royals","Municipal Stadium II",76,78
+1601,1972,"Los Angeles Dodgers","Dodger Stadium",85,70
+1602,1972,"Minnesota Twins","Metropolitan Stadium",77,77
+1603,1972,"Milwaukee Brewers","County Stadium",65,91
+1604,1972,"Montreal Expos","Jarry Park",70,86
+1605,1972,"New York Yankees","Yankee Stadium I",79,76
+1606,1972,"New York Mets","Shea Stadium",83,73
+1607,1972,"Oakland Athletics","Oakland Coliseum",93,62
+1608,1972,"Philadelphia Phillies","Veterans Stadium",59,97
+1609,1972,"Pittsburgh Pirates","Three Rivers Stadium",96,59
+1610,1972,"San Diego Padres","Jack Murphy Stadium",58,95
+1611,1972,"San Francisco Giants","Candlestick Park",69,86
+1612,1972,"St. Louis Cardinals","Busch Stadium II",75,81
+1613,1972,"Texas Rangers","Arlington Stadium",54,100
+1614,1973,"Atlanta Braves","Atlanta-Fulton County Stadium",76,85
+1615,1973,"Baltimore Orioles","Memorial Stadium",97,65
+1616,1973,"Boston Red Sox","Fenway Park II",89,73
+1617,1973,"California Angels","Anaheim Stadium",79,83
+1618,1973,"Chicago White Sox","Comiskey Park",77,85
+1619,1973,"Chicago Cubs","Wrigley Field",77,84
+1620,1973,"Cincinnati Reds","Riverfront Stadium",99,63
+1621,1973,"Cleveland Indians","Cleveland Stadium",71,91
+1622,1973,"Detroit Tigers","Tiger Stadium",85,77
+1623,1973,"Houston Astros",Astrodome,82,80
+1624,1973,"Kansas City Royals","Royals Stadium",88,74
+1625,1973,"Los Angeles Dodgers","Dodger Stadium",95,66
+1626,1973,"Minnesota Twins","Metropolitan Stadium",81,81
+1627,1973,"Milwaukee Brewers","County Stadium",74,88
+1628,1973,"Montreal Expos","Jarry Park",79,83
+1629,1973,"New York Yankees","Yankee Stadium I",80,82
+1630,1973,"New York Mets","Shea Stadium",82,79
+1631,1973,"Oakland Athletics","Oakland Coliseum",94,68
+1632,1973,"Philadelphia Phillies","Veterans Stadium",71,91
+1633,1973,"Pittsburgh Pirates","Three Rivers Stadium",80,82
+1634,1973,"San Diego Padres","Jack Murphy Stadium",60,102
+1635,1973,"San Francisco Giants","Candlestick Park",88,74
+1636,1973,"St. Louis Cardinals","Busch Stadium II",81,81
+1637,1973,"Texas Rangers","Arlington Stadium",57,105
+1638,1974,"Atlanta Braves","Atlanta-Fulton County Stadium",88,74
+1639,1974,"Baltimore Orioles","Memorial Stadium",91,71
+1640,1974,"Boston Red Sox","Fenway Park II",84,78
+1641,1974,"California Angels","Anaheim Stadium",68,94
+1642,1974,"Chicago White Sox","Comiskey Park",80,80
+1643,1974,"Chicago Cubs","Wrigley Field",66,96
+1644,1974,"Cincinnati Reds","Riverfront Stadium",98,64
+1645,1974,"Cleveland Indians","Cleveland Stadium",77,85
+1646,1974,"Detroit Tigers","Tiger Stadium",72,90
+1647,1974,"Houston Astros",Astrodome,81,81
+1648,1974,"Kansas City Royals","Royals Stadium",77,85
+1649,1974,"Los Angeles Dodgers","Dodger Stadium",102,60
+1650,1974,"Minnesota Twins","Metropolitan Stadium",82,80
+1651,1974,"Milwaukee Brewers","County Stadium",76,86
+1652,1974,"Montreal Expos","Jarry Park",79,82
+1653,1974,"New York Yankees","Shea Stadium",89,73
+1654,1974,"New York Mets","Shea Stadium",71,91
+1655,1974,"Oakland Athletics","Oakland Coliseum",90,72
+1656,1974,"Philadelphia Phillies","Veterans Stadium",80,82
+1657,1974,"Pittsburgh Pirates","Three Rivers Stadium",88,74
+1658,1974,"San Diego Padres","Jack Murphy Stadium",60,102
+1659,1974,"San Francisco Giants","Candlestick Park",72,90
+1660,1974,"St. Louis Cardinals","Busch Stadium II",86,75
+1661,1974,"Texas Rangers","Arlington Stadium",84,76
+1662,1975,"Atlanta Braves","Atlanta-Fulton County Stadium",67,94
+1663,1975,"Baltimore Orioles","Memorial Stadium",90,69
+1664,1975,"Boston Red Sox","Fenway Park II",95,65
+1665,1975,"California Angels","Anaheim Stadium",72,89
+1666,1975,"Chicago White Sox","Comiskey Park",75,86
+1667,1975,"Chicago Cubs","Wrigley Field",75,87
+1668,1975,"Cincinnati Reds","Riverfront Stadium",108,54
+1669,1975,"Cleveland Indians","Cleveland Stadium",79,80
+1670,1975,"Detroit Tigers","Tiger Stadium",57,102
+1671,1975,"Houston Astros",Astrodome,64,97
+1672,1975,"Kansas City Royals","Royals Stadium",91,71
+1673,1975,"Los Angeles Dodgers","Dodger Stadium",88,74
+1674,1975,"Minnesota Twins","Metropolitan Stadium",76,83
+1675,1975,"Milwaukee Brewers","County Stadium",68,94
+1676,1975,"Montreal Expos","Jarry Park",75,87
+1677,1975,"New York Yankees","Shea Stadium",83,77
+1678,1975,"New York Mets","Shea Stadium",82,80
+1679,1975,"Oakland Athletics","Oakland Coliseum",98,64
+1680,1975,"Philadelphia Phillies","Veterans Stadium",86,76
+1681,1975,"Pittsburgh Pirates","Three Rivers Stadium",92,69
+1682,1975,"San Diego Padres","Jack Murphy Stadium",71,91
+1683,1975,"San Francisco Giants","Candlestick Park",80,81
+1684,1975,"St. Louis Cardinals","Busch Stadium II",82,80
+1685,1975,"Texas Rangers","Arlington Stadium",79,83
+1686,1976,"Atlanta Braves","Atlanta-Fulton County Stadium",70,92
+1687,1976,"Baltimore Orioles","Memorial Stadium",88,74
+1688,1976,"Boston Red Sox","Fenway Park II",83,79
+1689,1976,"California Angels","Anaheim Stadium",76,86
+1690,1976,"Chicago White Sox","Comiskey Park",64,97
+1691,1976,"Chicago Cubs","Wrigley Field",75,87
+1692,1976,"Cincinnati Reds","Riverfront Stadium",102,60
+1693,1976,"Cleveland Indians","Cleveland Stadium",81,78
+1694,1976,"Detroit Tigers","Tiger Stadium",74,87
+1695,1976,"Houston Astros",Astrodome,80,82
+1696,1976,"Kansas City Royals","Royals Stadium",90,72
+1697,1976,"Los Angeles Dodgers","Dodger Stadium",92,70
+1698,1976,"Minnesota Twins","Metropolitan Stadium",85,77
+1699,1976,"Milwaukee Brewers","County Stadium",66,95
+1700,1976,"Montreal Expos","Jarry Park",55,107
+1701,1976,"New York Yankees","Yankee Stadium II",97,62
+1702,1976,"New York Mets","Shea Stadium",86,76
+1703,1976,"Oakland Athletics","Oakland Coliseum",87,74
+1704,1976,"Philadelphia Phillies","Veterans Stadium",101,61
+1705,1976,"Pittsburgh Pirates","Three Rivers Stadium",92,70
+1706,1976,"San Diego Padres","Jack Murphy Stadium",73,89
+1707,1976,"San Francisco Giants","Candlestick Park",74,88
+1708,1976,"St. Louis Cardinals","Busch Stadium II",72,90
+1709,1976,"Texas Rangers","Arlington Stadium",76,86
+1710,1977,"Atlanta Braves","Atlanta-Fulton County Stadium",61,101
+1711,1977,"Baltimore Orioles","Memorial Stadium",97,64
+1712,1977,"Boston Red Sox","Fenway Park II",97,64
+1713,1977,"California Angels","Anaheim Stadium",74,88
+1714,1977,"Chicago White Sox","Comiskey Park",90,72
+1715,1977,"Chicago Cubs","Wrigley Field",81,81
+1716,1977,"Cincinnati Reds","Riverfront Stadium",88,74
+1717,1977,"Cleveland Indians","Cleveland Stadium",71,90
+1718,1977,"Detroit Tigers","Tiger Stadium",74,88
+1719,1977,"Houston Astros",Astrodome,81,81
+1720,1977,"Kansas City Royals","Royals Stadium",102,60
+1721,1977,"Los Angeles Dodgers","Dodger Stadium",98,64
+1722,1977,"Minnesota Twins","Metropolitan Stadium",84,77
+1723,1977,"Milwaukee Brewers","County Stadium",67,95
+1724,1977,"Montreal Expos","Stade Olympique",75,87
+1725,1977,"New York Yankees","Yankee Stadium II",100,62
+1726,1977,"New York Mets","Shea Stadium",64,98
+1727,1977,"Oakland Athletics","Oakland Coliseum",63,98
+1728,1977,"Philadelphia Phillies","Veterans Stadium",101,61
+1729,1977,"Pittsburgh Pirates","Three Rivers Stadium",96,66
+1730,1977,"San Diego Padres","Jack Murphy Stadium",69,93
+1731,1977,"Seattle Mariners",Kingdome,64,98
+1732,1977,"San Francisco Giants","Candlestick Park",75,87
+1733,1977,"St. Louis Cardinals","Busch Stadium II",83,79
+1734,1977,"Texas Rangers","Arlington Stadium",94,68
+1735,1977,"Toronto Blue Jays","Exhibition Stadium",54,107
+1736,1978,"Atlanta Braves","Atlanta-Fulton County Stadium",69,93
+1737,1978,"Baltimore Orioles","Memorial Stadium",90,71
+1738,1978,"Boston Red Sox","Fenway Park II",99,64
+1739,1978,"California Angels","Anaheim Stadium",87,75
+1740,1978,"Chicago White Sox","Comiskey Park",71,90
+1741,1978,"Chicago Cubs","Wrigley Field",79,83
+1742,1978,"Cincinnati Reds","Riverfront Stadium",92,69
+1743,1978,"Cleveland Indians","Cleveland Stadium",69,90
+1744,1978,"Detroit Tigers","Tiger Stadium",86,76
+1745,1978,"Houston Astros",Astrodome,74,88
+1746,1978,"Kansas City Royals","Royals Stadium",92,70
+1747,1978,"Los Angeles Dodgers","Dodger Stadium",95,67
+1748,1978,"Minnesota Twins","Metropolitan Stadium",73,89
+1749,1978,"Milwaukee Brewers","County Stadium",93,69
+1750,1978,"Montreal Expos","Stade Olympique",76,86
+1751,1978,"New York Yankees","Yankee Stadium II",100,63
+1752,1978,"New York Mets","Shea Stadium",66,96
+1753,1978,"Oakland Athletics","Oakland Coliseum",69,93
+1754,1978,"Philadelphia Phillies","Veterans Stadium",90,72
+1755,1978,"Pittsburgh Pirates","Three Rivers Stadium",88,73
+1756,1978,"San Diego Padres","Jack Murphy Stadium",84,78
+1757,1978,"Seattle Mariners",Kingdome,56,104
+1758,1978,"San Francisco Giants","Candlestick Park",89,73
+1759,1978,"St. Louis Cardinals","Busch Stadium II",69,93
+1760,1978,"Texas Rangers","Arlington Stadium",87,75
+1761,1978,"Toronto Blue Jays","Exhibition Stadium",59,102
+1762,1979,"Atlanta Braves","Atlanta-Fulton County Stadium",66,94
+1763,1979,"Baltimore Orioles","Memorial Stadium",102,57
+1764,1979,"Boston Red Sox","Fenway Park II",91,69
+1765,1979,"California Angels","Anaheim Stadium",88,74
+1766,1979,"Chicago White Sox","Comiskey Park",73,87
+1767,1979,"Chicago Cubs","Wrigley Field",80,82
+1768,1979,"Cincinnati Reds","Riverfront Stadium",90,71
+1769,1979,"Cleveland Indians","Cleveland Stadium",81,80
+1770,1979,"Detroit Tigers","Tiger Stadium",85,76
+1771,1979,"Houston Astros",Astrodome,89,73
+1772,1979,"Kansas City Royals","Royals Stadium",85,77
+1773,1979,"Los Angeles Dodgers","Dodger Stadium",79,83
+1774,1979,"Minnesota Twins","Metropolitan Stadium",82,80
+1775,1979,"Milwaukee Brewers","County Stadium",95,66
+1776,1979,"Montreal Expos","Stade Olympique",95,65
+1777,1979,"New York Yankees","Yankee Stadium II",89,71
+1778,1979,"New York Mets","Shea Stadium",63,99
+1779,1979,"Oakland Athletics","Oakland Coliseum",54,108
+1780,1979,"Philadelphia Phillies","Veterans Stadium",84,78
+1781,1979,"Pittsburgh Pirates","Three Rivers Stadium",98,64
+1782,1979,"San Diego Padres","Jack Murphy Stadium",68,93
+1783,1979,"Seattle Mariners",Kingdome,67,95
+1784,1979,"San Francisco Giants","Candlestick Park",71,91
+1785,1979,"St. Louis Cardinals","Busch Stadium II",86,76
+1786,1979,"Texas Rangers","Arlington Stadium",83,79
+1787,1979,"Toronto Blue Jays","Exhibition Stadium",53,109
+1788,1980,"Atlanta Braves","Atlanta-Fulton County Stadium",81,80
+1789,1980,"Baltimore Orioles","Memorial Stadium",100,62
+1790,1980,"Boston Red Sox","Fenway Park II",83,77
+1791,1980,"California Angels","Anaheim Stadium",65,95
+1792,1980,"Chicago White Sox","Comiskey Park",70,90
+1793,1980,"Chicago Cubs","Wrigley Field",64,98
+1794,1980,"Cincinnati Reds","Riverfront Stadium",89,73
+1795,1980,"Cleveland Indians","Cleveland Stadium",79,81
+1796,1980,"Detroit Tigers","Tiger Stadium",84,78
+1797,1980,"Houston Astros",Astrodome,93,70
+1798,1980,"Kansas City Royals","Royals Stadium",97,65
+1799,1980,"Los Angeles Dodgers","Dodger Stadium",92,71
+1800,1980,"Minnesota Twins","Metropolitan Stadium",77,84
+1801,1980,"Milwaukee Brewers","County Stadium",86,76
+1802,1980,"Montreal Expos","Stade Olympique",90,72
+1803,1980,"New York Yankees","Yankee Stadium II",103,59
+1804,1980,"New York Mets","Shea Stadium",67,95
+1805,1980,"Oakland Athletics","Oakland Coliseum",83,79
+1806,1980,"Philadelphia Phillies","Veterans Stadium",91,71
+1807,1980,"Pittsburgh Pirates","Three Rivers Stadium",83,79
+1808,1980,"San Diego Padres","Jack Murphy Stadium",73,89
+1809,1980,"Seattle Mariners",Kingdome,59,103
+1810,1980,"San Francisco Giants","Candlestick Park",75,86
+1811,1980,"St. Louis Cardinals","Busch Stadium II",74,88
+1812,1980,"Texas Rangers","Arlington Stadium",76,85
+1813,1980,"Toronto Blue Jays","Exhibition Stadium",67,95
+1814,1981,"Atlanta Braves","Atlanta-Fulton County Stadium",50,56
+1815,1981,"Baltimore Orioles","Memorial Stadium",59,46
+1816,1981,"Boston Red Sox","Fenway Park II",59,49
+1817,1981,"California Angels","Anaheim Stadium",51,59
+1818,1981,"Chicago White Sox","Comiskey Park",54,52
+1819,1981,"Chicago Cubs","Wrigley Field",38,65
+1820,1981,"Cincinnati Reds","Riverfront Stadium",66,42
+1821,1981,"Cleveland Indians","Cleveland Stadium",52,51
+1822,1981,"Detroit Tigers","Tiger Stadium",60,49
+1823,1981,"Houston Astros",Astrodome,61,49
+1824,1981,"Kansas City Royals","Royals Stadium",50,53
+1825,1981,"Los Angeles Dodgers","Dodger Stadium",63,47
+1826,1981,"Minnesota Twins","Metropolitan Stadium",41,68
+1827,1981,"Milwaukee Brewers","County Stadium",62,47
+1828,1981,"Montreal Expos","Stade Olympique",60,48
+1829,1981,"New York Yankees","Yankee Stadium II",59,48
+1830,1981,"New York Mets","Shea Stadium",41,62
+1831,1981,"Oakland Athletics","Oakland Coliseum",64,45
+1832,1981,"Philadelphia Phillies","Veterans Stadium",59,48
+1833,1981,"Pittsburgh Pirates","Three Rivers Stadium",46,56
+1834,1981,"San Diego Padres","Jack Murphy Stadium",41,69
+1835,1981,"Seattle Mariners",Kingdome,44,65
+1836,1981,"San Francisco Giants","Candlestick Park",56,55
+1837,1981,"St. Louis Cardinals","Busch Stadium II",59,43
+1838,1981,"Texas Rangers","Arlington Stadium",57,48
+1839,1981,"Toronto Blue Jays","Exhibition Stadium",37,69
+1840,1982,"Atlanta Braves","Atlanta-Fulton County Stadium",89,73
+1841,1982,"Baltimore Orioles","Memorial Stadium",94,68
+1842,1982,"Boston Red Sox","Fenway Park II",89,73
+1843,1982,"California Angels","Anaheim Stadium",93,69
+1844,1982,"Chicago White Sox","Comiskey Park",87,75
+1845,1982,"Chicago Cubs","Wrigley Field",73,89
+1846,1982,"Cincinnati Reds","Riverfront Stadium",61,101
+1847,1982,"Cleveland Indians","Cleveland Stadium",78,84
+1848,1982,"Detroit Tigers","Tiger Stadium",83,79
+1849,1982,"Houston Astros",Astrodome,77,85
+1850,1982,"Kansas City Royals","Royals Stadium",90,72
+1851,1982,"Los Angeles Dodgers","Dodger Stadium",88,74
+1852,1982,"Minnesota Twins","Hubert H Humphrey Metrodome",60,102
+1853,1982,"Milwaukee Brewers","County Stadium",95,67
+1854,1982,"Montreal Expos","Stade Olympique",86,76
+1855,1982,"New York Yankees","Yankee Stadium II",79,83
+1856,1982,"New York Mets","Shea Stadium",65,97
+1857,1982,"Oakland Athletics","Oakland Coliseum",68,94
+1858,1982,"Philadelphia Phillies","Veterans Stadium",89,73
+1859,1982,"Pittsburgh Pirates","Three Rivers Stadium",84,78
+1860,1982,"San Diego Padres","Jack Murphy Stadium",81,81
+1861,1982,"Seattle Mariners",Kingdome,76,86
+1862,1982,"San Francisco Giants","Candlestick Park",87,75
+1863,1982,"St. Louis Cardinals","Busch Stadium II",92,70
+1864,1982,"Texas Rangers","Arlington Stadium",64,98
+1865,1982,"Toronto Blue Jays","Exhibition Stadium",78,84
+1866,1983,"Atlanta Braves","Atlanta-Fulton County Stadium",88,74
+1867,1983,"Baltimore Orioles","Memorial Stadium",98,64
+1868,1983,"Boston Red Sox","Fenway Park II",78,84
+1869,1983,"California Angels","Anaheim Stadium",70,92
+1870,1983,"Chicago White Sox","Comiskey Park",99,63
+1871,1983,"Chicago Cubs","Wrigley Field",71,91
+1872,1983,"Cincinnati Reds","Riverfront Stadium",74,88
+1873,1983,"Cleveland Indians","Cleveland Stadium",70,92
+1874,1983,"Detroit Tigers","Tiger Stadium",92,70
+1875,1983,"Houston Astros",Astrodome,85,77
+1876,1983,"Kansas City Royals","Royals Stadium",79,83
+1877,1983,"Los Angeles Dodgers","Dodger Stadium",91,71
+1878,1983,"Minnesota Twins","Hubert H Humphrey Metrodome",70,92
+1879,1983,"Milwaukee Brewers","County Stadium",87,75
+1880,1983,"Montreal Expos","Stade Olympique",82,80
+1881,1983,"New York Yankees","Yankee Stadium II",91,71
+1882,1983,"New York Mets","Shea Stadium",68,94
+1883,1983,"Oakland Athletics","Oakland Coliseum",74,88
+1884,1983,"Philadelphia Phillies","Veterans Stadium",90,72
+1885,1983,"Pittsburgh Pirates","Three Rivers Stadium",84,78
+1886,1983,"San Diego Padres","Jack Murphy Stadium",81,81
+1887,1983,"Seattle Mariners",Kingdome,60,102
+1888,1983,"San Francisco Giants","Candlestick Park",79,83
+1889,1983,"St. Louis Cardinals","Busch Stadium II",79,83
+1890,1983,"Texas Rangers","Arlington Stadium",77,85
+1891,1983,"Toronto Blue Jays","Exhibition Stadium",89,73
+1892,1984,"Atlanta Braves","Atlanta-Fulton County Stadium",80,82
+1893,1984,"Baltimore Orioles","Memorial Stadium",85,77
+1894,1984,"Boston Red Sox","Fenway Park II",86,76
+1895,1984,"California Angels","Anaheim Stadium",81,81
+1896,1984,"Chicago White Sox","Comiskey Park",74,88
+1897,1984,"Chicago Cubs","Wrigley Field",96,65
+1898,1984,"Cincinnati Reds","Riverfront Stadium",70,92
+1899,1984,"Cleveland Indians","Cleveland Stadium",75,87
+1900,1984,"Detroit Tigers","Tiger Stadium",104,58
+1901,1984,"Houston Astros",Astrodome,80,82
+1902,1984,"Kansas City Royals","Royals Stadium",84,78
+1903,1984,"Los Angeles Dodgers","Dodger Stadium",79,83
+1904,1984,"Minnesota Twins","Hubert H Humphrey Metrodome",81,81
+1905,1984,"Milwaukee Brewers","County Stadium",67,94
+1906,1984,"Montreal Expos","Stade Olympique",78,83
+1907,1984,"New York Yankees","Yankee Stadium II",87,75
+1908,1984,"New York Mets","Shea Stadium",90,72
+1909,1984,"Oakland Athletics","Oakland Coliseum",77,85
+1910,1984,"Philadelphia Phillies","Veterans Stadium",81,81
+1911,1984,"Pittsburgh Pirates","Three Rivers Stadium",75,87
+1912,1984,"San Diego Padres","Jack Murphy Stadium",92,70
+1913,1984,"Seattle Mariners",Kingdome,74,88
+1914,1984,"San Francisco Giants","Candlestick Park",66,96
+1915,1984,"St. Louis Cardinals","Busch Stadium II",84,78
+1916,1984,"Texas Rangers","Arlington Stadium",69,92
+1917,1984,"Toronto Blue Jays","Exhibition Stadium",89,73
+1918,1985,"Atlanta Braves","Atlanta-Fulton County Stadium",66,96
+1919,1985,"Baltimore Orioles","Memorial Stadium",83,78
+1920,1985,"Boston Red Sox","Fenway Park II",81,81
+1921,1985,"California Angels","Anaheim Stadium",90,72
+1922,1985,"Chicago White Sox","Comiskey Park",85,77
+1923,1985,"Chicago Cubs","Wrigley Field",77,84
+1924,1985,"Cincinnati Reds","Riverfront Stadium",89,72
+1925,1985,"Cleveland Indians","Cleveland Stadium",60,102
+1926,1985,"Detroit Tigers","Tiger Stadium",84,77
+1927,1985,"Houston Astros",Astrodome,83,79
+1928,1985,"Kansas City Royals","Royals Stadium",91,71
+1929,1985,"Los Angeles Dodgers","Dodger Stadium",95,67
+1930,1985,"Minnesota Twins","Hubert H Humphrey Metrodome",77,85
+1931,1985,"Milwaukee Brewers","County Stadium",71,90
+1932,1985,"Montreal Expos","Stade Olympique",84,77
+1933,1985,"New York Yankees","Yankee Stadium II",97,64
+1934,1985,"New York Mets","Shea Stadium",98,64
+1935,1985,"Oakland Athletics","Oakland Coliseum",77,85
+1936,1985,"Philadelphia Phillies","Veterans Stadium",75,87
+1937,1985,"Pittsburgh Pirates","Three Rivers Stadium",57,104
+1938,1985,"San Diego Padres","Jack Murphy Stadium",83,79
+1939,1985,"Seattle Mariners",Kingdome,74,88
+1940,1985,"San Francisco Giants","Candlestick Park",62,100
+1941,1985,"St. Louis Cardinals","Busch Stadium II",101,61
+1942,1985,"Texas Rangers","Arlington Stadium",62,99
+1943,1985,"Toronto Blue Jays","Exhibition Stadium",99,62
+1944,1986,"Atlanta Braves","Atlanta-Fulton County Stadium",72,89
+1945,1986,"Baltimore Orioles","Memorial Stadium",73,89
+1946,1986,"Boston Red Sox","Fenway Park II",95,66
+1947,1986,"California Angels","Anaheim Stadium",92,70
+1948,1986,"Chicago White Sox","Comiskey Park",72,90
+1949,1986,"Chicago Cubs","Wrigley Field",70,90
+1950,1986,"Cincinnati Reds","Riverfront Stadium",86,76
+1951,1986,"Cleveland Indians","Cleveland Stadium",84,78
+1952,1986,"Detroit Tigers","Tiger Stadium",87,75
+1953,1986,"Houston Astros",Astrodome,96,66
+1954,1986,"Kansas City Royals","Royals Stadium",76,86
+1955,1986,"Los Angeles Dodgers","Dodger Stadium",73,89
+1956,1986,"Minnesota Twins","Hubert H Humphrey Metrodome",71,91
+1957,1986,"Milwaukee Brewers","County Stadium",77,84
+1958,1986,"Montreal Expos","Stade Olympique",78,83
+1959,1986,"New York Yankees","Yankee Stadium II",90,72
+1960,1986,"New York Mets","Shea Stadium",108,54
+1961,1986,"Oakland Athletics","Oakland Coliseum",76,86
+1962,1986,"Philadelphia Phillies","Veterans Stadium",86,75
+1963,1986,"Pittsburgh Pirates","Three Rivers Stadium",64,98
+1964,1986,"San Diego Padres","Jack Murphy Stadium",74,88
+1965,1986,"Seattle Mariners",Kingdome,67,95
+1966,1986,"San Francisco Giants","Candlestick Park",83,79
+1967,1986,"St. Louis Cardinals","Busch Stadium II",79,82
+1968,1986,"Texas Rangers","Arlington Stadium",87,75
+1969,1986,"Toronto Blue Jays","Exhibition Stadium",86,76
+1970,1987,"Atlanta Braves","Atlanta-Fulton County Stadium",69,92
+1971,1987,"Baltimore Orioles","Memorial Stadium",67,95
+1972,1987,"Boston Red Sox","Fenway Park II",78,84
+1973,1987,"California Angels","Anaheim Stadium",75,87
+1974,1987,"Chicago White Sox","Comiskey Park",77,85
+1975,1987,"Chicago Cubs","Wrigley Field",76,85
+1976,1987,"Cincinnati Reds","Riverfront Stadium",84,78
+1977,1987,"Cleveland Indians","Cleveland Stadium",61,101
+1978,1987,"Detroit Tigers","Tiger Stadium",98,64
+1979,1987,"Houston Astros",Astrodome,76,86
+1980,1987,"Kansas City Royals","Royals Stadium",83,79
+1981,1987,"Los Angeles Dodgers","Dodger Stadium",73,89
+1982,1987,"Minnesota Twins","Hubert H Humphrey Metrodome",85,77
+1983,1987,"Milwaukee Brewers","County Stadium",91,71
+1984,1987,"Montreal Expos","Stade Olympique",91,71
+1985,1987,"New York Yankees","Yankee Stadium II",89,73
+1986,1987,"New York Mets","Shea Stadium",92,70
+1987,1987,"Oakland Athletics","Oakland Coliseum",81,81
+1988,1987,"Philadelphia Phillies","Veterans Stadium",80,82
+1989,1987,"Pittsburgh Pirates","Three Rivers Stadium",80,82
+1990,1987,"San Diego Padres","Jack Murphy Stadium",65,97
+1991,1987,"Seattle Mariners",Kingdome,78,84
+1992,1987,"San Francisco Giants","Candlestick Park",90,72
+1993,1987,"St. Louis Cardinals","Busch Stadium II",95,67
+1994,1987,"Texas Rangers","Arlington Stadium",75,87
+1995,1987,"Toronto Blue Jays","Exhibition Stadium",96,66
+1996,1988,"Atlanta Braves","Atlanta-Fulton County Stadium",54,106
+1997,1988,"Baltimore Orioles","Memorial Stadium",54,107
+1998,1988,"Boston Red Sox","Fenway Park II",89,73
+1999,1988,"California Angels","Anaheim Stadium",75,87
+2000,1988,"Chicago White Sox","Comiskey Park",71,90
+2001,1988,"Chicago Cubs","Wrigley Field",77,85
+2002,1988,"Cincinnati Reds","Riverfront Stadium",87,74
+2003,1988,"Cleveland Indians","Cleveland Stadium",78,84
+2004,1988,"Detroit Tigers","Tiger Stadium",88,74
+2005,1988,"Houston Astros",Astrodome,82,80
+2006,1988,"Kansas City Royals","Royals Stadium",84,77
+2007,1988,"Los Angeles Dodgers","Dodger Stadium",94,67
+2008,1988,"Minnesota Twins","Hubert H Humphrey Metrodome",91,71
+2009,1988,"Milwaukee Brewers","County Stadium",87,75
+2010,1988,"Montreal Expos","Stade Olympique",81,81
+2011,1988,"New York Yankees","Yankee Stadium II",85,76
+2012,1988,"New York Mets","Shea Stadium",100,60
+2013,1988,"Oakland Athletics","Oakland Coliseum",104,58
+2014,1988,"Philadelphia Phillies","Veterans Stadium",65,96
+2015,1988,"Pittsburgh Pirates","Three Rivers Stadium",85,75
+2016,1988,"San Diego Padres","Jack Murphy Stadium",83,78
+2017,1988,"Seattle Mariners",Kingdome,68,93
+2018,1988,"San Francisco Giants","Candlestick Park",83,79
+2019,1988,"St. Louis Cardinals","Busch Stadium II",76,86
+2020,1988,"Texas Rangers","Arlington Stadium",70,91
+2021,1988,"Toronto Blue Jays","Exhibition Stadium",87,75
+2022,1989,"Atlanta Braves","Atlanta-Fulton County Stadium",63,97
+2023,1989,"Baltimore Orioles","Memorial Stadium",87,75
+2024,1989,"Boston Red Sox","Fenway Park II",83,79
+2025,1989,"California Angels","Anaheim Stadium",91,71
+2026,1989,"Chicago White Sox","Comiskey Park",69,92
+2027,1989,"Chicago Cubs","Wrigley Field",93,69
+2028,1989,"Cincinnati Reds","Riverfront Stadium",75,87
+2029,1989,"Cleveland Indians","Cleveland Stadium",73,89
+2030,1989,"Detroit Tigers","Tiger Stadium",59,103
+2031,1989,"Houston Astros",Astrodome,86,76
+2032,1989,"Kansas City Royals","Royals Stadium",92,70
+2033,1989,"Los Angeles Dodgers","Dodger Stadium",77,83
+2034,1989,"Minnesota Twins","Hubert H Humphrey Metrodome",80,82
+2035,1989,"Milwaukee Brewers","County Stadium",81,81
+2036,1989,"Montreal Expos","Stade Olympique",81,81
+2037,1989,"New York Yankees","Yankee Stadium II",74,87
+2038,1989,"New York Mets","Shea Stadium",87,75
+2039,1989,"Oakland Athletics","Oakland Coliseum",99,63
+2040,1989,"Philadelphia Phillies","Veterans Stadium",67,95
+2041,1989,"Pittsburgh Pirates","Three Rivers Stadium",74,88
+2042,1989,"San Diego Padres","Jack Murphy Stadium",89,73
+2043,1989,"Seattle Mariners",Kingdome,73,89
+2044,1989,"San Francisco Giants","Candlestick Park",92,70
+2045,1989,"St. Louis Cardinals","Busch Stadium II",86,76
+2046,1989,"Texas Rangers","Arlington Stadium",83,79
+2047,1989,"Toronto Blue Jays","Exhibition Stadium /Skydome",89,73
+2048,1990,"Atlanta Braves","Atlanta-Fulton County Stadium",65,97
+2049,1990,"Baltimore Orioles","Memorial Stadium",76,85
+2050,1990,"Boston Red Sox","Fenway Park II",88,74
+2051,1990,"California Angels","Anaheim Stadium",80,82
+2052,1990,"Chicago White Sox","Comiskey Park",94,68
+2053,1990,"Chicago Cubs","Wrigley Field",77,85
+2054,1990,"Cincinnati Reds","Riverfront Stadium",91,71
+2055,1990,"Cleveland Indians","Cleveland Stadium",77,85
+2056,1990,"Detroit Tigers","Tiger Stadium",79,83
+2057,1990,"Houston Astros",Astrodome,75,87
+2058,1990,"Kansas City Royals","Royals Stadium",75,86
+2059,1990,"Los Angeles Dodgers","Dodger Stadium",86,76
+2060,1990,"Minnesota Twins","Hubert H Humphrey Metrodome",74,88
+2061,1990,"Milwaukee Brewers","County Stadium",74,88
+2062,1990,"Montreal Expos","Stade Olympique",85,77
+2063,1990,"New York Yankees","Yankee Stadium II",67,95
+2064,1990,"New York Mets","Shea Stadium",91,71
+2065,1990,"Oakland Athletics","Oakland Coliseum",103,59
+2066,1990,"Philadelphia Phillies","Veterans Stadium",77,85
+2067,1990,"Pittsburgh Pirates","Three Rivers Stadium",95,67
+2068,1990,"San Diego Padres","Jack Murphy Stadium",75,87
+2069,1990,"Seattle Mariners",Kingdome,77,85
+2070,1990,"San Francisco Giants","Candlestick Park",85,77
+2071,1990,"St. Louis Cardinals","Busch Stadium II",70,92
+2072,1990,"Texas Rangers","Arlington Stadium",83,79
+2073,1990,"Toronto Blue Jays",Skydome,86,76
+2074,1991,"Atlanta Braves","Atlanta-Fulton County Stadium",94,68
+2075,1991,"Baltimore Orioles","Memorial Stadium",67,95
+2076,1991,"Boston Red Sox","Fenway Park II",84,78
+2077,1991,"California Angels","Anaheim Stadium",81,81
+2078,1991,"Chicago White Sox","Comiskey Park II",87,75
+2079,1991,"Chicago Cubs","Wrigley Field",77,83
+2080,1991,"Cincinnati Reds","Riverfront Stadium",74,88
+2081,1991,"Cleveland Indians","Cleveland Stadium",57,105
+2082,1991,"Detroit Tigers","Tiger Stadium",84,78
+2083,1991,"Houston Astros",Astrodome,65,97
+2084,1991,"Kansas City Royals","Royals Stadium",82,80
+2085,1991,"Los Angeles Dodgers","Dodger Stadium",93,69
+2086,1991,"Minnesota Twins","Hubert H Humphrey Metrodome",95,67
+2087,1991,"Milwaukee Brewers","County Stadium",83,79
+2088,1991,"Montreal Expos","Stade Olympique",71,90
+2089,1991,"New York Yankees","Yankee Stadium II",71,91
+2090,1991,"New York Mets","Shea Stadium",77,84
+2091,1991,"Oakland Athletics","Oakland Coliseum",84,78
+2092,1991,"Philadelphia Phillies","Veterans Stadium",78,84
+2093,1991,"Pittsburgh Pirates","Three Rivers Stadium",98,64
+2094,1991,"San Diego Padres","Jack Murphy Stadium",84,78
+2095,1991,"Seattle Mariners",Kingdome,83,79
+2096,1991,"San Francisco Giants","Candlestick Park",75,87
+2097,1991,"St. Louis Cardinals","Busch Stadium II",84,78
+2098,1991,"Texas Rangers","Arlington Stadium",85,77
+2099,1991,"Toronto Blue Jays",Skydome,91,71
+2100,1992,"Atlanta Braves","Atlanta-Fulton County Stadium",98,64
+2101,1992,"Baltimore Orioles","Oriole Park at Camden Yards",89,73
+2102,1992,"Boston Red Sox","Fenway Park II",73,89
+2103,1992,"California Angels","Anaheim Stadium",72,90
+2104,1992,"Chicago White Sox","Comiskey Park II",86,76
+2105,1992,"Chicago Cubs","Wrigley Field",78,84
+2106,1992,"Cincinnati Reds","Riverfront Stadium",90,72
+2107,1992,"Cleveland Indians","Cleveland Stadium",76,86
+2108,1992,"Detroit Tigers","Tiger Stadium",75,87
+2109,1992,"Houston Astros",Astrodome,81,81
+2110,1992,"Kansas City Royals","Royals Stadium",72,90
+2111,1992,"Los Angeles Dodgers","Dodger Stadium",63,99
+2112,1992,"Minnesota Twins","Hubert H Humphrey Metrodome",90,72
+2113,1992,"Milwaukee Brewers","County Stadium",92,70
+2114,1992,"Montreal Expos","Stade Olympique",87,75
+2115,1992,"New York Yankees","Yankee Stadium II",76,86
+2116,1992,"New York Mets","Shea Stadium",72,90
+2117,1992,"Oakland Athletics","Oakland Coliseum",96,66
+2118,1992,"Philadelphia Phillies","Veterans Stadium",70,92
+2119,1992,"Pittsburgh Pirates","Three Rivers Stadium",96,66
+2120,1992,"San Diego Padres","Jack Murphy Stadium",82,80
+2121,1992,"Seattle Mariners",Kingdome,64,98
+2122,1992,"San Francisco Giants","Candlestick Park",72,90
+2123,1992,"St. Louis Cardinals","Busch Stadium II",83,79
+2124,1992,"Texas Rangers","Arlington Stadium",77,85
+2125,1992,"Toronto Blue Jays",Skydome,96,66
+2126,1993,"Atlanta Braves","Atlanta-Fulton County Stadium",104,58
+2127,1993,"Baltimore Orioles","Oriole Park at Camden Yards",85,77
+2128,1993,"Boston Red Sox","Fenway Park II",80,82
+2129,1993,"California Angels","Anaheim Stadium",71,91
+2130,1993,"Chicago White Sox","Comiskey Park II",94,68
+2131,1993,"Chicago Cubs","Wrigley Field",84,78
+2132,1993,"Cincinnati Reds","Riverfront Stadium",73,89
+2133,1993,"Cleveland Indians","Cleveland Stadium",76,86
+2134,1993,"Colorado Rockies","Mile High Stadium",67,95
+2135,1993,"Detroit Tigers","Tiger Stadium",85,77
+2136,1993,"Florida Marlins","Joe Robbie Stadium",64,98
+2137,1993,"Houston Astros",Astrodome,85,77
+2138,1993,"Kansas City Royals","Kauffman Stadium",84,78
+2139,1993,"Los Angeles Dodgers","Dodger Stadium",81,81
+2140,1993,"Minnesota Twins","Hubert H Humphrey Metrodome",71,91
+2141,1993,"Milwaukee Brewers","County Stadium",69,93
+2142,1993,"Montreal Expos","Stade Olympique",94,68
+2143,1993,"New York Yankees","Yankee Stadium II",88,74
+2144,1993,"New York Mets","Shea Stadium",59,103
+2145,1993,"Oakland Athletics","Oakland Coliseum",68,94
+2146,1993,"Philadelphia Phillies","Veterans Stadium",97,65
+2147,1993,"Pittsburgh Pirates","Three Rivers Stadium",75,87
+2148,1993,"San Diego Padres","Jack Murphy Stadium",61,101
+2149,1993,"Seattle Mariners",Kingdome,82,80
+2150,1993,"San Francisco Giants","Candlestick Park",103,59
+2151,1993,"St. Louis Cardinals","Busch Stadium II",87,75
+2152,1993,"Texas Rangers","Arlington Stadium",86,76
+2153,1993,"Toronto Blue Jays",Skydome,95,67
+2154,1994,"Atlanta Braves","Atlanta-Fulton County Stadium",68,46
+2155,1994,"Baltimore Orioles","Oriole Park at Camden Yards",63,49
+2156,1994,"Boston Red Sox","Fenway Park II",54,61
+2157,1994,"California Angels","Anaheim Stadium",47,68
+2158,1994,"Chicago White Sox","Comiskey Park II",67,46
+2159,1994,"Chicago Cubs","Wrigley Field",49,64
+2160,1994,"Cincinnati Reds","Riverfront Stadium",66,48
+2161,1994,"Cleveland Indians","Jacobs Field",66,47
+2162,1994,"Colorado Rockies","Mile High Stadium",53,64
+2163,1994,"Detroit Tigers","Tiger Stadium",53,62
+2164,1994,"Florida Marlins","Joe Robbie Stadium",51,64
+2165,1994,"Houston Astros",Astrodome,66,49
+2166,1994,"Kansas City Royals","Kauffman Stadium",64,51
+2167,1994,"Los Angeles Dodgers","Dodger Stadium",58,56
+2168,1994,"Minnesota Twins","Hubert H Humphrey Metrodome",53,60
+2169,1994,"Milwaukee Brewers","County Stadium",53,62
+2170,1994,"Montreal Expos","Stade Olympique",74,40
+2171,1994,"New York Yankees","Yankee Stadium II",70,43
+2172,1994,"New York Mets","Shea Stadium",55,58
+2173,1994,"Oakland Athletics","Oakland Coliseum",51,63
+2174,1994,"Philadelphia Phillies","Veterans Stadium",54,61
+2175,1994,"Pittsburgh Pirates","Three Rivers Stadium",53,61
+2176,1994,"San Diego Padres","Jack Murphy Stadium",47,70
+2177,1994,"Seattle Mariners",Kingdome,49,63
+2178,1994,"San Francisco Giants","Candlestick Park",55,60
+2179,1994,"St. Louis Cardinals","Busch Stadium II",53,61
+2180,1994,"Texas Rangers","The Ballpark at Arlington",52,62
+2181,1994,"Toronto Blue Jays",Skydome,55,60
+2182,1995,"Atlanta Braves","Atlanta-Fulton County Stadium",90,54
+2183,1995,"Baltimore Orioles","Oriole Park at Camden Yards",71,73
+2184,1995,"Boston Red Sox","Fenway Park II",86,58
+2185,1995,"California Angels","Anaheim Stadium",78,67
+2186,1995,"Chicago White Sox","Comiskey Park II",68,76
+2187,1995,"Chicago Cubs","Wrigley Field",73,71
+2188,1995,"Cincinnati Reds","Riverfront Stadium",85,59
+2189,1995,"Cleveland Indians","Jacobs Field",100,44
+2190,1995,"Colorado Rockies","Coors Field",77,67
+2191,1995,"Detroit Tigers","Tiger Stadium",60,84
+2192,1995,"Florida Marlins","Joe Robbie Stadium",67,76
+2193,1995,"Houston Astros",Astrodome,76,68
+2194,1995,"Kansas City Royals","Kauffman Stadium",70,74
+2195,1995,"Los Angeles Dodgers","Dodger Stadium",78,66
+2196,1995,"Minnesota Twins","Hubert H Humphrey Metrodome",56,88
+2197,1995,"Milwaukee Brewers","County Stadium",65,79
+2198,1995,"Montreal Expos","Stade Olympique",66,78
+2199,1995,"New York Yankees","Yankee Stadium II",79,65
+2200,1995,"New York Mets","Shea Stadium",69,75
+2201,1995,"Oakland Athletics","Oakland Coliseum",67,77
+2202,1995,"Philadelphia Phillies","Veterans Stadium",69,75
+2203,1995,"Pittsburgh Pirates","Three Rivers Stadium",58,86
+2204,1995,"San Diego Padres","Jack Murphy Stadium",70,74
+2205,1995,"Seattle Mariners",Kingdome,79,66
+2206,1995,"San Francisco Giants","Candlestick Park",67,77
+2207,1995,"St. Louis Cardinals","Busch Stadium II",62,81
+2208,1995,"Texas Rangers","The Ballpark at Arlington",74,70
+2209,1995,"Toronto Blue Jays",Skydome,56,88
+2210,1996,"Atlanta Braves","Atlanta-Fulton County Stadium",96,66
+2211,1996,"Baltimore Orioles","Oriole Park at Camden Yards",88,74
+2212,1996,"Boston Red Sox","Fenway Park II",85,77
+2213,1996,"California Angels","Anaheim Stadium",70,91
+2214,1996,"Chicago White Sox","Comiskey Park II",85,77
+2215,1996,"Chicago Cubs","Wrigley Field",76,86
+2216,1996,"Cincinnati Reds","Riverfront Stadium",81,81
+2217,1996,"Cleveland Indians","Jacobs Field",99,62
+2218,1996,"Colorado Rockies","Coors Field",83,79
+2219,1996,"Detroit Tigers","Tiger Stadium",53,109
+2220,1996,"Florida Marlins","Joe Robbie Stadium",80,82
+2221,1996,"Houston Astros",Astrodome,82,80
+2222,1996,"Kansas City Royals","Kauffman Stadium",75,86
+2223,1996,"Los Angeles Dodgers","Dodger Stadium",90,72
+2224,1996,"Minnesota Twins","Hubert H Humphrey Metrodome",78,84
+2225,1996,"Milwaukee Brewers","County Stadium",80,82
+2226,1996,"Montreal Expos","Stade Olympique",88,74
+2227,1996,"New York Yankees","Yankee Stadium II",92,70
+2228,1996,"New York Mets","Shea Stadium",71,91
+2229,1996,"Oakland Athletics","Oakland Coliseum",78,84
+2230,1996,"Philadelphia Phillies","Veterans Stadium",67,95
+2231,1996,"Pittsburgh Pirates","Three Rivers Stadium",73,89
+2232,1996,"San Diego Padres","Jack Murphy Stadium",91,71
+2233,1996,"Seattle Mariners",Kingdome,85,76
+2234,1996,"San Francisco Giants","Candlestick Park",68,94
+2235,1996,"St. Louis Cardinals","Busch Stadium II",88,74
+2236,1996,"Texas Rangers","The Ballpark at Arlington",90,72
+2237,1996,"Toronto Blue Jays",Skydome,74,88
+2238,1997,"Anaheim Angels","Edison International Field",84,78
+2239,1997,"Atlanta Braves","Turner Field",101,61
+2240,1997,"Baltimore Orioles","Oriole Park at Camden Yards",98,64
+2241,1997,"Boston Red Sox","Fenway Park II",78,84
+2242,1997,"Chicago White Sox","Comiskey Park II",80,81
+2243,1997,"Chicago Cubs","Wrigley Field",68,94
+2244,1997,"Cincinnati Reds","Cinergy Field",76,86
+2245,1997,"Cleveland Indians","Jacobs Field",86,75
+2246,1997,"Colorado Rockies","Coors Field",83,79
+2247,1997,"Detroit Tigers","Tiger Stadium",79,83
+2248,1997,"Florida Marlins","Joe Robbie Stadium",92,70
+2249,1997,"Houston Astros",Astrodome,84,78
+2250,1997,"Kansas City Royals","Kauffman Stadium",67,94
+2251,1997,"Los Angeles Dodgers","Dodger Stadium",88,74
+2252,1997,"Minnesota Twins","Hubert H Humphrey Metrodome",68,94
+2253,1997,"Milwaukee Brewers","County Stadium",78,83
+2254,1997,"Montreal Expos","Stade Olympique",78,84
+2255,1997,"New York Yankees","Yankee Stadium II",96,66
+2256,1997,"New York Mets","Shea Stadium",88,74
+2257,1997,"Oakland Athletics","Oakland Coliseum",65,97
+2258,1997,"Philadelphia Phillies","Veterans Stadium",68,94
+2259,1997,"Pittsburgh Pirates","Three Rivers Stadium",79,83
+2260,1997,"San Diego Padres","Qualcomm Stadium",76,86
+2261,1997,"Seattle Mariners",Kingdome,90,72
+2262,1997,"San Francisco Giants","3Com Park",90,72
+2263,1997,"St. Louis Cardinals","Busch Stadium II",73,89
+2264,1997,"Texas Rangers","The Ballpark at Arlington",77,85
+2265,1997,"Toronto Blue Jays",Skydome,76,86
+2266,1998,"Anaheim Angels","Edison International Field",85,77
+2267,1998,"Arizona Diamondbacks","Bank One Ballpark",65,97
+2268,1998,"Atlanta Braves","Turner Field",106,56
+2269,1998,"Baltimore Orioles","Oriole Park at Camden Yards",79,83
+2270,1998,"Boston Red Sox","Fenway Park II",92,70
+2271,1998,"Chicago White Sox","Comiskey Park II",80,82
+2272,1998,"Chicago Cubs","Wrigley Field",90,73
+2273,1998,"Cincinnati Reds","Cinergy Field",77,85
+2274,1998,"Cleveland Indians","Jacobs Field",89,73
+2275,1998,"Colorado Rockies","Coors Field",77,85
+2276,1998,"Detroit Tigers","Tiger Stadium",65,97
+2277,1998,"Florida Marlins","Joe Robbie Stadium",54,108
+2278,1998,"Houston Astros",Astrodome,102,60
+2279,1998,"Kansas City Royals","Kauffman Stadium",72,89
+2280,1998,"Los Angeles Dodgers","Dodger Stadium",83,79
+2281,1998,"Milwaukee Brewers","County Stadium",74,88
+2282,1998,"Minnesota Twins","Hubert H Humphrey Metrodome",70,92
+2283,1998,"Montreal Expos","Stade Olympique",65,97
+2284,1998,"New York Yankees","Yankee Stadium II",114,48
+2285,1998,"New York Mets","Shea Stadium",88,74
+2286,1998,"Oakland Athletics","Oakland Coliseum",74,88
+2287,1998,"Philadelphia Phillies","Veterans Stadium",75,87
+2288,1998,"Pittsburgh Pirates","Three Rivers Stadium",69,93
+2289,1998,"San Diego Padres","Qualcomm Stadium",98,64
+2290,1998,"Seattle Mariners",Kingdome,76,85
+2291,1998,"San Francisco Giants","3Com Park",89,74
+2292,1998,"St. Louis Cardinals","Busch Stadium II",83,79
+2293,1998,"Tampa Bay Devil Rays","Tropicana Field",63,99
+2294,1998,"Texas Rangers","The Ballpark at Arlington",88,74
+2295,1998,"Toronto Blue Jays",Skydome,88,74
+2296,1999,"Anaheim Angels","Edison International Field",70,92
+2297,1999,"Arizona Diamondbacks","Bank One Ballpark",100,62
+2298,1999,"Atlanta Braves","Turner Field",103,59
+2299,1999,"Baltimore Orioles","Oriole Park at Camden Yards",78,84
+2300,1999,"Boston Red Sox","Fenway Park II",94,68
+2301,1999,"Chicago White Sox","Comiskey Park II",75,86
+2302,1999,"Chicago Cubs","Wrigley Field",67,95
+2303,1999,"Cincinnati Reds","Cinergy Field",96,67
+2304,1999,"Cleveland Indians","Jacobs Field",97,65
+2305,1999,"Colorado Rockies","Coors Field",72,90
+2306,1999,"Detroit Tigers","Tiger Stadium",69,92
+2307,1999,"Florida Marlins","Pro Player Stadium",64,98
+2308,1999,"Houston Astros",Astrodome,97,65
+2309,1999,"Kansas City Royals","Kauffman Stadium",64,97
+2310,1999,"Los Angeles Dodgers","Dodger Stadium",77,85
+2311,1999,"Milwaukee Brewers","County Stadium",74,87
+2312,1999,"Minnesota Twins","Hubert H Humphrey Metrodome",63,97
+2313,1999,"Montreal Expos","Stade Olympique",68,94
+2314,1999,"New York Yankees","Yankee Stadium II",98,64
+2315,1999,"New York Mets","Shea Stadium",97,66
+2316,1999,"Oakland Athletics","Oakland Coliseum",87,75
+2317,1999,"Philadelphia Phillies","Veterans Stadium",77,85
+2318,1999,"Pittsburgh Pirates","Three Rivers Stadium",78,83
+2319,1999,"San Diego Padres","Qualcomm Stadium",74,88
+2320,1999,"Seattle Mariners","Kingdome / Safeco Field",79,83
+2321,1999,"San Francisco Giants","3Com Park",86,76
+2322,1999,"St. Louis Cardinals","Busch Stadium II",75,86
+2323,1999,"Tampa Bay Devil Rays","Tropicana Field",69,93
+2324,1999,"Texas Rangers","The Ballpark at Arlington",95,67
+2325,1999,"Toronto Blue Jays",Skydome,84,78
+2326,2000,"Anaheim Angels","Edison International Field",82,80
+2327,2000,"Arizona Diamondbacks","Bank One Ballpark",85,77
+2328,2000,"Atlanta Braves","Turner Field",95,67
+2329,2000,"Baltimore Orioles","Oriole Park at Camden Yards",74,88
+2330,2000,"Boston Red Sox","Fenway Park II",85,77
+2331,2000,"Chicago White Sox","Comiskey Park II",95,67
+2332,2000,"Chicago Cubs","Wrigley Field",65,97
+2333,2000,"Cincinnati Reds","Cinergy Field",85,77
+2334,2000,"Cleveland Indians","Jacobs Field",90,72
+2335,2000,"Colorado Rockies","Coors Field",82,80
+2336,2000,"Detroit Tigers","Comerica Park",79,83
+2337,2000,"Florida Marlins","Pro Player Stadium",79,82
+2338,2000,"Houston Astros","Enron Field",72,90
+2339,2000,"Kansas City Royals","Kauffman Stadium",77,85
+2340,2000,"Los Angeles Dodgers","Dodger Stadium",86,76
+2341,2000,"Milwaukee Brewers","County Stadium",73,89
+2342,2000,"Minnesota Twins","Hubert H Humphrey Metrodome",69,93
+2343,2000,"Montreal Expos","Stade Olympique",67,95
+2344,2000,"New York Yankees","Yankee Stadium II",87,74
+2345,2000,"New York Mets","Shea Stadium",94,68
+2346,2000,"Oakland Athletics","Oakland Coliseum",91,70
+2347,2000,"Philadelphia Phillies","Veterans Stadium",65,97
+2348,2000,"Pittsburgh Pirates","Three Rivers Stadium",69,93
+2349,2000,"San Diego Padres","Qualcomm Stadium",76,86
+2350,2000,"Seattle Mariners","Safeco Field",91,71
+2351,2000,"San Francisco Giants","PacBell Park",97,65
+2352,2000,"St. Louis Cardinals","Busch Stadium II",95,67
+2353,2000,"Tampa Bay Devil Rays","Tropicana Field",69,92
+2354,2000,"Texas Rangers","The Ballpark at Arlington",71,91
+2355,2000,"Toronto Blue Jays",Skydome,83,79
+2356,2001,"Anaheim Angels","Edison International Field",75,87
+2357,2001,"Arizona Diamondbacks","Bank One Ballpark",92,70
+2358,2001,"Atlanta Braves","Turner Field",88,74
+2359,2001,"Baltimore Orioles","Oriole Park at Camden Yards",63,98
+2360,2001,"Boston Red Sox","Fenway Park II",82,79
+2361,2001,"Chicago White Sox","Comiskey Park II",83,79
+2362,2001,"Chicago Cubs","Wrigley Field",88,74
+2363,2001,"Cincinnati Reds","Cinergy Field",66,96
+2364,2001,"Cleveland Indians","Jacobs Field",91,71
+2365,2001,"Colorado Rockies","Coors Field",73,89
+2366,2001,"Detroit Tigers","Comerica Park",66,96
+2367,2001,"Florida Marlins","Pro Player Stadium",76,86
+2368,2001,"Houston Astros","Enron Field",93,69
+2369,2001,"Kansas City Royals","Kauffman Stadium",65,97
+2370,2001,"Los Angeles Dodgers","Dodger Stadium",86,76
+2371,2001,"Milwaukee Brewers","Miller Park",68,94
+2372,2001,"Minnesota Twins","Hubert H Humphrey Metrodome",85,77
+2373,2001,"Montreal Expos","Stade Olympique",68,94
+2374,2001,"New York Yankees","Yankee Stadium II",95,65
+2375,2001,"New York Mets","Shea Stadium",82,80
+2376,2001,"Oakland Athletics","Oakland Coliseum",102,60
+2377,2001,"Philadelphia Phillies","Veterans Stadium",86,76
+2378,2001,"Pittsburgh Pirates","PNC Park",62,100
+2379,2001,"San Diego Padres","Qualcomm Stadium",79,83
+2380,2001,"Seattle Mariners","Safeco Field",116,46
+2381,2001,"San Francisco Giants","PacBell Park",90,72
+2382,2001,"St. Louis Cardinals","Busch Stadium II",93,69
+2383,2001,"Tampa Bay Devil Rays","Tropicana Field",62,100
+2384,2001,"Texas Rangers","The Ballpark at Arlington",73,89
+2385,2001,"Toronto Blue Jays",Skydome,80,82
+2386,2002,"Anaheim Angels","Edison International Field",99,63
+2387,2002,"Arizona Diamondbacks","Bank One Ballpark",98,64
+2388,2002,"Atlanta Braves","Turner Field",101,59
+2389,2002,"Baltimore Orioles","Oriole Park at Camden Yards",67,95
+2390,2002,"Boston Red Sox","Fenway Park II",93,69
+2391,2002,"Chicago White Sox","Comiskey Park II",81,81
+2392,2002,"Chicago Cubs","Wrigley Field",67,95
+2393,2002,"Cincinnati Reds","Cinergy Field",78,84
+2394,2002,"Cleveland Indians","Jacobs Field",74,88
+2395,2002,"Colorado Rockies","Coors Field",73,89
+2396,2002,"Detroit Tigers","Comerica Park",55,106
+2397,2002,"Florida Marlins","Pro Player Stadium",79,83
+2398,2002,"Houston Astros","Minute Maid Park",84,78
+2399,2002,"Kansas City Royals","Kauffman Stadium",62,100
+2400,2002,"Los Angeles Dodgers","Dodger Stadium",92,70
+2401,2002,"Milwaukee Brewers","Miller Park",56,106
+2402,2002,"Minnesota Twins","Hubert H Humphrey Metrodome",94,67
+2403,2002,"Montreal Expos","Stade Olympique",83,79
+2404,2002,"New York Yankees","Yankee Stadium II",103,58
+2405,2002,"New York Mets","Shea Stadium",75,86
+2406,2002,"Oakland Athletics","Oakland Coliseum",103,59
+2407,2002,"Philadelphia Phillies","Veterans Stadium",80,81
+2408,2002,"Pittsburgh Pirates","PNC Park",72,89
+2409,2002,"San Diego Padres","Qualcomm Stadium",66,96
+2410,2002,"Seattle Mariners","Safeco Field",93,69
+2411,2002,"San Francisco Giants","PacBell Park",95,66
+2412,2002,"St. Louis Cardinals","Busch Stadium II",97,65
+2413,2002,"Tampa Bay Devil Rays","Tropicana Field",55,106
+2414,2002,"Texas Rangers","The Ballpark at Arlington",72,90
+2415,2002,"Toronto Blue Jays",Skydome,78,84
+2416,2003,"Anaheim Angels","Edison International Field",77,85
+2417,2003,"Arizona Diamondbacks","Bank One Ballpark",84,78
+2418,2003,"Atlanta Braves","Turner Field",101,61
+2419,2003,"Baltimore Orioles","Oriole Park at Camden Yards",71,91
+2420,2003,"Boston Red Sox","Fenway Park II",95,67
+2421,2003,"Chicago White Sox","U.S. Cellular Field",86,76
+2422,2003,"Chicago Cubs","Wrigley Field",88,74
+2423,2003,"Cincinnati Reds","Great American Ball Park",69,93
+2424,2003,"Cleveland Indians","Jacobs Field",68,94
+2425,2003,"Colorado Rockies","Coors Field",74,88
+2426,2003,"Detroit Tigers","Comerica Park",43,119
+2427,2003,"Florida Marlins","Pro Player Stadium",91,71
+2428,2003,"Houston Astros","Minute Maid Park",87,75
+2429,2003,"Kansas City Royals","Kauffman Stadium",83,79
+2430,2003,"Los Angeles Dodgers","Dodger Stadium",85,77
+2431,2003,"Milwaukee Brewers","Miller Park",68,94
+2432,2003,"Minnesota Twins","Hubert H Humphrey Metrodome",90,72
+2433,2003,"Montreal Expos","Stade Olympique/Hiram Bithorn Stadium",83,79
+2434,2003,"New York Yankees","Yankee Stadium II",101,61
+2435,2003,"New York Mets","Shea Stadium",66,95
+2436,2003,"Oakland Athletics","Oakland Coliseum",96,66
+2437,2003,"Philadelphia Phillies","Veterans Stadium",86,76
+2438,2003,"Pittsburgh Pirates","PNC Park",75,87
+2439,2003,"San Diego Padres","Qualcomm Stadium",64,98
+2440,2003,"Seattle Mariners","Safeco Field",93,69
+2441,2003,"San Francisco Giants","PacBell Park",100,61
+2442,2003,"St. Louis Cardinals","Busch Stadium II",85,77
+2443,2003,"Tampa Bay Devil Rays","Tropicana Field",63,99
+2444,2003,"Texas Rangers","The Ballpark at Arlington",71,91
+2445,2003,"Toronto Blue Jays",Skydome,86,76
+2446,2004,"Anaheim Angels","Angels Stadium of Anaheim",92,70
+2447,2004,"Arizona Diamondbacks","Bank One Ballpark",51,111
+2448,2004,"Atlanta Braves","Turner Field",96,66
+2449,2004,"Baltimore Orioles","Oriole Park at Camden Yards",78,84
+2450,2004,"Boston Red Sox","Fenway Park II",98,64
+2451,2004,"Chicago White Sox","U.S. Cellular Field",83,79
+2452,2004,"Chicago Cubs","Wrigley Field",89,73
+2453,2004,"Cincinnati Reds","Great American Ball Park",76,86
+2454,2004,"Cleveland Indians","Jacobs Field",80,82
+2455,2004,"Colorado Rockies","Coors Field",68,94
+2456,2004,"Detroit Tigers","Comerica Park",72,90
+2457,2004,"Florida Marlins","Pro Player Stadium",83,79
+2458,2004,"Houston Astros","Minute Maid Park",92,70
+2459,2004,"Kansas City Royals","Kauffman Stadium",58,104
+2460,2004,"Los Angeles Dodgers","Dodger Stadium",93,69
+2461,2004,"Milwaukee Brewers","Miller Park",67,94
+2462,2004,"Minnesota Twins","Hubert H Humphrey Metrodome",92,70
+2463,2004,"Montreal Expos","Stade Olympique/Hiram Bithorn Stadium",67,95
+2464,2004,"New York Yankees","Yankee Stadium II",101,61
+2465,2004,"New York Mets","Shea Stadium",71,91
+2466,2004,"Oakland Athletics","Network Associates Coliseum",91,71
+2467,2004,"Philadelphia Phillies","Citizens Bank Park",86,76
+2468,2004,"Pittsburgh Pirates","PNC Park",72,89
+2469,2004,"San Diego Padres","Petco Park",87,75
+2470,2004,"Seattle Mariners","Safeco Field",63,99
+2471,2004,"San Francisco Giants","SBC Park",91,71
+2472,2004,"St. Louis Cardinals","Busch Stadium II",105,57
+2473,2004,"Tampa Bay Devil Rays","Tropicana Field",70,91
+2474,2004,"Texas Rangers","The Ballpark at Arlington",89,73
+2475,2004,"Toronto Blue Jays",Skydome,67,94
+2476,2005,"Arizona Diamondbacks","Bank One Ballpark",77,85
+2477,2005,"Atlanta Braves","Turner Field",90,72
+2478,2005,"Baltimore Orioles","Oriole Park at Camden Yards",74,88
+2479,2005,"Boston Red Sox","Fenway Park II",95,67
+2480,2005,"Chicago White Sox","U.S. Cellular Field",99,63
+2481,2005,"Chicago Cubs","Wrigley Field",79,83
+2482,2005,"Cincinnati Reds","Great American Ball Park",73,89
+2483,2005,"Cleveland Indians","Jacobs Field",93,69
+2484,2005,"Colorado Rockies","Coors Field",67,95
+2485,2005,"Detroit Tigers","Comerica Park",71,91
+2486,2005,"Florida Marlins","Dolphin Stadium",83,79
+2487,2005,"Houston Astros","Minute Maid Park",89,73
+2488,2005,"Kansas City Royals","Kauffman Stadium",56,106
+2489,2005,"Los Angeles Angels of Anaheim","Angel Stadium",95,67
+2490,2005,"Los Angeles Dodgers","Dodger Stadium",71,91
+2491,2005,"Milwaukee Brewers","Miller Park",81,81
+2492,2005,"Minnesota Twins","Hubert H Humphrey Metrodome",83,79
+2493,2005,"New York Yankees","Yankee Stadium II",95,67
+2494,2005,"New York Mets","Shea Stadium",83,79
+2495,2005,"Oakland Athletics","McAfee Coliseum",88,74
+2496,2005,"Philadelphia Phillies","Citizens Bank Park",88,74
+2497,2005,"Pittsburgh Pirates","PNC Park",67,95
+2498,2005,"San Diego Padres","Petco Park",82,80
+2499,2005,"Seattle Mariners","Safeco Field",69,93
+2500,2005,"San Francisco Giants","SBC Park",75,87
+2501,2005,"St. Louis Cardinals","Busch Stadium II",100,62
+2502,2005,"Tampa Bay Devil Rays","Tropicana Field",67,95
+2503,2005,"Texas Rangers","Ameriquest Field",79,83
+2504,2005,"Toronto Blue Jays","Rogers Centre",80,82
+2505,2005,"Washington Nationals","R.F.K. Stadium",81,81
+2506,2006,"Arizona Diamondbacks","Chase Field",76,86
+2507,2006,"Atlanta Braves","Turner Field",79,83
+2508,2006,"Baltimore Orioles","Oriole Park at Camden Yards",70,92
+2509,2006,"Boston Red Sox","Fenway Park II",86,76
+2510,2006,"Chicago White Sox","U.S. Cellular Field",90,72
+2511,2006,"Chicago Cubs","Wrigley Field",66,96
+2512,2006,"Cincinnati Reds","Great American Ball Park",80,82
+2513,2006,"Cleveland Indians","Jacobs Field",78,84
+2514,2006,"Colorado Rockies","Coors Field",76,86
+2515,2006,"Detroit Tigers","Comerica Park",95,67
+2516,2006,"Florida Marlins","Dolphin Stadium",78,84
+2517,2006,"Houston Astros","Minute Maid Park",82,80
+2518,2006,"Kansas City Royals","Kauffman Stadium",62,100
+2519,2006,"Los Angeles Angels of Anaheim","Angel Stadium",89,73
+2520,2006,"Los Angeles Dodgers","Dodger Stadium",88,74
+2521,2006,"Milwaukee Brewers","Miller Park",75,87
+2522,2006,"Minnesota Twins","Hubert H Humphrey Metrodome",96,66
+2523,2006,"New York Yankees","Yankee Stadium II",97,65
+2524,2006,"New York Mets","Shea Stadium",97,65
+2525,2006,"Oakland Athletics","McAfee Coliseum",93,69
+2526,2006,"Philadelphia Phillies","Citizens Bank Park",85,77
+2527,2006,"Pittsburgh Pirates","PNC Park",67,95
+2528,2006,"San Diego Padres","Petco Park",88,74
+2529,2006,"Seattle Mariners","Safeco Field",78,84
+2530,2006,"San Francisco Giants","AT&T Park",76,85
+2531,2006,"St. Louis Cardinals","Busch Stadium III",83,78
+2532,2006,"Tampa Bay Devil Rays","Tropicana Field",61,101
+2533,2006,"Texas Rangers","Ameriquest Field",80,82
+2534,2006,"Toronto Blue Jays","Rogers Centre",87,75
+2535,2006,"Washington Nationals","R.F.K. Stadium",71,91
+2536,2007,"Arizona Diamondbacks","Chase Field",90,72
+2537,2007,"Atlanta Braves","Turner Field",84,78
+2538,2007,"Baltimore Orioles","Oriole Park at Camden Yards",69,93
+2539,2007,"Boston Red Sox","Fenway Park II",96,66
+2540,2007,"Chicago White Sox","U.S. Cellular Field",72,90
+2541,2007,"Chicago Cubs","Wrigley Field",85,77
+2542,2007,"Cincinnati Reds","Great American Ball Park",72,90
+2543,2007,"Cleveland Indians","Jacobs Field",96,66
+2544,2007,"Colorado Rockies","Coors Field",90,73
+2545,2007,"Detroit Tigers","Comerica Park",88,74
+2546,2007,"Florida Marlins","Dolphin Stadium",71,91
+2547,2007,"Houston Astros","Minute Maid Park",73,89
+2548,2007,"Kansas City Royals","Kauffman Stadium",69,93
+2549,2007,"Los Angeles Angels of Anaheim","Angel Stadium",94,68
+2550,2007,"Los Angeles Dodgers","Dodger Stadium",82,80
+2551,2007,"Milwaukee Brewers","Miller Park",83,79
+2552,2007,"Minnesota Twins","Hubert H Humphrey Metrodome",79,83
+2553,2007,"New York Yankees","Yankee Stadium II",94,68
+2554,2007,"New York Mets","Shea Stadium",88,74
+2555,2007,"Oakland Athletics","McAfee Coliseum",76,86
+2556,2007,"Philadelphia Phillies","Citizens Bank Park",89,73
+2557,2007,"Pittsburgh Pirates","PNC Park",68,94
+2558,2007,"San Diego Padres","Petco Park",89,74
+2559,2007,"Seattle Mariners","Safeco Field",88,74
+2560,2007,"San Francisco Giants","AT&T Park",71,91
+2561,2007,"St. Louis Cardinals","Busch Stadium III",78,84
+2562,2007,"Tampa Bay Devil Rays","Tropicana Field",66,96
+2563,2007,"Texas Rangers","Rangers Ballpark in Arlington",75,87
+2564,2007,"Toronto Blue Jays","Rogers Centre",83,79
+2565,2007,"Washington Nationals","R.F.K. Stadium",73,89
+2566,2008,"Arizona Diamondbacks","Chase Field",82,80
+2567,2008,"Atlanta Braves","Turner Field",72,90
+2568,2008,"Baltimore Orioles","Oriole Park at Camden Yards",68,93
+2569,2008,"Boston Red Sox","Fenway Park II",95,67
+2570,2008,"Chicago White Sox","U.S. Cellular Field",89,74
+2571,2008,"Chicago Cubs","Wrigley Field",97,64
+2572,2008,"Cincinnati Reds","Great American Ball Park",74,88
+2573,2008,"Cleveland Indians","Jacobs Field",81,81
+2574,2008,"Colorado Rockies","Coors Field",74,88
+2575,2008,"Detroit Tigers","Comerica Park",74,88
+2576,2008,"Florida Marlins","Dolphin Stadium",84,77
+2577,2008,"Houston Astros","Minute Maid Park",86,75
+2578,2008,"Kansas City Royals","Kauffman Stadium",75,87
+2579,2008,"Los Angeles Angels of Anaheim","Angel Stadium",100,62
+2580,2008,"Los Angeles Dodgers","Dodger Stadium",84,78
+2581,2008,"Milwaukee Brewers","Miller Park",90,72
+2582,2008,"Minnesota Twins","Hubert H Humphrey Metrodome",88,75
+2583,2008,"New York Yankees","Yankee Stadium II",89,73
+2584,2008,"New York Mets","Shea Stadium",89,73
+2585,2008,"Oakland Athletics","McAfee Coliseum",75,86
+2586,2008,"Philadelphia Phillies","Citizens Bank Park",92,70
+2587,2008,"Pittsburgh Pirates","PNC Park",67,95
+2588,2008,"San Diego Padres","Petco Park",63,99
+2589,2008,"Seattle Mariners","Safeco Field",61,101
+2590,2008,"San Francisco Giants","AT&T Park",72,90
+2591,2008,"St. Louis Cardinals","Busch Stadium III",86,76
+2592,2008,"Tampa Bay Rays","Tropicana Field",97,65
+2593,2008,"Texas Rangers","Rangers Ballpark in Arlington",79,83
+2594,2008,"Toronto Blue Jays","Rogers Centre",86,76
+2595,2008,"Washington Nationals","Nationals Park",59,102
+2596,2009,"Arizona Diamondbacks","Chase Field",70,92
+2597,2009,"Atlanta Braves","Turner Field",86,76
+2598,2009,"Baltimore Orioles","Oriole Park at Camden Yards",64,98
+2599,2009,"Boston Red Sox","Fenway Park II",95,67
+2600,2009,"Chicago White Sox","U.S. Cellular Field",79,83
+2601,2009,"Chicago Cubs","Wrigley Field",83,78
+2602,2009,"Cincinnati Reds","Great American Ball Park",78,84
+2603,2009,"Cleveland Indians","Jacobs Field",65,97
+2604,2009,"Colorado Rockies","Coors Field",92,70
+2605,2009,"Detroit Tigers","Comerica Park",86,77
+2606,2009,"Florida Marlins","Dolphin Stadium",87,75
+2607,2009,"Houston Astros","Minute Maid Park",74,88
+2608,2009,"Kansas City Royals","Kauffman Stadium",65,97
+2609,2009,"Los Angeles Angels of Anaheim","Angel Stadium",97,65
+2610,2009,"Los Angeles Dodgers","Dodger Stadium",95,67
+2611,2009,"Milwaukee Brewers","Miller Park",80,82
+2612,2009,"Minnesota Twins","Hubert H Humphrey Metrodome",87,76
+2613,2009,"New York Yankees","Yankee Stadium III",103,59
+2614,2009,"New York Mets","Citi Field",70,92
+2615,2009,"Oakland Athletics","Oakland-Alameda County Coliseum",75,87
+2616,2009,"Philadelphia Phillies","Citizens Bank Park",93,69
+2617,2009,"Pittsburgh Pirates","PNC Park",62,99
+2618,2009,"San Diego Padres","Petco Park",75,87
+2619,2009,"Seattle Mariners","Safeco Field",85,77
+2620,2009,"San Francisco Giants","AT&T Park",88,74
+2621,2009,"St. Louis Cardinals","Busch Stadium III",91,71
+2622,2009,"Tampa Bay Rays","Tropicana Field",84,78
+2623,2009,"Texas Rangers","Rangers Ballpark in Arlington",87,75
+2624,2009,"Toronto Blue Jays","Rogers Centre",75,87
+2625,2009,"Washington Nationals","Nationals Park",59,103
+2626,2010,"Arizona Diamondbacks","Chase Field",65,97
+2627,2010,"Atlanta Braves","Turner Field",91,71
+2628,2010,"Baltimore Orioles","Oriole Park at Camden Yards",66,96
+2629,2010,"Boston Red Sox","Fenway Park II",89,73
+2630,2010,"Chicago White Sox","U.S. Cellular Field",88,74
+2631,2010,"Chicago Cubs","Wrigley Field",75,87
+2632,2010,"Cincinnati Reds","Great American Ball Park",91,71
+2633,2010,"Cleveland Indians","Jacobs Field",69,93
+2634,2010,"Colorado Rockies","Coors Field",83,79
+2635,2010,"Detroit Tigers","Comerica Park",81,81
+2636,2010,"Florida Marlins","Dolphin Stadium",80,82
+2637,2010,"Houston Astros","Minute Maid Park",76,86
+2638,2010,"Kansas City Royals","Kauffman Stadium",67,95
+2639,2010,"Los Angeles Angels of Anaheim","Angel Stadium",80,82
+2640,2010,"Los Angeles Dodgers","Dodger Stadium",80,82
+2641,2010,"Milwaukee Brewers","Miller Park",77,85
+2642,2010,"Minnesota Twins","Target Field",94,68
+2643,2010,"New York Yankees","Yankee Stadium III",95,67
+2644,2010,"New York Mets","Citi Field",79,83
+2645,2010,"Oakland Athletics","Oakland-Alameda County Coliseum",81,81
+2646,2010,"Philadelphia Phillies","Citizens Bank Park",97,65
+2647,2010,"Pittsburgh Pirates","PNC Park",57,105
+2648,2010,"San Diego Padres","Petco Park",90,72
+2649,2010,"Seattle Mariners","Safeco Field",61,101
+2650,2010,"San Francisco Giants","AT&T Park",92,70
+2651,2010,"St. Louis Cardinals","Busch Stadium III",86,76
+2652,2010,"Tampa Bay Rays","Tropicana Field",96,66
+2653,2010,"Texas Rangers","Rangers Ballpark in Arlington",90,72
+2654,2010,"Toronto Blue Jays","Rogers Centre",85,77
+2655,2010,"Washington Nationals","Nationals Park",69,93
+2656,2011,"Arizona Diamondbacks","Chase Field",94,68
+2657,2011,"Atlanta Braves","Turner Field",89,73
+2658,2011,"Baltimore Orioles","Oriole Park at Camden Yards",69,93
+2659,2011,"Boston Red Sox","Fenway Park II",90,72
+2660,2011,"Chicago White Sox","U.S. Cellular Field",79,83
+2661,2011,"Chicago Cubs","Wrigley Field",71,91
+2662,2011,"Cincinnati Reds","Great American Ball Park",79,83
+2663,2011,"Cleveland Indians","Jacobs Field",80,82
+2664,2011,"Colorado Rockies","Coors Field",73,89
+2665,2011,"Detroit Tigers","Comerica Park",95,67
+2666,2011,"Florida Marlins","Sun Life Stadium",72,90
+2667,2011,"Houston Astros","Minute Maid Park",56,106
+2668,2011,"Kansas City Royals","Kauffman Stadium",71,91
+2669,2011,"Los Angeles Angels of Anaheim","Angel Stadium",86,76
+2670,2011,"Los Angeles Dodgers","Dodger Stadium",82,79
+2671,2011,"Milwaukee Brewers","Miller Park",96,66
+2672,2011,"Minnesota Twins","Target Field",63,99
+2673,2011,"New York Yankees","Yankee Stadium III",97,65
+2674,2011,"New York Mets","Citi Field",77,85
+2675,2011,"Oakland Athletics","Oakland-Alameda County Coliseum",74,88
+2676,2011,"Philadelphia Phillies","Citizens Bank Park",102,60
+2677,2011,"Pittsburgh Pirates","PNC Park",72,90
+2678,2011,"San Diego Padres","Petco Park",71,91
+2679,2011,"Seattle Mariners","Safeco Field",67,95
+2680,2011,"San Francisco Giants","AT&T Park",86,76
+2681,2011,"St. Louis Cardinals","Busch Stadium III",90,72
+2682,2011,"Tampa Bay Rays","Tropicana Field",91,71
+2683,2011,"Texas Rangers","Rangers Ballpark in Arlington",96,66
+2684,2011,"Toronto Blue Jays","Rogers Centre",81,81
+2685,2011,"Washington Nationals","Nationals Park",80,81
+2686,2012,"Arizona Diamondbacks","Chase Field",81,81
+2687,2012,"Atlanta Braves","Turner Field",94,68
+2688,2012,"Baltimore Orioles","Oriole Park at Camden Yards",93,69
+2689,2012,"Boston Red Sox","Fenway Park II",69,93
+2690,2012,"Chicago White Sox","U.S. Cellular Field",85,77
+2691,2012,"Chicago Cubs","Wrigley Field",61,101
+2692,2012,"Cincinnati Reds","Great American Ball Park",97,65
+2693,2012,"Cleveland Indians","Progressive Field",68,94
+2694,2012,"Colorado Rockies","Coors Field",64,98
+2695,2012,"Detroit Tigers","Comerica Park",88,74
+2696,2012,"Houston Astros","Minute Maid Park",55,107
+2697,2012,"Kansas City Royals","Kauffman Stadium",72,90
+2698,2012,"Los Angeles Angels of Anaheim","Angel Stadium of Anaheim",89,73
+2699,2012,"Los Angeles Dodgers","Dodger Stadium",86,76
+2700,2012,"Miami Marlins","Marlins Park",69,93
+2701,2012,"Milwaukee Brewers","Miller Park",83,79
+2702,2012,"Minnesota Twins","Target Field",66,96
+2703,2012,"New York Yankees","Yankee Stadium III",95,67
+2704,2012,"New York Mets","Citi Field",74,88
+2705,2012,"Oakland Athletics","O.co Coliseum",94,68
+2706,2012,"Philadelphia Phillies","Citizens Bank Park",81,81
+2707,2012,"Pittsburgh Pirates","PNC Park",79,83
+2708,2012,"San Diego Padres","Petco Park",76,86
+2709,2012,"Seattle Mariners","Safeco Field",75,87
+2710,2012,"San Francisco Giants","AT&T Park",94,68
+2711,2012,"St. Louis Cardinals","Busch Stadium III",88,74
+2712,2012,"Tampa Bay Rays","Tropicana Field",90,72
+2713,2012,"Texas Rangers","Rangers Ballpark in Arlington",93,69
+2714,2012,"Toronto Blue Jays","Rogers Centre",73,89
+2715,2012,"Washington Nationals","Nationals Park",98,64
+2716,2013,"Arizona Diamondbacks","Chase Field",81,81
+2717,2013,"Atlanta Braves","Turner Field",96,66
+2718,2013,"Baltimore Orioles","Oriole Park at Camden Yards",85,77
+2719,2013,"Boston Red Sox","Fenway Park II",97,65
+2720,2013,"Chicago White Sox","U.S. Cellular Field",63,99
+2721,2013,"Chicago Cubs","Wrigley Field",66,96
+2722,2013,"Cincinnati Reds","Great American Ball Park",90,72
+2723,2013,"Cleveland Indians","Progressive Field",92,70
+2724,2013,"Colorado Rockies","Coors Field",74,88
+2725,2013,"Detroit Tigers","Comerica Park",93,69
+2726,2013,"Houston Astros","Minute Maid Park",51,111
+2727,2013,"Kansas City Royals","Kauffman Stadium",86,76
+2728,2013,"Los Angeles Angels of Anaheim","Angel Stadium of Anaheim",78,84
+2729,2013,"Los Angeles Dodgers","Dodger Stadium",92,70
+2730,2013,"Miami Marlins","Marlins Park",62,100
+2731,2013,"Milwaukee Brewers","Miller Park",74,88
+2732,2013,"Minnesota Twins","Target Field",66,96
+2733,2013,"New York Yankees","Yankee Stadium III",85,77
+2734,2013,"New York Mets","Citi Field",74,88
+2735,2013,"Oakland Athletics","O.co Coliseum",96,66
+2736,2013,"Philadelphia Phillies","Citizens Bank Park",73,89
+2737,2013,"Pittsburgh Pirates","PNC Park",94,68
+2738,2013,"San Diego Padres","Petco Park",76,86
+2739,2013,"Seattle Mariners","Safeco Field",71,91
+2740,2013,"San Francisco Giants","AT&T Park",76,86
+2741,2013,"St. Louis Cardinals","Busch Stadium III",97,65
+2742,2013,"Tampa Bay Rays","Tropicana Field",92,71
+2743,2013,"Texas Rangers","Rangers Ballpark in Arlington",91,72
+2744,2013,"Toronto Blue Jays","Rogers Centre",74,88
+2745,2013,"Washington Nationals","Nationals Park",86,76
+2746,2014,"Arizona Diamondbacks","Chase Field",64,98
+2747,2014,"Atlanta Braves","Turner Field",79,83
+2748,2014,"Baltimore Orioles","Oriole Park at Camden Yards",96,66
+2749,2014,"Boston Red Sox","Fenway Park II",71,91
+2750,2014,"Chicago White Sox","U.S. Cellular Field",73,89
+2751,2014,"Chicago Cubs","Wrigley Field",73,89
+2752,2014,"Cincinnati Reds","Great American Ball Park",76,86
+2753,2014,"Cleveland Indians","Progressive Field",85,77
+2754,2014,"Colorado Rockies","Coors Field",66,96
+2755,2014,"Detroit Tigers","Comerica Park",90,72
+2756,2014,"Houston Astros","Minute Maid Park",70,92
+2757,2014,"Kansas City Royals","Kauffman Stadium",89,73
+2758,2014,"Los Angeles Angels of Anaheim","Angel Stadium of Anaheim",98,64
+2759,2014,"Los Angeles Dodgers","Dodger Stadium",94,68
+2760,2014,"Miami Marlins","Marlins Park",77,85
+2761,2014,"Milwaukee Brewers","Miller Park",82,80
+2762,2014,"Minnesota Twins","Target Field",70,92
+2763,2014,"New York Yankees","Yankee Stadium III",84,78
+2764,2014,"New York Mets","Citi Field",79,83
+2765,2014,"Oakland Athletics","O.co Coliseum",88,74
+2766,2014,"Philadelphia Phillies","Citizens Bank Park",73,89
+2767,2014,"Pittsburgh Pirates","PNC Park",88,74
+2768,2014,"San Diego Padres","Petco Park",77,85
+2769,2014,"Seattle Mariners","Safeco Field",87,75
+2770,2014,"San Francisco Giants","AT&T Park",88,74
+2771,2014,"St. Louis Cardinals","Busch Stadium III",90,72
+2772,2014,"Tampa Bay Rays","Tropicana Field",77,85
+2773,2014,"Texas Rangers","Rangers Ballpark in Arlington",67,95
+2774,2014,"Toronto Blue Jays","Rogers Centre",83,79
+2775,2014,"Washington Nationals","Nationals Park",96,66
+2776,2015,"Arizona Diamondbacks","Chase Field",79,83
+2777,2015,"Atlanta Braves","Turner Field",67,95
+2778,2015,"Baltimore Orioles","Oriole Park at Camden Yards",81,81
+2779,2015,"Boston Red Sox","Fenway Park II",78,84
+2780,2015,"Chicago White Sox","U.S. Cellular Field",76,86
+2781,2015,"Chicago Cubs","Wrigley Field",97,65
+2782,2015,"Cincinnati Reds","Great American Ball Park",64,98
+2783,2015,"Cleveland Indians","Progressive Field",81,80
+2784,2015,"Colorado Rockies","Coors Field",68,94
+2785,2015,"Detroit Tigers","Comerica Park",74,87
+2786,2015,"Houston Astros","Minute Maid Park",86,76
+2787,2015,"Kansas City Royals","Kauffman Stadium",95,67
+2788,2015,"Los Angeles Angels of Anaheim","Angel Stadium of Anaheim",85,77
+2789,2015,"Los Angeles Dodgers","Dodger Stadium",92,70
+2790,2015,"Miami Marlins","Marlins Park",71,91
+2791,2015,"Milwaukee Brewers","Miller Park",68,94
+2792,2015,"Minnesota Twins","Target Field",83,79
+2793,2015,"New York Yankees","Yankee Stadium III",87,75
+2794,2015,"New York Mets","Citi Field",90,72
+2795,2015,"Oakland Athletics","O.co Coliseum",68,94
+2796,2015,"Philadelphia Phillies","Citizens Bank Park",63,99
+2797,2015,"Pittsburgh Pirates","PNC Park",98,64
+2798,2015,"San Diego Padres","Petco Park",74,88
+2799,2015,"Seattle Mariners","Safeco Field",76,86
+2800,2015,"San Francisco Giants","AT&T Park",84,78
+2801,2015,"St. Louis Cardinals","Busch Stadium III",100,62
+2802,2015,"Tampa Bay Rays","Tropicana Field",80,82
+2803,2015,"Texas Rangers","Rangers Ballpark in Arlington",88,74
+2804,2015,"Toronto Blue Jays","Rogers Centre",93,69
+2805,2015,"Washington Nationals","Nationals Park",83,79
+2806,2016,"Arizona Diamondbacks","Chase Field",69,93
+2807,2016,"Atlanta Braves","Turner Field",68,93
+2808,2016,"Baltimore Orioles","Oriole Park at Camden Yards",89,73
+2809,2016,"Boston Red Sox","Fenway Park II",93,69
+2810,2016,"Chicago White Sox","U.S. Cellular Field",78,84
+2811,2016,"Chicago Cubs","Wrigley Field",103,58
+2812,2016,"Cincinnati Reds","Great American Ball Park",68,94
+2813,2016,"Cleveland Indians","Progressive Field",94,67
+2814,2016,"Colorado Rockies","Coors Field",75,87
+2815,2016,"Detroit Tigers","Comerica Park",86,75
+2816,2016,"Houston Astros","Minute Maid Park",84,78
+2817,2016,"Kansas City Royals","Kauffman Stadium",81,81
+2818,2016,"Los Angeles Angels of Anaheim","Angel Stadium of Anaheim",74,88
+2819,2016,"Los Angeles Dodgers","Dodger Stadium",91,71
+2820,2016,"Miami Marlins","Marlins Park",79,82
+2821,2016,"Milwaukee Brewers","Miller Park",73,89
+2822,2016,"Minnesota Twins","Target Field",59,103
+2823,2016,"New York Yankees","Yankee Stadium III",84,78
+2824,2016,"New York Mets","Citi Field",87,75
+2825,2016,"Oakland Athletics","O.co Coliseum",69,93
+2826,2016,"Philadelphia Phillies","Citizens Bank Park",71,91
+2827,2016,"Pittsburgh Pirates","PNC Park",78,83
+2828,2016,"San Diego Padres","Petco Park",68,94
+2829,2016,"Seattle Mariners","Safeco Field",86,76
+2830,2016,"San Francisco Giants","AT&T Park",87,75
+2831,2016,"St. Louis Cardinals","Busch Stadium III",86,76
+2832,2016,"Tampa Bay Rays","Tropicana Field",68,94
+2833,2016,"Texas Rangers","Rangers Ballpark in Arlington",95,67
+2834,2016,"Toronto Blue Jays","Rogers Centre",89,73
+2835,2016,"Washington Nationals","Nationals Park",95,67
+2836,2017,"Arizona Diamondbacks","Chase Field",93,69
+2837,2017,"Atlanta Braves","SunTrust Park",72,90
+2838,2017,"Baltimore Orioles","Oriole Park at Camden Yards",75,87
+2839,2017,"Boston Red Sox","Fenway Park II",93,69
+2840,2017,"Chicago White Sox","U.S. Cellular Field",67,95
+2841,2017,"Chicago Cubs","Wrigley Field",92,70
+2842,2017,"Cincinnati Reds","Great American Ball Park",68,94
+2843,2017,"Cleveland Indians","Progressive Field",102,60
+2844,2017,"Colorado Rockies","Coors Field",87,75
+2845,2017,"Detroit Tigers","Comerica Park",64,98
+2846,2017,"Houston Astros","Minute Maid Park",101,61
+2847,2017,"Kansas City Royals","Kauffman Stadium",80,82
+2848,2017,"Los Angeles Angels of Anaheim","Angel Stadium of Anaheim",80,82
+2849,2017,"Los Angeles Dodgers","Dodger Stadium",104,58
+2850,2017,"Miami Marlins","Marlins Park",77,85
+2851,2017,"Milwaukee Brewers","Miller Park",86,76
+2852,2017,"Minnesota Twins","Target Field",85,77
+2853,2017,"New York Yankees","Yankee Stadium III",91,71
+2854,2017,"New York Mets","Citi Field",70,92
+2855,2017,"Oakland Athletics","O.co Coliseum",75,87
+2856,2017,"Philadelphia Phillies","Citizens Bank Park",66,96
+2857,2017,"Pittsburgh Pirates","PNC Park",75,87
+2858,2017,"San Diego Padres","Petco Park",71,91
+2859,2017,"Seattle Mariners","Safeco Field",78,84
+2860,2017,"San Francisco Giants","AT&T Park",64,98
+2861,2017,"St. Louis Cardinals","Busch Stadium III",83,79
+2862,2017,"Tampa Bay Rays","Tropicana Field",80,82
+2863,2017,"Texas Rangers","Rangers Ballpark in Arlington",78,84
+2864,2017,"Toronto Blue Jays","Rogers Centre",76,86
+2865,2017,"Washington Nationals","Nationals Park",97,65
+2866,2018,"Arizona Diamondbacks","Chase Field",82,80
+2867,2018,"Atlanta Braves","SunTrust Park",90,72
+2868,2018,"Baltimore Orioles","Oriole Park at Camden Yards",47,115
+2869,2018,"Boston Red Sox","Fenway Park II",108,54
+2870,2018,"Chicago White Sox","Guaranteed Rate Field",62,100
+2871,2018,"Chicago Cubs","Wrigley Field",95,68
+2872,2018,"Cincinnati Reds","Great American Ball Park",67,95
+2873,2018,"Cleveland Indians","Progressive Field",91,71
+2874,2018,"Colorado Rockies","Coors Field",91,72
+2875,2018,"Detroit Tigers","Comerica Park",64,98
+2876,2018,"Houston Astros","Minute Maid Park",103,59
+2877,2018,"Kansas City Royals","Kauffman Stadium",58,104
+2878,2018,"Los Angeles Angels of Anaheim","Angel Stadium of Anaheim",80,82
+2879,2018,"Los Angeles Dodgers","Dodger Stadium",92,71
+2880,2018,"Miami Marlins","Marlins Park",63,98
+2881,2018,"Milwaukee Brewers","Miller Park",96,67
+2882,2018,"Minnesota Twins","Target Field",78,84
+2883,2018,"New York Yankees","Yankee Stadium III",100,62
+2884,2018,"New York Mets","Citi Field",77,85
+2885,2018,"Oakland Athletics","O.co Coliseum",97,65
+2886,2018,"Philadelphia Phillies","Citizens Bank Park",80,82
+2887,2018,"Pittsburgh Pirates","PNC Park",82,79
+2888,2018,"San Diego Padres","Petco Park",66,96
+2889,2018,"Seattle Mariners","Safeco Field",89,73
+2890,2018,"San Francisco Giants","AT&T Park",73,89
+2891,2018,"St. Louis Cardinals","Busch Stadium III",88,74
+2892,2018,"Tampa Bay Rays","Tropicana Field",90,72
+2893,2018,"Texas Rangers","Globe Life Park in Arlington",67,95
+2894,2018,"Toronto Blue Jays","Rogers Centre",73,89
+2895,2018,"Washington Nationals","Nationals Park",82,80
+2896,2019,"Arizona Diamondbacks","Chase Field",85,77
+2897,2019,"Atlanta Braves","SunTrust Park",97,65
+2898,2019,"Baltimore Orioles","Oriole Park at Camden Yards",54,108
+2899,2019,"Boston Red Sox","Fenway Park II",84,78
+2900,2019,"Chicago White Sox","Guaranteed Rate Field",72,89
+2901,2019,"Chicago Cubs","Wrigley Field",84,78
+2902,2019,"Cincinnati Reds","Great American Ball Park",75,87
+2903,2019,"Cleveland Indians","Progressive Field",93,69
+2904,2019,"Colorado Rockies","Coors Field",71,91
+2905,2019,"Detroit Tigers","Comerica Park",47,114
+2906,2019,"Houston Astros","Minute Maid Park",107,55
+2907,2019,"Kansas City Royals","Kauffman Stadium",59,103
+2908,2019,"Los Angeles Angels of Anaheim","Angel Stadium of Anaheim",72,90
+2909,2019,"Los Angeles Dodgers","Dodger Stadium",106,56
+2910,2019,"Miami Marlins","Marlins Park",57,105
+2911,2019,"Milwaukee Brewers","Miller Park",89,73
+2912,2019,"Minnesota Twins","Target Field",101,61
+2913,2019,"New York Yankees","Yankee Stadium III",103,59
+2914,2019,"New York Mets","Citi Field",86,76
+2915,2019,"Oakland Athletics","O.co Coliseum",97,65
+2916,2019,"Philadelphia Phillies","Citizens Bank Park",81,81
+2917,2019,"Pittsburgh Pirates","PNC Park",69,93
+2918,2019,"San Diego Padres","Petco Park",70,92
+2919,2019,"Seattle Mariners","T-Mobile Park",68,94
+2920,2019,"San Francisco Giants","Oracle Park",77,85
+2921,2019,"St. Louis Cardinals","Busch Stadium III",91,71
+2922,2019,"Tampa Bay Rays","Tropicana Field",96,66
+2923,2019,"Texas Rangers","Globe Life Park in Arlington",78,84
+2924,2019,"Toronto Blue Jays","Rogers Centre",67,95
+2925,2019,"Washington Nationals","Nationals Park",93,69
+2926,2020,"Arizona Diamondbacks","Chase Field",25,35
+2927,2020,"Atlanta Braves","SunTrust Park",35,25
+2928,2020,"Baltimore Orioles","Oriole Park at Camden Yards",25,35
+2929,2020,"Boston Red Sox","Fenway Park II",24,36
+2930,2020,"Chicago White Sox","Guaranteed Rate Field",35,25
+2931,2020,"Chicago Cubs","Wrigley Field",34,26
+2932,2020,"Cincinnati Reds","Great American Ball Park",31,29
+2933,2020,"Cleveland Indians","Progressive Field",35,25
+2934,2020,"Colorado Rockies","Coors Field",26,34
+2935,2020,"Detroit Tigers","Comerica Park",23,35
+2936,2020,"Houston Astros","Minute Maid Park",29,31
+2937,2020,"Kansas City Royals","Kauffman Stadium",26,34
+2938,2020,"Los Angeles Angels of Anaheim","Angel Stadium of Anaheim",26,34
+2939,2020,"Los Angeles Dodgers","Dodger Stadium",43,17
+2940,2020,"Miami Marlins","Marlins Park",31,29
+2941,2020,"Milwaukee Brewers","Miller Park",29,31
+2942,2020,"Minnesota Twins","Target Field",36,24
+2943,2020,"New York Yankees","Yankee Stadium III",33,27
+2944,2020,"New York Mets","Citi Field",26,34
+2945,2020,"Oakland Athletics","O.co Coliseum",36,24
+2946,2020,"Philadelphia Phillies","Citizens Bank Park",28,32
+2947,2020,"Pittsburgh Pirates","PNC Park",19,41
+2948,2020,"San Diego Padres","Petco Park",37,23
+2949,2020,"Seattle Mariners","T-Mobile Park",27,33
+2950,2020,"San Francisco Giants","Oracle Park",29,31
+2951,2020,"St. Louis Cardinals","Busch Stadium III",30,28
+2952,2020,"Tampa Bay Rays","Tropicana Field",40,20
+2953,2020,"Texas Rangers","Globe Life Field",22,38
+2954,2020,"Toronto Blue Jays","Sahlen Field",32,28
+2955,2020,"Washington Nationals","Nationals Park",26,34
